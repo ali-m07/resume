@@ -1,9 +1,12 @@
 {
-  "name": "tailwind-final",
+  "name": "cv",
   "version": "0.0.1",
+  "homepage": "https://ali-m07.github.io/cv",
   "scripts": {
     "dev": "vite",
-    "build": "vite build"
+    "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "type": "module",
   "devDependencies": {
