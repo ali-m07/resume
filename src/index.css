@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@media print {
+    .break-after-page {
+      page-break-after: always;
+    }
+  
+    .no-print {
+      display: none !important;
+    }
+  
+    html, body {
+      background: white !important;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+  }
+  
