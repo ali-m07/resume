@@ -136,67 +136,73 @@
     "publications": {
       "title": "Veröffentlichungen & Bücher",
       "journals": {
-        "title": "Fachzeitschriften",
-        "0": {
-          "title": "Zukunftsorientierte unternehmerische Chancen im Bereich Human Resources im Iran basierend auf Technologietrends"
-        },
-        "1": {
-          "title": "Erfahrene vs. Anfänger: Wie Erfahrung die Bewertung von Startups in Accelerator-Programmen verändert",
-          "status": "In der Endrunde der Begutachtung"
-        },
-        "2": {
-          "title": "Die Auswirkungen von wahrgenommener Meritokratie, Vetternwirtschaft und Begünstigung auf Kündigungsabsichten",
-          "status": "In der Begutachtung"
-        },
-        "3": {
-          "title": "Herausforderungen bei der Zusammenarbeit zwischen Accelerators und digitalen Startups im Iran identifizieren"
-        }
-      },
-      "conferencesTitle": "Konferenzbeiträge",
-      "conferences": {
-        "0": {
-          "title": "Was ist Agile HR: Die Revolution des Personalmanagements für Organisationen – Fallstudie",
-          "event": "2. Internationale Konferenz für Politikwissenschaft, Internationale Beziehungen und Transformation"
-        },
-        "1": {
-          "title": "Der Einfluss von ökologischer Nachhaltigkeit und sozialer Verantwortung auf den Erfolg moderner unternehmerischer Investitionen",
-          "event": "1. Internationale Konferenz über Sozialunternehmertum und nachhaltige Entwicklung"
-        },
-        "2": {
-          "title": "Auswirkungen künstlicher Intelligenz auf den nachhaltigen Erfolg digitaler Unternehmungen: Ein Mixed-Methods-Ansatz",
-          "event": "4. Internationale Konferenz für fortgeschrittene Forschung in Management und Geisteswissenschaften"
-        },
-        "3": {
-          "title": "Integration digitaler Kompetenzen in die Unternehmerschulung: Ein umfassender Literaturüberblick",
-          "event": "4. Internationale Konferenz für fortgeschrittene Forschung in Management und Geisteswissenschaften"
-        },
-        "4": {
-          "title": "Faktoren, die zum Scheitern von Startups im iranischen Startup-Ökosystem führen",
-          "event": "17. Internationale Konferenz für modernes Management, Rechnungswesen, Wirtschaft und Bankwesen"
-        },
-        "5": {
-          "title": "Technologische Trends identifizieren und priorisieren, die unternehmerische Chancen im HR-Bereich im Iran prägen",
-          "event": "6. Nationale Konferenz über Unternehmertum"
-        }
-      },
+  "title": "Fachzeitschriften",
+  "items": [
+    {
+      "title": "Zukunftsorientierte unternehmerische Chancen im Bereich Human Resources im Iran basierend auf Technologietrends"
+    },
+    {
+      "title": "Erfahrene vs. Anfänger: Wie Erfahrung die Bewertung von Startups in Accelerator-Programmen verändert",
+      "status": "In der Endrunde der Begutachtung"
+    },
+    {
+      "title": "Die Auswirkungen von wahrgenommener Meritokratie, Vetternwirtschaft und Begünstigung auf Kündigungsabsichten",
+      "status": "In der Begutachtung"
+    },
+    {
+      "title": "Herausforderungen bei der Zusammenarbeit zwischen Accelerators und digitalen Startups im Iran identifizieren"
+    }
+  ]
+},
+  "conferencesTitle": "Konferenzbeiträge",
+"conferences": {
+  "items": [
+    {
+      "title": "Was ist Agile HR: Die Revolution des Personalmanagements für Organisationen – Fallstudie",
+      "event": "2. Internationale Konferenz für Politikwissenschaft, Internationale Beziehungen und Transformation"
+    },
+    {
+      "title": "Der Einfluss von ökologischer Nachhaltigkeit und sozialer Verantwortung auf den Erfolg moderner unternehmerischer Investitionen",
+      "event": "1. Internationale Konferenz über Sozialunternehmertum und nachhaltige Entwicklung"
+    },
+    {
+      "title": "Auswirkungen künstlicher Intelligenz auf den nachhaltigen Erfolg digitaler Unternehmungen: Ein Mixed-Methods-Ansatz",
+      "event": "4. Internationale Konferenz für fortgeschrittene Forschung in Management und Geisteswissenschaften"
+    },
+    {
+      "title": "Integration digitaler Kompetenzen in die Unternehmerschulung: Ein umfassender Literaturüberblick",
+      "event": "4. Internationale Konferenz für fortgeschrittene Forschung in Management und Geisteswissenschaften"
+    },
+    {
+      "title": "Faktoren, die zum Scheitern von Startups im iranischen Startup-Ökosystem führen",
+      "event": "17. Internationale Konferenz für modernes Management, Rechnungswesen, Wirtschaft und Bankwesen"
+    },
+    {
+      "title": "Technologische Trends identifizieren und priorisieren, die unternehmerische Chancen im HR-Bereich im Iran prägen",
+      "event": "6. Nationale Konferenz über Unternehmertum"
+    }
+  ]
+},
       "showMore": "Mehr anzeigen",
       "showLess": "Weniger anzeigen",
       "books": {
-        "title": "Bücher",
-        "0": {
-          "title": "Unternehmerisches Scheitern verstehen",
-          "details": " Autoren: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Verlag, 2023"
-        },
-        "1": {
-          "title": "Die Reise des Unternehmertums: Von Scheitern zum Erfolg",
-          "details": " Autoren: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Verlag, 2024"
-        },
-        "2": {
-          "title": "Digitales Unternehmertum: Management, Systeme und Praxis",
-          "details": " Übersetzt von: Khaleghi, Salajegheh, Mansouri | Kharazmi Verlag, 2024"
-        }
-      }
+  "title": "Bücher",
+  "items": [
+    {
+      "title": "Unternehmerisches Scheitern verstehen",
+      "details": "Autoren: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Verlag, 2023"
     },
+    {
+      "title": "Die Reise des Unternehmertums: Von Scheitern zum Erfolg",
+      "details": "Autoren: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Verlag, 2024"
+    },
+    {
+      "title": "Digitales Unternehmertum: Management, Systeme und Praxis",
+      "details": "Übersetzt von: Khaleghi, Salajegheh, Mansouri | Kharazmi Verlag, 2024"
+    }
+  ]
+}
+},
       "projects": {
         "title": "Wichtige Projekte",
         "items": [

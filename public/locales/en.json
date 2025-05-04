@@ -133,69 +133,75 @@
               }
             ]
           },        
-    "publications": {
-      "title": "Publications & Books",
-      "journals": {
-        "title": "Journal Articles",
-        "0": {
-          "title": "Foresight of Entrepreneurial Opportunities in the Field of Human Resources in Iran Based on Technology Trends"
-        },
-        "1": {
-          "title": "Experienced vs Novice: How Experience Changes Startup Evaluation in Startup Accelerators",
-          "status": "Final-round review"
-        },
-        "2": {
-          "title": "The Impact of Perceived Meritocracy, Favoritism, and Nepotism on Turnover Intentions",
-          "status": "Under review"
-        },
-        "3": {
-          "title": "Identifying Challenges in Collaboration Between Accelerators and Digital Startups in Iran"
-        }
+"publications": {
+  "title": "Publications & Books",
+  "journals": {
+    "title": "Journal Articles",
+    "items": [
+      {
+        "title": "Foresight of Entrepreneurial Opportunities in Human Resources in Iran Based on Technology Trends"
       },
-      "conferencesTitle": "Conference Articles",
-      "conferences": {
-        "0": {
-          "title": "What is Agile HR: Revolutionizing People Management for Organizations – Case Review",
-          "event": "2nd International Conference on Political Science, International Relations, and Transformation"
-        },
-        "1": {
-          "title": "The Impact of Environmental Sustainability and Social Responsibility on the Success and Development of Contemporary Entrepreneurial Investments",
-          "event": "1st International Conference on Social Entrepreneurship and Sustainable Development"
-        },
-        "2": {
-          "title": "Assessing the Impact of Artificial Intelligence on the Sustainable Success of Digital Entrepreneurship: A Mixed-Methods Research Approach",
-          "event": "4th International Conference on Advanced Research in Management and Humanities"
-        },
-        "3": {
-          "title": "Integrating Digital Skills into Entrepreneurship Education: A Comprehensive Literature Review",
-          "event": "4th International Conference on Advanced Research in Management and Humanities"
-        },
-        "4": {
-          "title": "Identifying Factors Leading to the Failure of Startups in Iran's Entrepreneurial Ecosystem",
-          "event": "17th International Conference on Modern Management, Accounting, Economics, and Banking Techniques"
-        },
-        "5": {
-          "title": "Identifying and Prioritizing Technological Trends Shaping Entrepreneurship Opportunities in the Human Resources Sector in Iran",
-          "event": "6th National Conference on Entrepreneurship"
-        }
+      {
+        "title": "Experienced vs. Novice: How Experience Influences Startup Evaluation in Accelerators",
+        "status": "Final-round review"
       },
-      "showMore": "Show More",
-      "showLess": "Show Less",
-      "books": {
-        "title": "Books",
-        "0": {
-          "title": "Understanding Entrepreneurial Failure",
-          "details": " Authors: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Publications, 2023"
-        },
-        "1": {
-          "title": "The Entrepreneurial Journey: From Failure to Success",
-          "details": " Authors: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Publications, 2024"
-        },
-        "2": {
-          "title": "Digital Entrepreneurship: Management, Systems, and Practice",
-          "details": " Translated by: Khaleghi, Salajegheh, Mansouri | Kharazmi Publications, 2024"
-        }
+      {
+        "title": "The Impact of Perceived Meritocracy, Favoritism, and Nepotism on Employee Turnover Intentions",
+        "status": "Under review"
+      },
+      {
+        "title": "Challenges in Collaboration Between Accelerators and Digital Startups in Iran"
       }
+    ]
+  },
+  "conferencesTitle": "Conference Papers",
+  "conferences": {
+    "items": [
+      {
+        "title": "What is Agile HR: Revolutionizing People Management – A Case Study",
+        "event": "2nd International Conference on Political Science, International Relations, and Transformation"
+      },
+      {
+        "title": "Environmental Sustainability and Social Responsibility in Modern Entrepreneurial Success",
+        "event": "1st International Conference on Social Entrepreneurship and Sustainable Development"
+      },
+      {
+        "title": "AI and the Sustainable Success of Digital Entrepreneurship: A Mixed-Methods Study",
+        "event": "4th International Conference on Advanced Research in Management and Humanities"
+      },
+      {
+        "title": "Integrating Digital Competencies into Entrepreneurship Education: A Comprehensive Review",
+        "event": "4th International Conference on Advanced Research in Management and Humanities"
+      },
+      {
+        "title": "Startup Failures in Iran's Entrepreneurial Ecosystem: Key Contributing Factors",
+        "event": "17th International Conference on Modern Management, Accounting, Economics, and Banking Techniques"
+      },
+      {
+        "title": "Technological Trends Shaping Entrepreneurial Opportunities in HR in Iran: A Prioritization Approach",
+        "event": "6th National Conference on Entrepreneurship"
+      }
+    ]
+  },
+  "showMore": "Show More",
+  "showLess": "Show Less",
+  "books": {
+    "title": "Books",
+    "items": [
+      {
+        "title": "Understanding Entrepreneurial Failure",
+        "details": "Authors: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Publications, 2023"
+      },
+      {
+        "title": "The Entrepreneurial Journey: From Failure to Success",
+        "details": "Authors: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Publications, 2024"
+      },
+      {
+        "title": "Digital Entrepreneurship: Management, Systems, and Practice",
+        "details": "Translated by: Khaleghi, Salajegheh, Mansouri | Kharazmi Publications, 2024"
+      }
+    ]
+  }
     },
       "projects": {
         "title": "Key Projects",

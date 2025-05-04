@@ -133,69 +133,75 @@
               }
             ]
           },            
-    "publications": {
-      "title": "Yayınlar ve Kitaplar",
-      "journals": {
-        "title": "Akademik Dergi Makaleleri",
-        "0": {
-          "title": "İran’da İnsan Kaynakları Alanında Girişimcilik Fırsatlarının Teknoloji Trendlerine Dayalı Olarak Öngörülmesi"
-        },
-        "1": {
-          "title": "Deneyimli ve Deneyimsiz: Girişim Hızlandırıcılarda Deneyimin Girişimleri Değerlendirme Üzerindeki Etkisi",
-          "status": "Son değerlendirme aşamasında"
-        },
-        "2": {
-          "title": "Algılanan Liyakat, Kayırmacılık ve Akraba Kayırmacılığının İşten Ayrılma Niyetine Etkisi",
-          "status": "Değerlendirmede"
-        },
-        "3": {
-          "title": "İran'da Hızlandırıcılar ile Dijital Startuplar Arasındaki İşbirliği Zorluklarının Belirlenmesi"
-        }
+"publications": {
+  "title": "Yayınlar ve Kitaplar",
+  "journals": {
+    "title": "Akademik Dergi Makaleleri",
+    "items": [
+      {
+        "title": "İran’da İnsan Kaynakları Alanında Girişimcilik Fırsatlarının Teknoloji Trendlerine Dayalı Olarak Öngörülmesi"
       },
-      "conferencesTitle": "Konferans Bildirileri",
-      "conferences": {
-        "0": {
-          "title": "Agile HR Nedir: Kurumlar İçin İnsan Yönetimini Dönüştürmek – Vaka İncelemesi",
-          "event": "2. Uluslararası Siyaset Bilimi, Uluslararası İlişkiler ve Dönüşüm Konferansı"
-        },
-        "1": {
-          "title": "Çevresel Sürdürülebilirlik ve Sosyal Sorumluluğun Girişimcilik Başarısı Üzerindeki Etkisi",
-          "event": "1. Uluslararası Sosyal Girişimcilik ve Sürdürülebilir Kalkınma Konferansı"
-        },
-        "2": {
-          "title": "Yapay Zekânın Dijital Girişimcilikte Sürdürülebilir Başarıya Etkisi: Karma Yöntem Yaklaşımı",
-          "event": "4. Uluslararası Yönetim ve Beşerî Bilimler Araştırmaları Konferansı"
-        },
-        "3": {
-          "title": "Girişimcilik Eğitimine Dijital Becerilerin Entegrasyonu: Kapsamlı Literatür Taraması",
-          "event": "4. Uluslararası Yönetim ve Beşerî Bilimler Araştırmaları Konferansı"
-        },
-        "4": {
-          "title": "İran’daki Girişimcilik Ekosisteminde Girişimlerin Başarısızlığına Neden Olan Faktörlerin Belirlenmesi",
-          "event": "17. Uluslararası Modern Yönetim, Muhasebe, Ekonomi ve Bankacılık Teknikleri Konferansı"
-        },
-        "5": {
-          "title": "İran’da İnsan Kaynakları Sektöründe Girişimcilik Fırsatlarını Şekillendiren Teknolojik Eğilimlerin Belirlenmesi ve Önceliklendirilmesi",
-          "event": "6. Ulusal Girişimcilik Konferansı"
-        }
+      {
+        "title": "Deneyimli ve Deneyimsiz: Girişim Hızlandırıcılarda Deneyimin Girişimleri Değerlendirme Üzerindeki Etkisi",
+        "status": "Son değerlendirme aşamasında"
       },
-      "showMore": "Daha Fazla Göster",
-      "showLess": "Daha Az Göster",
-      "books": {
-        "title": "Kitaplar",
-        "0": {
-          "title": "Girişimcilik Başarısızlığını Anlamak",
-          "details": " Yazarlar: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Yayıncılık, 2023"
-        },
-        "1": {
-          "title": "Girişimcilik Yolculuğu: Başarısızlıktan Başarıya",
-          "details": " Yazarlar: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Yayıncılık, 2024"
-        },
-        "2": {
-          "title": "Dijital Girişimcilik: Yönetim, Sistemler ve Uygulama",
-          "details": " Çevirenler: Khaleghi, Salajegheh, Mansouri | Kharazmi Yayınları, 2024"
-        }
+      {
+        "title": "Algılanan Liyakat, Kayırmacılık ve Akraba Kayırmacılığının İşten Ayrılma Niyetine Etkisi",
+        "status": "Değerlendirmede"
+      },
+      {
+        "title": "İran'da Hızlandırıcılar ile Dijital Startuplar Arasındaki İşbirliği Zorluklarının Belirlenmesi"
       }
+    ]
+  },
+  "conferencesTitle": "Konferans Bildirileri",
+  "conferences": {
+    "items": [
+      {
+        "title": "Agile HR Nedir: Kurumlar İçin İnsan Yönetimini Dönüştürmek – Vaka İncelemesi",
+        "event": "2. Uluslararası Siyaset Bilimi, Uluslararası İlişkiler ve Dönüşüm Konferansı"
+      },
+      {
+        "title": "Çevresel Sürdürülebilirlik ve Sosyal Sorumluluğun Girişimcilik Başarısı Üzerindeki Etkisi",
+        "event": "1. Uluslararası Sosyal Girişimcilik ve Sürdürülebilir Kalkınma Konferansı"
+      },
+      {
+        "title": "Yapay Zekânın Dijital Girişimcilikte Sürdürülebilir Başarıya Etkisi: Karma Yöntem Yaklaşımı",
+        "event": "4. Uluslararası Yönetim ve Beşerî Bilimler Araştırmaları Konferansı"
+      },
+      {
+        "title": "Girişimcilik Eğitimine Dijital Becerilerin Entegrasyonu: Kapsamlı Literatür Taraması",
+        "event": "4. Uluslararası Yönetim ve Beşerî Bilimler Araştırmaları Konferansı"
+      },
+      {
+        "title": "İran’daki Girişimcilik Ekosisteminde Girişimlerin Başarısızlığına Neden Olan Faktörlerin Belirlenmesi",
+        "event": "17. Uluslararası Modern Yönetim, Muhasebe, Ekonomi ve Bankacılık Teknikleri Konferansı"
+      },
+      {
+        "title": "İran’da İnsan Kaynakları Sektöründe Girişimcilik Fırsatlarını Şekillendiren Teknolojik Eğilimlerin Belirlenmesi ve Önceliklendirilmesi",
+        "event": "6. Ulusal Girişimcilik Konferansı"
+      }
+    ]
+  },
+  "showMore": "Daha Fazla Göster",
+  "showLess": "Daha Az Göster",
+  "books": {
+    "title": "Kitaplar",
+    "items": [
+      {
+        "title": "Girişimcilik Başarısızlığını Anlamak",
+        "details": "Yazarlar: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Yayıncılık, 2023"
+      },
+      {
+        "title": "Girişimcilik Yolculuğu: Başarısızlıktan Başarıya",
+        "details": "Yazarlar: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Yayıncılık, 2024"
+      },
+      {
+        "title": "Dijital Girişimcilik: Yönetim, Sistemler ve Uygulama",
+        "details": "Çevirenler: Khaleghi, Salajegheh, Mansouri | Kharazmi Yayınları, 2024"
+      }
+    ]
+  }
     },
       "projects": {
         "title": "Ana Projeler",
