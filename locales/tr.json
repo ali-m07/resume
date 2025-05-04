@@ -1,0 +1,264 @@
+{
+  "pdf": {
+  "download": "PDF Olarak İndir"
+},
+    "header": {
+      "subtitle": "People Analytics ve Dijital İK Uzmanı | Gelecek Çalışmaları Doktora Adayı",
+      "description": "İK Teknolojileri, İş Zekası, Stratejik Öngörü ve Veri Odaklı İK İnovasyonu alanlarında uzmanlık"
+    },  
+  "aboutMe": {
+    "title": "Hakkımda",
+    "text": "Veri, teknoloji ve stratejik öngörüyü birleştirerek işin geleceğini yeniden şekillendirmeye tutkulu, ileri görüşlü bir People Analytics ve Dijital İK uzmanıyım. Gelecek Çalışmaları alanında doktora öğrencisiyim ve teknoloji trendlerinin emek, organizasyonlar ve yetenek ekosistemleri üzerindeki etkisini araştırıyorum. 4+ yıllık İK analitiği, dijital dönüşüm ve akademik araştırma deneyimimle iş zekası ve yenilikçi bir bakış açısını bir araya getiriyorum. Özellikle Türkiye gibi dinamik ortamlarda teknoloji odaklı İK ekiplerinde yeni zorluklara açığım."
+  },
+  "contact": {
+    "title": "Benimle İletişime Geçin",
+    "linkedin": "LinkedIn Profili",
+    "github": "GitHub Profili",
+    "researchgate": "ResearchGate",
+    "scholar": "Google Akademik"
+  },
+    "experience": {
+      "title": "Profesyonel Deneyim",
+      "snapp": {
+        "title": "Snapp! – People Analytics Uzmanı",
+        "location": "Tahran, İran | Haz 2023 – Günümüz",
+        "points": [
+          "Veri ambarı kuruldu ve İK süreçleri otomatikleştirildi (döngü süresi ↓ %40)",
+          "Çalışan sirkülasyonu ve bağlılık eğilimlerini izlemek için panolar geliştirildi",
+          "Gallup Q12 ve AON verileri analiz edildi (çalışan bağlılığı ↑ %5)",
+          "Terfi verileri iş hedefleriyle hizalandı",
+          "<strong>Jira</strong> iş akışları özelleştirildi ve otomasyon kuralları geliştirildi, İK süreçlerinde verimlilik %30 artırıldı",
+          "<strong>Jira</strong> Confluence ve diğer araçlarla entegre edildi, ekipler arası işbirliği ve veri görünürlüğü iyileştirildi",
+          "<strong>BPMS</strong> iş akışları geliştirildi, işlem süresi %40 azaltıldı, departman genelinde verimlilik artırıldı"
+        ]
+      },
+      "bodyspinner": {
+        "title": "Bodyspinner – People Analytics Uzmanı (Yarı Zamanlı)",
+        "location": "Tahran, İran | Kas 2022 – Eyl 2023",
+        "points": [
+          "İK panoları tasarlandı (raporlama süresi ↓ %40, kullanım oranı ↑ %15)",
+          "İK metrik doğruluğu analiz denetimleriyle %25 artırıldı",
+          "HRIS ve özel destek sistemi birlikte geliştirildi (çalışma süresi %99)",
+          "<strong>BPMS</strong> süreçleri optimize edildi, manuel veri giriş hataları %20 azaltıldı",
+          "<strong>Jira</strong> yapılandırmaları optimize edildi, otomasyon sayesinde manuel işler azaltıldı, süreç hızı %30 artırıldı"
+        ]
+      },
+      "arsh": {
+        "title": "Arsh – İK Dijital Dönüşüm Uzmanı",
+        "location": "Tahran, İran | Ara 2021 – Ara 2022",
+        "points": [
+          "İşe alım, uyumlaştırma ve değerlendirme sistemleri yeniden tasarlandı",
+          "Çalışan verimliliği %25 artırıldı, işe alım süresi %20 azaltıldı",
+          "OKR, KPI ve organizasyonel analizlerle rol netliği artırıldı"
+        ]
+      },
+      "karencrowd": {
+        "title": "KarenCrowd – İş Değerlendirme Uzmanı",
+        "location": "Tahran, İran | Ara 2020 – Ara 2021",
+        "points": [
+          "Hedefe yönelik stratejilerle %40 daha fazla proje başarısı sağlandı",
+          "Pazar araştırmaları ile yatırım kararlarında doğruluk %30 artırıldı",
+          "Yüksek potansiyele sahip girişimler için fon sağlandı (%25 daha fazla lansman başarısı)",
+          "Yatırım sürecinde güveni artırmak için risk ve finansal analizler yapıldı"
+        ]
+      }
+    },
+      "achievements": {
+        "title": "Temel Başarılar",
+        "items": [
+          "Snapp! şirketinde iş akışı otomasyonu ve gerçek zamanlı panolar sayesinde İK karar verme hızı <strong>%40</strong> artırıldı.",
+          "Gallup Q12 ve AON verilerinin ileri düzey analiziyle çalışan bağlılığı <strong>%5</strong> artırıldı.",
+          "Bodyspinner'da denetim çerçeveleri ve veri yönetişimi uygulamalarıyla İK veri doğruluğu <strong>%25</strong> artırıldı.",
+          "HRIS ve %99 çalışma süresiyle özel bilet sistemi geliştirildi ve devreye alındı (Bodyspinner).",
+          "Arsh şirketinde işe alım süreci yeniden tasarlanarak <strong>%20</strong> daha kısa sürede işe alım ve <strong>%25</strong> daha yüksek çalışan verimliliği sağlandı.",
+          "KarenCrowd'da girişim değerlendirmeleriyle <strong>%25</strong> daha yüksek fon sağlama başarısı elde edildi."
+        ]
+      },    
+      "skills": {
+        "title": "Yetenekler",
+        "technical": {
+          "title": "Teknik Yetenekler",
+          "items": [
+            "Power BI, Excel, SQL, Python (Pandas, NumPy)",
+            "HRIS, BPMS, SPSS, MAXQDA",
+            "SAP HR, Logo ERP, Nebim"
+          ]
+        },
+        "business": {
+          "title": "İş ve Stratejik Yetenekler",
+          "items": [
+            "Kurumsal Teşhis",
+            "Stratejik Öngörü ve Planlama",
+            "Performans Yönetimi",
+            "Senaryo Tasarımı ve OKR'lar"
+          ]
+        }
+      },
+        "education": {
+          "title": "Eğitim",
+          "degrees": [
+            {
+              "title": "Gelecek Çalışmaları Doktora Programı (Devam ediyor)",
+              "institution": "Tahran Üniversitesi – Tahran, İran | 2024 – Günümüz"
+            },
+            {
+              "title": "İK Yönetimi Yüksek Lisansı (MBA)",
+              "institution": "Kharazmi Üniversitesi – Tahran, İran | 2020 – 2023",
+              "description": "Tez: İK Teknoloji Trendleri ve Girişimcilik Fırsatları"
+            },
+            {
+              "title": "Elektrik Mühendisliği Lisans Derecesi",
+              "institution": "Kum Teknoloji Üniversitesi – Kum, İran | 2016 – 2020",
+              "description": "Proje: Arduino ile GPS Tasarımı"
+            }
+          ]
+        },
+          "research": {
+            "title": "Araştırma Projeleri",
+            "items": [
+              {
+                "title": "Teknoloji Mega Trendleri Projesi",
+                "institution": "Tahran Üniversitesi | Kas 2024 – Günümüz",
+                "description": "İşin geleceği üzerindeki etkileriyle birlikte küresel teknoloji trendlerini analiz eden bir öngörü projesine liderlik ediliyor."
+              },
+              {
+                "title": "Dijital Girişimcilik ve İnovasyon",
+                "institution": "Kharazmi Üniversitesi | Şub 2022 – Günümüz",
+                "description": "Dr. Armin Khaleghi danışmanlığında araştırma asistanı. Dijital ekosistemler, girişim değerlendirmesi ve gelecek eğilimleri üzerine çalışılıyor."
+              },
+              {
+                "title": "2035'e Stratejik Yol Haritası: Gelişmekte Olan Ülkelerde İK",
+                "institution": "Ortak Çalışma (Devam Ediyor)",
+                "description": "Gelişmekte olan ülkelerde insan kaynakları yönetiminin evrimi üzerine stratejik öngörü raporunun ortak yazarı."
+              }
+            ]
+          },            
+"publications": {
+  "title": "Yayınlar ve Kitaplar",
+  "journals": {
+    "title": "Akademik Dergi Makaleleri",
+    "items": [
+      {
+        "title": "İran’da İnsan Kaynakları Alanında Girişimcilik Fırsatlarının Teknoloji Trendlerine Dayalı Olarak Öngörülmesi"
+      },
+      {
+        "title": "Deneyimli ve Deneyimsiz: Girişim Hızlandırıcılarda Deneyimin Girişimleri Değerlendirme Üzerindeki Etkisi",
+        "status": "Son değerlendirme aşamasında"
+      },
+      {
+        "title": "Algılanan Liyakat, Kayırmacılık ve Akraba Kayırmacılığının İşten Ayrılma Niyetine Etkisi",
+        "status": "Değerlendirmede"
+      },
+      {
+        "title": "İran'da Hızlandırıcılar ile Dijital Startuplar Arasındaki İşbirliği Zorluklarının Belirlenmesi"
+      }
+    ]
+  },
+  "conferencesTitle": "Konferans Bildirileri",
+  "conferences": {
+    "items": [
+      {
+        "title": "Agile HR Nedir: Kurumlar İçin İnsan Yönetimini Dönüştürmek – Vaka İncelemesi",
+        "event": "2. Uluslararası Siyaset Bilimi, Uluslararası İlişkiler ve Dönüşüm Konferansı"
+      },
+      {
+        "title": "Çevresel Sürdürülebilirlik ve Sosyal Sorumluluğun Girişimcilik Başarısı Üzerindeki Etkisi",
+        "event": "1. Uluslararası Sosyal Girişimcilik ve Sürdürülebilir Kalkınma Konferansı"
+      },
+      {
+        "title": "Yapay Zekânın Dijital Girişimcilikte Sürdürülebilir Başarıya Etkisi: Karma Yöntem Yaklaşımı",
+        "event": "4. Uluslararası Yönetim ve Beşerî Bilimler Araştırmaları Konferansı"
+      },
+      {
+        "title": "Girişimcilik Eğitimine Dijital Becerilerin Entegrasyonu: Kapsamlı Literatür Taraması",
+        "event": "4. Uluslararası Yönetim ve Beşerî Bilimler Araştırmaları Konferansı"
+      },
+      {
+        "title": "İran’daki Girişimcilik Ekosisteminde Girişimlerin Başarısızlığına Neden Olan Faktörlerin Belirlenmesi",
+        "event": "17. Uluslararası Modern Yönetim, Muhasebe, Ekonomi ve Bankacılık Teknikleri Konferansı"
+      },
+      {
+        "title": "İran’da İnsan Kaynakları Sektöründe Girişimcilik Fırsatlarını Şekillendiren Teknolojik Eğilimlerin Belirlenmesi ve Önceliklendirilmesi",
+        "event": "6. Ulusal Girişimcilik Konferansı"
+      }
+    ]
+  },
+  "showMore": "Daha Fazla Göster",
+  "showLess": "Daha Az Göster",
+  "books": {
+    "title": "Kitaplar",
+    "items": [
+      {
+        "title": "Girişimcilik Başarısızlığını Anlamak",
+        "details": "Yazarlar: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Yayıncılık, 2023"
+      },
+      {
+        "title": "Girişimcilik Yolculuğu: Başarısızlıktan Başarıya",
+        "details": "Yazarlar: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Yayıncılık, 2024"
+      },
+      {
+        "title": "Dijital Girişimcilik: Yönetim, Sistemler ve Uygulama",
+        "details": "Çevirenler: Khaleghi, Salajegheh, Mansouri | Kharazmi Yayınları, 2024"
+      }
+    ]
+  }
+    },
+      "projects": {
+        "title": "Ana Projeler",
+        "items": [
+          {
+            "title": "Teknolojik Mega Trendlerin Öngörüsü @ Tahran Üniversitesi",
+            "description": "Küresel teknolojik mega trendleri ve bunların işin geleceği ve yenilik üzerindeki etkilerini analiz eden stratejik bir öngörü projesine liderlik edildi. Yenilik haritaları geliştirildi ve akademik ve endüstri paydaşlarına sunuldu."
+          },
+          {
+            "title": "Girişim Ekosistemlerinde Dijital Yenilik @ Kharazmi Üniversitesi",
+            "description": "Girişim hızlandırıcıları ve dijital girişimcilik üzerine Dr. Armin Khaleghi gözetiminde araştırma yapıldı. HR Tech ve girişim büyümesinde gelecek trendleri ve yatırım fırsatlarını belirlemeye yönelik öngörü tabanlı değerlendirme modelleri geliştirildi."
+          },
+          {
+            "title": "İK Süreç Otomasyonu @ Snapp!",
+            "description": "Bir veri ambarı geliştirildi ve temel İK süreçleri otomatikleştirildi, karar verme hızı %40 artırıldı. Jira ve BPMS süreçleri optimize edilerek verimlilik artırıldı ve döngü süresi azaltıldı."
+          },
+          {
+            "title": "İK Gösterge Paneli Sistemi @ Bodyspinner",
+            "description": "HRIS ile entegre Power BI panoları tasarlandı ve uygulandı. Rapor oluşturma süresi %40 azaltıldı, veri kullanımı %15 artırıldı. %99 çalışma süresine sahip özel Jira tabanlı destek sistemi oluşturuldu."
+          },
+          {
+            "title": "İşe Alım Optimizasyonu @ Arsh",
+            "description": "İşe alım süreci yeniden tasarlandı, işe alım süresi %20 azaldı, çalışan performansı %25 iyileştirildi. OKR tabanlı performans sistemi uygulandı."
+          },
+          {
+            "title": "Girişim Değerlendirme ve Yatırım Analizi @ KarenCrowd",
+            "description": "Girişim değerlendirmeleri ve pazar araştırmaları yapıldı, yatırım karar doğruluğu %30 artırıldı. Başarılı girişimler için fon sağlandı, proje başarı oranları %40 yükseltildi."
+          }
+        ]
+      },
+        "languages": {
+          "title": "Diller ve Hareketlilik",
+          "items": [
+            {
+              "label": "İngilizce:",
+              "value": "Akıcı (Profesyonel Çalışma Yeterliliği – C1)"
+            },
+            {
+              "label": "Farsça:",
+              "value": "Ana Dil"
+            },
+            {
+              "label": "Almanca:",
+              "value": "Ön-Orta Seviye (A2)"
+            },
+            {
+              "label": "Türkçe:",
+              "value": "Yeni Başlayan – 2025 sonuna kadar B1 hedefi"
+            },
+            {
+              "label": "Hareketlilik:",
+              "value": "Türkiye’ye taşınmaya açık (İstanbul, Ankara), Hibrit/Uzak çalışma mümkün"
+            },
+            {
+              "label": "Kültürel Uyum:",
+              "value": "Türk iş kültürü, hiyerarşi ve işbirliği normlarına aşina"
+            }
+          ]
+        }      
+}
