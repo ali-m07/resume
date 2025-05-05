@@ -3,12 +3,12 @@
   "download": "Download as PDF"
 },
     "header": {
-      "subtitle": "People Analytics & Digital HR Specialist | PhD Candidate in Futures Studies",
-      "description": "Expertise in HR Tech, BI, Strategic Foresight & Data-driven HR Innovation"
-    },  
+  "subtitle": "HR-Focused Data Scientist | PhD Candidate in Futures Studies",
+  "description": "Expertise in Data Science, BI, Jira, Strategic Foresight & Digital HR Transformation"
+},  
   "aboutMe": {
     "title": "About Me",
-    "text": "I'm a forward-thinking People Analytics & Digital HR Specialist with a passion for combining data, technology, and strategic foresight to reshape the future of work. As a Ph.D. candidate in Futures Studies, I explore how tech trends impact labor, organizations, and talent ecosystems. With 4+ years of experience in HR analytics, digital transformation, and academic research, I bring a unique blend of business acumen and innovation mindset. Open to new challenges in tech-driven HR teams, especially in dynamic environments like Turkey."
+    "text": "I'm a Data Scientist specialized in HR, passionate about leveraging data, technology, and strategic foresight to transform how organizations understand people, performance, and the future of work. As a Ph.D. candidate in Futures Studies, I analyze how tech trends shape labor and talent ecosystems. With 4+ years of hands-on experience in HR analytics, digital transformation, and agile project tools like Jira, I bring both technical depth and business acumen. Open to global opportunities in Europe, North America, or other innovation-driven regions."
   },
   "contact": {
     "title": "Contact Me",
@@ -20,27 +20,27 @@
     "experience": {
       "title": "Professional Experience",
       "snapp": {
-        "title": "Snapp! – People Analytics Specialist",
+        "title": "Snapp! – Data Scientist (HR Domain)",
         "location": "Tehran, Iran | Jun 2023 – Present",
         "points": [
           "Built data warehouse and automated HR workflows (cycle time ↓ 40%)",
           "Developed dashboards to monitor turnover and engagement trends",
           "Analyzed Gallup Q12 and AON data (employee engagement ↑ 5%)",
           "Aligned promotion data with business goals",
-          "<strong>Enhanced and customized Jira</strong> workflows and automation rules to streamline HR processes, increasing operational efficiency by 30%",
-          "Integrated <strong>Jira</strong> with Confluence and other tools to improve cross-team collaboration and data visibility",
-          "Improved <strong>BPMS</strong> workflows, reducing process cycle time by 40% and enhancing overall departmental efficiency"
+          "Enhanced and customized Jira workflows and automation rules to streamline HR processes, increasing operational efficiency by 30%",
+          "Integrated Jira with Confluence and other tools to improve cross-team collaboration and data visibility",
+          "Improved BPMS workflows, reducing process cycle time by 40% and enhancing overall departmental efficiency"
         ]
       },
       "bodyspinner": {
-        "title": "Bodyspinner – People Analytics Specialist (Part-Time)",
+        "title": "Bodyspinner – Data Scientist (HR Domain, Part-Time)",
         "location": "Tehran, Iran | Nov 2022 – Sep 2023",
         "points": [
           "Designed HR dashboards (reporting effort ↓ 40%, adoption ↑ 15%)",
           "Improved HR metric accuracy by 25% through analytics audits",
           "Co-developed HRIS and custom ticketing system (uptime 99%)",
-          "Enhanced <strong>BPMS</strong> processes to streamline HR operations and reduce manual data entry errors by 20%",
-          "Optimized <strong>Jira</strong> configurations and automated processes, reducing manual tasks and improving workflow speed by 30%"
+          "Enhanced BPMS processes to streamline HR operations and reduce manual data entry errors by 20%",
+          "Optimized Jira configurations and automated processes, reducing manual tasks and improving workflow speed by 30%"
         ]
       },
       "arsh": {
@@ -66,12 +66,12 @@
       "achievements": {
         "title": "Key Achievements",
         "items": [
-          "Improved HR decision-making speed by <strong>40%</strong> through workflow automation and real-time dashboards at Snapp!",
-          "Boosted employee engagement by <strong>5%</strong> via advanced analysis of Gallup Q12 and AON data at Snapp!",
-          "Raised HR data accuracy by <strong>25%</strong> through audit frameworks and data governance practices at Bodyspinner.",
-          "Developed and deployed HRIS and custom ticketing system with <strong>99%</strong> uptime at Bodyspinner.",
-          "Reduced <strong>time-to-hire by 20%</strong> and improved employee productivity by <strong>25%</strong> through redesigned recruitment and evaluation frameworks at Arsh.",
-          "Secured <strong>25% higher funding success rate</strong> by evaluating startup viability and business potential at KarenCrowd."
+          "Improved HR decision-making speed by 40% through workflow automation and real-time dashboards at Snapp!",
+          "Boosted employee engagement by 5% via advanced analysis of Gallup Q12 and AON data at Snapp!",
+          "Raised HR data accuracy by 25% through audit frameworks and data governance practices at Bodyspinner.",
+          "Developed and deployed HRIS and custom ticketing system with 99% uptime at Bodyspinner.",
+          "Reduced time-to-hire by 20% and improved employee productivity by 25% through redesigned recruitment and evaluation frameworks at Arsh.",
+          "Secured 25% higher funding success rate by evaluating startup viability and business potential at KarenCrowd."
         ]
       },    
       "skills": {
@@ -80,6 +80,7 @@
           "title": "Technical Skills",
           "items": [
             "Power BI, Excel, SQL, Python (Pandas, NumPy)",
+            "Jira (Workflow Automation & Configuration)",
             "HRIS, BPMS, SPSS, MAXQDA",
             "SAP HR, Logo ERP, Nebim"
           ]
@@ -253,12 +254,16 @@
             },
             {
               "label": "Mobility:",
-              "value": "Open to relocate to Turkey (Istanbul, Ankara), Hybrid/Remote available"
+              "value": "Open to relocate to Europe (Germany, Netherlands), North America, or Canada – Hybrid/Remote available"
+            },
+            {
+              "label": "Work Eligibility:",
+              "value": "Eligible for visa sponsorship – Interested in Blue Card/Startup Visa programs"
             },
             {
               "label": "Cultural Fit:",
-              "value": "Familiar with Turkish work culture, hierarchy, and collaboration norms"
-            }
+              "value": "Familiar with international work cultures, agile teams, and cross-border collaboration"
+            }            
           ]
         }      
 }

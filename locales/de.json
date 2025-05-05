@@ -3,12 +3,12 @@
   "download": "Als PDF Herunterladen"
 },
     "header": {
-      "subtitle": "Spezialist für People Analytics & Digitale HR | Doktorand in Zukunftsforschung",
-      "description": "Expertise in HR-Tech, BI, strategischer Vorausschau & datengesteuerter HR-Innovation"
-    },  
+  "subtitle": "Data Scientist mit HR-Fokus | Doktorand der Zukunftsforschung",
+  "description": "Expertise in Data Science, BI, Jira, Strategischer Vorausschau & Digitaler HR-Transformation"
+},  
   "aboutMe": {
     "title": "Über mich",
-    "text": "Ich bin ein zukunftsorientierter Spezialist für People Analytics und digitale HR mit einer Leidenschaft für die Verbindung von Daten, Technologie und strategischer Voraussicht, um die Zukunft der Arbeit neu zu gestalten. Als Doktorand im Bereich Zukunftsforschung untersuche ich, wie technologische Trends Arbeit, Organisationen und Talentökosysteme beeinflussen. Mit über 4 Jahren Erfahrung in HR-Analytics, digitaler Transformation und akademischer Forschung bringe ich eine einzigartige Kombination aus Geschäftssinn und Innovationsgeist mit. Ich bin offen für neue Herausforderungen in technologiegetriebenen HR-Teams, besonders in dynamischen Umfeldern wie der Türkei."
+    "text": "Ich bin ein Data Scientist mit Spezialisierung auf HR und habe eine Leidenschaft dafür, Daten, Technologie und strategische Vorausschau zu nutzen, um die Art und Weise zu transformieren, wie Organisationen Menschen, Leistung und die Zukunft der Arbeit verstehen. Als Doktorand im Bereich Zukunftsforschung analysiere ich, wie technologische Trends Arbeit und Talentökosysteme beeinflussen. Mit über 4 Jahren praktischer Erfahrung in HR-Analytics, digitaler Transformation und agilen Tools wie Jira bringe ich sowohl technisches Know-how als auch unternehmerisches Denken mit. Offen für internationale Möglichkeiten in Europa, Nordamerika oder anderen innovationsgetriebenen Regionen."
   },
   "contact": {
     "title": "Kontaktiere mich",
@@ -20,27 +20,27 @@
     "experience": {
       "title": "Berufserfahrung",
       "snapp": {
-        "title": "Snapp! – Spezialist für People Analytics",
+        "title": "Snapp! – Data Scientist (HR-Bereich)",
         "location": "Teheran, Iran | Juni 2023 – Heute",
         "points": [
           "Datenlager aufgebaut und HR-Workflows automatisiert (Zykluszeit ↓ 40%)",
           "Dashboards zur Überwachung von Fluktuations- und Engagement-Trends entwickelt",
           "Gallup Q12- und AON-Daten analysiert (Mitarbeiterengagement ↑ 5%)",
           "Beförderungsdaten mit Geschäftszielen abgestimmt",
-          "<strong>Jira</strong>-Workflows angepasst und Automatisierungsregeln erstellt, wodurch die Effizienz um 30% gesteigert wurde",
-          "<strong>Jira</strong> in Confluence und andere Tools integriert, um die teamübergreifende Zusammenarbeit und Datentransparenz zu verbessern",
-          "<strong>BPMS</strong>-Workflows verbessert, Zykluszeiten um 40% reduziert und Abteilungseffizienz gesteigert"
+          "Jira Workflows angepasst und Automatisierungsregeln erstellt, wodurch die Effizienz um 30% gesteigert wurde",
+          "Jira in Confluence und andere Tools integriert, um die teamübergreifende Zusammenarbeit und Datentransparenz zu verbessern",
+          "BPMS-Workflows verbessert, Zykluszeiten um 40% reduziert und Abteilungseffizienz gesteigert"
         ]
       },
       "bodyspinner": {
-        "title": "Bodyspinner – Spezialist für People Analytics (Teilzeit)",
+        "title": "Bodyspinner – Data Scientist (HR-Bereich, Teilzeit)",
         "location": "Teheran, Iran | Nov 2022 – Sep 2023",
         "points": [
           "HR-Dashboards entworfen (Berichtsaufwand ↓ 40%, Nutzung ↑ 15%)",
           "Genauigkeit von HR-Metriken durch Audits um 25% verbessert",
           "HRIS und maßgeschneidertes Ticketsystem gemeinsam entwickelt (Verfügbarkeit 99%)",
-          "<strong>BPMS</strong>-Prozesse optimiert, manuelle Eingabefehler um 20% reduziert",
-          "<strong>Jira</strong>-Konfigurationen und Automatisierungen verbessert, Aufgaben reduziert und Workflowgeschwindigkeit um 30% gesteigert"
+          "BPMS-Prozesse optimiert, manuelle Eingabefehler um 20% reduziert",
+          "Jira-Konfigurationen und Automatisierungen verbessert, Aufgaben reduziert und Workflowgeschwindigkeit um 30% gesteigert"
         ]
       },
       "arsh": {
@@ -66,12 +66,12 @@
       "achievements": {
         "title": "Wichtige Erfolge",
         "items": [
-          "Bei Snapp! wurde die Geschwindigkeit der HR-Entscheidungsfindung durch Workflow-Automatisierung und Echtzeit-Dashboards um <strong>40%</strong> verbessert.",
-          "Mitarbeiterengagement wurde durch fortgeschrittene Analysen von Gallup Q12- und AON-Daten bei Snapp! um <strong>5%</strong> gesteigert.",
-          "Die Genauigkeit von HR-Daten wurde bei Bodyspinner durch Audit-Frameworks und Daten-Governance-Praktiken um <strong>25%</strong> erhöht.",
-          "HRIS und ein benutzerdefiniertes Ticketsystem mit <strong>99%</strong> Betriebszeit wurden bei Bodyspinner entwickelt und implementiert.",
-          "Bei Arsh wurde die Einstellungszeit um <strong>20%</strong> verkürzt und die Mitarbeiterproduktivität um <strong>25%</strong> verbessert durch überarbeitete Rekrutierungs- und Bewertungssysteme.",
-          "Bei KarenCrowd wurde durch Bewertung der Start-up-Fähigkeit und Geschäftspotenziale eine <strong>25%</strong> höhere Erfolgsquote bei der Finanzierung erreicht."
+          "Bei Snapp! wurde die Geschwindigkeit der HR-Entscheidungsfindung durch Workflow-Automatisierung und Echtzeit-Dashboards um 40% verbessert.",
+          "Mitarbeiterengagement wurde durch fortgeschrittene Analysen von Gallup Q12- und AON-Daten bei Snapp! um 5% gesteigert.",
+          "Die Genauigkeit von HR-Daten wurde bei Bodyspinner durch Audit-Frameworks und Daten-Governance-Praktiken um 25% erhöht.",
+          "HRIS und ein benutzerdefiniertes Ticketsystem mit 99% Betriebszeit wurden bei Bodyspinner entwickelt und implementiert.",
+          "Bei Arsh wurde die Einstellungszeit um 20% verkürzt und die Mitarbeiterproduktivität um 25% verbessert durch überarbeitete Rekrutierungs- und Bewertungssysteme.",
+          "Bei KarenCrowd wurde durch Bewertung der Start-up-Fähigkeit und Geschäftspotenziale eine 25% höhere Erfolgsquote bei der Finanzierung erreicht."
         ]
       },    
       "skills": {
@@ -80,6 +80,7 @@
           "title": "Technische Fähigkeiten",
           "items": [
             "Power BI, Excel, SQL, Python (Pandas, NumPy)",
+            "Jira (Workflow-Automatisierung & Konfiguration)",
             "HRIS, BPMS, SPSS, MAXQDA",
             "SAP HR, Logo ERP, Nebim"
           ]
@@ -253,12 +254,16 @@
             },
             {
               "label": "Mobilität:",
-              "value": "Bereit zur Umsiedlung nach Türkei (Istanbul, Ankara), Hybrid/Remote möglich"
+              "value": "Offen für eine Relocation nach Europa (Deutschland, Niederlande), Nordamerika oder Kanada – Hybrid/Remote möglich"
             },
             {
+              "label": "Arbeitserlaubnis:",
+              "value": "Bereit für Visumsponsoring – Interesse an Blue Card / Start-up Visa Programmen"
+            },            
+            {
               "label": "Kulturelle Passung:",
-              "value": "Vertraut mit der türkischen Arbeitskultur, Hierarchie und Kooperationsnormen"
-            }
+              "value": "Vertraut mit internationalen Arbeitskulturen, agilen Teams und grenzüberschreitender Zusammenarbeit"
+            }            
           ]
         }      
 }

@@ -2,13 +2,13 @@
   "pdf": {
   "download": "PDF Olarak İndir"
 },
-    "header": {
-      "subtitle": "People Analytics ve Dijital İK Uzmanı | Gelecek Çalışmaları Doktora Adayı",
-      "description": "İK Teknolojileri, İş Zekası, Stratejik Öngörü ve Veri Odaklı İK İnovasyonu alanlarında uzmanlık"
-    },  
+"header": {
+  "subtitle": "İK Odaklı Veri Bilimci | Gelecek Çalışmaları Doktora Adayı",
+  "description": "Veri Bilimi, İş Zekâsı (BI), Jira, Stratejik Öngörü ve Dijital İK Dönüşümünde Uzmanlık"
+},  
   "aboutMe": {
     "title": "Hakkımda",
-    "text": "Veri, teknoloji ve stratejik öngörüyü birleştirerek işin geleceğini yeniden şekillendirmeye tutkulu, ileri görüşlü bir People Analytics ve Dijital İK uzmanıyım. Gelecek Çalışmaları alanında doktora öğrencisiyim ve teknoloji trendlerinin emek, organizasyonlar ve yetenek ekosistemleri üzerindeki etkisini araştırıyorum. 4+ yıllık İK analitiği, dijital dönüşüm ve akademik araştırma deneyimimle iş zekası ve yenilikçi bir bakış açısını bir araya getiriyorum. Özellikle Türkiye gibi dinamik ortamlarda teknoloji odaklı İK ekiplerinde yeni zorluklara açığım."
+    "text": "İnsan kaynakları alanında uzmanlaşmış bir Veri Bilimcisiyim. Veriyi, teknolojiyi ve stratejik öngörüleri birleştirerek organizasyonların insanı, performansı ve işin geleceğini nasıl anladığını dönüştürmeye odaklanıyorum. Gelecek Çalışmaları alanında doktora yapıyor, teknoloji trendlerinin emek piyasası ve yetenek ekosistemlerini nasıl şekillendirdiğini araştırıyorum. 4+ yıllık HR analitiği, dijital dönüşüm ve Jira gibi çevik proje araçlarında derin deneyimimle teknik uzmanlık ve iş bilgeliğini bir araya getiriyorum. Avrupa, Kuzey Amerika ve diğer yenilik odaklı bölgelerdeki küresel fırsatlara açığım."
   },
   "contact": {
     "title": "Benimle İletişime Geçin",
@@ -20,27 +20,27 @@
     "experience": {
       "title": "Profesyonel Deneyim",
       "snapp": {
-        "title": "Snapp! – People Analytics Uzmanı",
+        "title": "Snapp! – Veri Bilimci (İK Alanı)",
         "location": "Tahran, İran | Haz 2023 – Günümüz",
         "points": [
           "Veri ambarı kuruldu ve İK süreçleri otomatikleştirildi (döngü süresi ↓ %40)",
           "Çalışan sirkülasyonu ve bağlılık eğilimlerini izlemek için panolar geliştirildi",
           "Gallup Q12 ve AON verileri analiz edildi (çalışan bağlılığı ↑ %5)",
           "Terfi verileri iş hedefleriyle hizalandı",
-          "<strong>Jira</strong> iş akışları özelleştirildi ve otomasyon kuralları geliştirildi, İK süreçlerinde verimlilik %30 artırıldı",
-          "<strong>Jira</strong> Confluence ve diğer araçlarla entegre edildi, ekipler arası işbirliği ve veri görünürlüğü iyileştirildi",
-          "<strong>BPMS</strong> iş akışları geliştirildi, işlem süresi %40 azaltıldı, departman genelinde verimlilik artırıldı"
+          "Jira iş akışları özelleştirildi ve otomasyon kuralları geliştirildi, İK süreçlerinde verimlilik %30 artırıldı",
+          "Jira Confluence ve diğer araçlarla entegre edildi, ekipler arası işbirliği ve veri görünürlüğü iyileştirildi",
+          "BPMS iş akışları geliştirildi, işlem süresi %40 azaltıldı, departman genelinde verimlilik artırıldı"
         ]
       },
       "bodyspinner": {
-        "title": "Bodyspinner – People Analytics Uzmanı (Yarı Zamanlı)",
+        "title": "Bodyspinner – Veri Bilimci (İK Alanı, Yarı Zamanlı)",
         "location": "Tahran, İran | Kas 2022 – Eyl 2023",
         "points": [
           "İK panoları tasarlandı (raporlama süresi ↓ %40, kullanım oranı ↑ %15)",
           "İK metrik doğruluğu analiz denetimleriyle %25 artırıldı",
           "HRIS ve özel destek sistemi birlikte geliştirildi (çalışma süresi %99)",
-          "<strong>BPMS</strong> süreçleri optimize edildi, manuel veri giriş hataları %20 azaltıldı",
-          "<strong>Jira</strong> yapılandırmaları optimize edildi, otomasyon sayesinde manuel işler azaltıldı, süreç hızı %30 artırıldı"
+          "BPMS süreçleri optimize edildi, manuel veri giriş hataları %20 azaltıldı",
+          "Jira yapılandırmaları optimize edildi, otomasyon sayesinde manuel işler azaltıldı, süreç hızı %30 artırıldı"
         ]
       },
       "arsh": {
@@ -66,12 +66,12 @@
       "achievements": {
         "title": "Temel Başarılar",
         "items": [
-          "Snapp! şirketinde iş akışı otomasyonu ve gerçek zamanlı panolar sayesinde İK karar verme hızı <strong>%40</strong> artırıldı.",
-          "Gallup Q12 ve AON verilerinin ileri düzey analiziyle çalışan bağlılığı <strong>%5</strong> artırıldı.",
-          "Bodyspinner'da denetim çerçeveleri ve veri yönetişimi uygulamalarıyla İK veri doğruluğu <strong>%25</strong> artırıldı.",
+          "Snapp! şirketinde iş akışı otomasyonu ve gerçek zamanlı panolar sayesinde İK karar verme hızı %40 artırıldı.",
+          "Gallup Q12 ve AON verilerinin ileri düzey analiziyle çalışan bağlılığı %5 artırıldı.",
+          "Bodyspinner'da denetim çerçeveleri ve veri yönetişimi uygulamalarıyla İK veri doğruluğu %25 artırıldı.",
           "HRIS ve %99 çalışma süresiyle özel bilet sistemi geliştirildi ve devreye alındı (Bodyspinner).",
-          "Arsh şirketinde işe alım süreci yeniden tasarlanarak <strong>%20</strong> daha kısa sürede işe alım ve <strong>%25</strong> daha yüksek çalışan verimliliği sağlandı.",
-          "KarenCrowd'da girişim değerlendirmeleriyle <strong>%25</strong> daha yüksek fon sağlama başarısı elde edildi."
+          "Arsh şirketinde işe alım süreci yeniden tasarlanarak %20 daha kısa sürede işe alım ve %25 daha yüksek çalışan verimliliği sağlandı.",
+          "KarenCrowd'da girişim değerlendirmeleriyle %25 daha yüksek fon sağlama başarısı elde edildi."
         ]
       },    
       "skills": {
@@ -80,6 +80,7 @@
           "title": "Teknik Yetenekler",
           "items": [
             "Power BI, Excel, SQL, Python (Pandas, NumPy)",
+            "Jira (İş Akışı Otomasyonu & Yapılandırma)",
             "HRIS, BPMS, SPSS, MAXQDA",
             "SAP HR, Logo ERP, Nebim"
           ]
@@ -252,13 +253,17 @@
               "value": "Yeni Başlayan – 2025 sonuna kadar B1 hedefi"
             },
             {
-              "label": "Hareketlilik:",
-              "value": "Türkiye’ye taşınmaya açık (İstanbul, Ankara), Hibrit/Uzak çalışma mümkün"
+              "label": "Mobilite:",
+              "value": "Avrupa'ya (Almanya, Hollanda), Kuzey Amerika'ya veya Kanada'ya taşınmaya açığım – Hibrit/Uzaktan çalışma uygundur"
             },
             {
+              "label": "Çalışma İzni:",
+              "value": "Vize sponsorluğu için uygundur – Mavi Kart / Girişimci Vizesi programlarıyla ilgileniyorum"
+            },            
+            {
               "label": "Kültürel Uyum:",
-              "value": "Türk iş kültürü, hiyerarşi ve işbirliği normlarına aşina"
-            }
+              "value": "Uluslararası iş kültürleri, çevik ekipler ve sınır ötesi iş birliği konularında deneyimliyim"
+            }            
           ]
         }      
 }
