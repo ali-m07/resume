@@ -134,75 +134,87 @@
               }
             ]
           },           
-    "publications": {
-      "title": "Veröffentlichungen & Bücher",
-      "journals": {
-  "title": "Fachzeitschriften",
-  "items": [
-    {
-      "title": "Zukunftsorientierte unternehmerische Chancen im Bereich Human Resources im Iran basierend auf Technologietrends"
-    },
-    {
-      "title": "Erfahrene vs. Anfänger: Wie Erfahrung die Bewertung von Startups in Accelerator-Programmen verändert",
-      "status": "In der Endrunde der Begutachtung"
-    },
-    {
-      "title": "Die Auswirkungen von wahrgenommener Meritokratie, Vetternwirtschaft und Begünstigung auf Kündigungsabsichten",
-      "status": "In der Begutachtung"
-    },
-    {
-      "title": "Herausforderungen bei der Zusammenarbeit zwischen Accelerators und digitalen Startups im Iran identifizieren"
-    }
-  ]
-},
+"publications": {
+  "title": "Veröffentlichungen & Bücher",
+
+  "journals": {
+    "title": "Fachzeitschriften",
+    "items": [
+      {
+        "title": "Zukunftsorientierte unternehmerische Chancen im Bereich Human Resources im Iran basierend auf Technologietrends",
+        "doi": "https://jtdm.irost.ir/article_1380.html?lang=en"
+      },
+      {
+        "title": "Erfahrene vs. Anfänger: Wie Erfahrung die Bewertung von Startups in Accelerator-Programmen verändert",
+        "status": "In der Endrunde der Begutachtung"
+      },
+      {
+        "title": "Die Auswirkungen von wahrgenommener Meritokratie, Vetternwirtschaft und Begünstigung auf Kündigungsabsichten",
+        "status": "In der Begutachtung"
+      },
+      {
+        "title": "Herausforderungen bei der Zusammenarbeit zwischen Accelerators und digitalen Startups im Iran identifizieren",
+        "doi": "https://innoeco.usb.ac.ir/article_8933.html?lang=en"
+      }
+    ]
+  },
+
   "conferencesTitle": "Konferenzbeiträge",
-"conferences": {
-  "items": [
-    {
-      "title": "Was ist Agile HR: Die Revolution des Personalmanagements für Organisationen – Fallstudie",
-      "event": "2. Internationale Konferenz für Politikwissenschaft, Internationale Beziehungen und Transformation"
-    },
-    {
-      "title": "Der Einfluss von ökologischer Nachhaltigkeit und sozialer Verantwortung auf den Erfolg moderner unternehmerischer Investitionen",
-      "event": "1. Internationale Konferenz über Sozialunternehmertum und nachhaltige Entwicklung"
-    },
-    {
-      "title": "Auswirkungen künstlicher Intelligenz auf den nachhaltigen Erfolg digitaler Unternehmungen: Ein Mixed-Methods-Ansatz",
-      "event": "4. Internationale Konferenz für fortgeschrittene Forschung in Management und Geisteswissenschaften"
-    },
-    {
-      "title": "Integration digitaler Kompetenzen in die Unternehmerschulung: Ein umfassender Literaturüberblick",
-      "event": "4. Internationale Konferenz für fortgeschrittene Forschung in Management und Geisteswissenschaften"
-    },
-    {
-      "title": "Faktoren, die zum Scheitern von Startups im iranischen Startup-Ökosystem führen",
-      "event": "17. Internationale Konferenz für modernes Management, Rechnungswesen, Wirtschaft und Bankwesen"
-    },
-    {
-      "title": "Technologische Trends identifizieren und priorisieren, die unternehmerische Chancen im HR-Bereich im Iran prägen",
-      "event": "6. Nationale Konferenz über Unternehmertum"
-    }
-  ]
-},
-      "showMore": "Mehr anzeigen",
-      "showLess": "Weniger anzeigen",
-      "books": {
-  "title": "Bücher",
-  "items": [
-    {
-      "title": "Unternehmerisches Scheitern verstehen",
-      "details": "Autoren: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Verlag, 2023"
-    },
-    {
-      "title": "Die Reise des Unternehmertums: Von Scheitern zum Erfolg",
-      "details": "Autoren: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Verlag, 2024"
-    },
-    {
-      "title": "Digitales Unternehmertum: Management, Systeme und Praxis",
-      "details": "Übersetzt von: Khaleghi, Salajegheh, Mansouri | Kharazmi Verlag, 2024"
-    }
-  ]
-}
+  "conferences": {
+    "items": [
+      {
+        "title": "Was ist Agile HR: Die Revolution des Personalmanagements für Organisationen – Fallstudie",
+        "event": "2. Internationale Konferenz für Politikwissenschaft, Internationale Beziehungen und Transformation",
+        "link": "https://en.civilica.com/doc/2060255/"
+      },
+      {
+        "title": "Der Einfluss von ökologischer Nachhaltigkeit und sozialer Verantwortung auf den Erfolg moderner unternehmerischer Investitionen",
+        "event": "1. Internationale Konferenz über Sozialunternehmertum und nachhaltige Entwicklung",
+        "link": "https://en.civilica.com/doc/2045012/"
+      },
+      {
+        "title": "Auswirkungen künstlicher Intelligenz auf den nachhaltigen Erfolg digitaler Unternehmungen: Ein Mixed-Methods-Ansatz",
+        "event": "4. Internationale Konferenz für fortgeschrittene Forschung in Management und Geisteswissenschaften",
+        "link": "https://en.civilica.com/doc/2045011/"
+      },
+      {
+        "title": "Integration digitaler Kompetenzen in die Unternehmerschulung: Ein umfassender Literaturüberblick",
+        "event": "4. Internationale Konferenz für fortgeschrittene Forschung in Management und Geisteswissenschaften",
+        "link": "https://en.civilica.com/doc/2006091/"
+      },
+      {
+        "title": "Faktoren, die zum Scheitern von Startups im iranischen Startup-Ökosystem führen",
+        "event": "17. Internationale Konferenz für modernes Management, Rechnungswesen, Wirtschaft und Bankwesen",
+        "link": "https://en.civilica.com/doc/1754192/"
+      },
+      {
+        "title": "Technologische Trends identifizieren und priorisieren, die unternehmerische Chancen im HR-Bereich im Iran prägen",
+        "event": "6. Nationale Konferenz über Unternehmertum",
+        "link": "https://en.civilica.com/doc/1754192/"
+      }
+    ]
+  },
+
+  "showMore": "Mehr anzeigen",
+  "showLess": "Weniger anzeigen",
+
+  "books": {
+    "title": "Bücher",
+    "items": [
+      {
+        "title": "Unternehmerisches Scheitern verstehen",
+        "details": "Autoren: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Verlag, 2023"
+      },
+      {
+        "title": "Die Reise des Unternehmertums: Von Scheitern zum Erfolg",
+        "details": "Autoren: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Verlag, 2024"
+      },
+      {
+        "title": "Digitales Unternehmertum: Management, Systeme und Praxis",
+        "details": "Übersetzt von: Khaleghi, Salajegheh, Mansouri | Kharazmi Verlag, 2024"
+      }
+    ]
+  }
 },
       "projects": {
         "title": "Wichtige Projekte",

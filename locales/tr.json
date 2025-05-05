@@ -136,11 +136,13 @@
           },            
 "publications": {
   "title": "Yayınlar ve Kitaplar",
+
   "journals": {
     "title": "Akademik Dergi Makaleleri",
     "items": [
       {
-        "title": "İran’da İnsan Kaynakları Alanında Girişimcilik Fırsatlarının Teknoloji Trendlerine Dayalı Olarak Öngörülmesi"
+        "title": "İran’da İnsan Kaynakları Alanında Girişimcilik Fırsatlarının Teknoloji Trendlerine Dayalı Olarak Öngörülmesi",
+        "doi": "https://jtdm.irost.ir/article_1380.html?lang=en"
       },
       {
         "title": "Deneyimli ve Deneyimsiz: Girişim Hızlandırıcılarda Deneyimin Girişimleri Değerlendirme Üzerindeki Etkisi",
@@ -151,41 +153,51 @@
         "status": "Değerlendirmede"
       },
       {
-        "title": "İran'da Hızlandırıcılar ile Dijital Startuplar Arasındaki İşbirliği Zorluklarının Belirlenmesi"
+        "title": "İran'da Hızlandırıcılar ile Dijital Startuplar Arasındaki İşbirliği Zorluklarının Belirlenmesi",
+        "doi": "https://innoeco.usb.ac.ir/article_8933.html?lang=en"
       }
     ]
   },
+
   "conferencesTitle": "Konferans Bildirileri",
   "conferences": {
     "items": [
       {
         "title": "Agile HR Nedir: Kurumlar İçin İnsan Yönetimini Dönüştürmek – Vaka İncelemesi",
-        "event": "2. Uluslararası Siyaset Bilimi, Uluslararası İlişkiler ve Dönüşüm Konferansı"
+        "event": "2. Uluslararası Siyaset Bilimi, Uluslararası İlişkiler ve Dönüşüm Konferansı",
+        "link": "https://en.civilica.com/doc/2060255/"
       },
       {
         "title": "Çevresel Sürdürülebilirlik ve Sosyal Sorumluluğun Girişimcilik Başarısı Üzerindeki Etkisi",
-        "event": "1. Uluslararası Sosyal Girişimcilik ve Sürdürülebilir Kalkınma Konferansı"
+        "event": "1. Uluslararası Sosyal Girişimcilik ve Sürdürülebilir Kalkınma Konferansı",
+        "link": "https://en.civilica.com/doc/2045012/"
       },
       {
         "title": "Yapay Zekânın Dijital Girişimcilikte Sürdürülebilir Başarıya Etkisi: Karma Yöntem Yaklaşımı",
-        "event": "4. Uluslararası Yönetim ve Beşerî Bilimler Araştırmaları Konferansı"
+        "event": "4. Uluslararası Yönetim ve Beşerî Bilimler Araştırmaları Konferansı",
+        "link": "https://en.civilica.com/doc/2045011/"
       },
       {
         "title": "Girişimcilik Eğitimine Dijital Becerilerin Entegrasyonu: Kapsamlı Literatür Taraması",
-        "event": "4. Uluslararası Yönetim ve Beşerî Bilimler Araştırmaları Konferansı"
+        "event": "4. Uluslararası Yönetim ve Beşerî Bilimler Araştırmaları Konferansı",
+        "link": "https://en.civilica.com/doc/2006091/"
       },
       {
         "title": "İran’daki Girişimcilik Ekosisteminde Girişimlerin Başarısızlığına Neden Olan Faktörlerin Belirlenmesi",
-        "event": "17. Uluslararası Modern Yönetim, Muhasebe, Ekonomi ve Bankacılık Teknikleri Konferansı"
+        "event": "17. Uluslararası Modern Yönetim, Muhasebe, Ekonomi ve Bankacılık Teknikleri Konferansı",
+        "link": "https://en.civilica.com/doc/1754192/"
       },
       {
         "title": "İran’da İnsan Kaynakları Sektöründe Girişimcilik Fırsatlarını Şekillendiren Teknolojik Eğilimlerin Belirlenmesi ve Önceliklendirilmesi",
-        "event": "6. Ulusal Girişimcilik Konferansı"
+        "event": "6. Ulusal Girişimcilik Konferansı",
+        "link": "https://en.civilica.com/doc/1754192/"
       }
     ]
   },
+
   "showMore": "Daha Fazla Göster",
   "showLess": "Daha Az Göster",
+
   "books": {
     "title": "Kitaplar",
     "items": [

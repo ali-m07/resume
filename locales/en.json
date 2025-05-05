@@ -136,51 +136,59 @@
           },        
 "publications": {
   "title": "Publications & Books",
-  "journals": {
-    "title": "Journal Articles",
-    "items": [
-      {
-        "title": "Foresight of Entrepreneurial Opportunities in Human Resources in Iran Based on Technology Trends"
-      },
-      {
-        "title": "Experienced vs. Novice: How Experience Influences Startup Evaluation in Accelerators",
-        "status": "Final-round review"
-      },
-      {
-        "title": "The Impact of Perceived Meritocracy, Favoritism, and Nepotism on Employee Turnover Intentions",
-        "status": "Under review"
-      },
-      {
-        "title": "Challenges in Collaboration Between Accelerators and Digital Startups in Iran"
-      }
-    ]
-  },
+"journals": {
+  "title": "Journal Articles",
+  "items": [
+    {
+      "title": "Foresight of Entrepreneurial Opportunities in Human Resources in Iran Based on Technology Trends",
+      "doi": "https://jtdm.irost.ir/article_1380.html?lang=en"
+    },
+    {
+      "title": "Experienced vs. Novice: How Experience Influences Startup Evaluation in Accelerators",
+      "status": "Final-round review"
+    },
+    {
+      "title": "The Impact of Perceived Meritocracy, Favoritism, and Nepotism on Employee Turnover Intentions",
+      "status": "Under review"
+    },
+    {
+      "title": "Challenges in Collaboration Between Accelerators and Digital Startups in Iran",
+      "doi": "https://innoeco.usb.ac.ir/article_8933.html?lang=en"
+    }
+  ]
+}, 
   "conferencesTitle": "Conference Papers",
   "conferences": {
     "items": [
       {
         "title": "What is Agile HR: Revolutionizing People Management – A Case Study",
-        "event": "2nd International Conference on Political Science, International Relations, and Transformation"
+        "event": "2nd International Conference on Political Science, International Relations, and Transformation",
+        "link": "https://en.civilica.com/doc/2060255/"
       },
       {
         "title": "Environmental Sustainability and Social Responsibility in Modern Entrepreneurial Success",
-        "event": "1st International Conference on Social Entrepreneurship and Sustainable Development"
+        "event": "1st International Conference on Social Entrepreneurship and Sustainable Development",
+        "link": "https://en.civilica.com/doc/2045012/"
       },
       {
         "title": "AI and the Sustainable Success of Digital Entrepreneurship: A Mixed-Methods Study",
-        "event": "4th International Conference on Advanced Research in Management and Humanities"
+        "event": "4th International Conference on Advanced Research in Management and Humanities",
+        "link": "https://en.civilica.com/doc/2045011/"
       },
       {
         "title": "Integrating Digital Competencies into Entrepreneurship Education: A Comprehensive Review",
-        "event": "4th International Conference on Advanced Research in Management and Humanities"
+        "event": "4th International Conference on Advanced Research in Management and Humanities",
+        "link": "https://en.civilica.com/doc/2006091/"
       },
       {
         "title": "Startup Failures in Iran's Entrepreneurial Ecosystem: Key Contributing Factors",
-        "event": "17th International Conference on Modern Management, Accounting, Economics, and Banking Techniques"
+        "event": "17th International Conference on Modern Management, Accounting, Economics, and Banking Techniques",
+        "link": "https://en.civilica.com/doc/1754192/"
       },
       {
         "title": "Technological Trends Shaping Entrepreneurial Opportunities in HR in Iran: A Prioritization Approach",
-        "event": "6th National Conference on Entrepreneurship"
+        "event": "6th National Conference on Entrepreneurship",
+        "link": "https://en.civilica.com/doc/1754192/"
       }
     ]
   },
