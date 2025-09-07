@@ -1,281 +1,255 @@
 {
   "pdf": {
-  "download": "PDF Olarak İndir"
-},
-"header": {
-  "subtitle": "İK Odaklı Veri Bilimci | Gelecek Çalışmaları Doktora Adayı",
-  "description": "Veri Bilimi, İş Zekâsı (BI), Jira, Stratejik Öngörü ve Dijital İK Dönüşümünde Uzmanlık"
-},  
+    "download": "Télécharger en PDF"
+  },
+  "header": {
+    "subtitle": "Ingénieur DevOps & Automatisation | Spécialiste en Fiabilité des Systèmes (SRE)",
+    "description": "Expertise en Python, CI/CD, Automatisation des Processus, Administration Jira et Technologies Cloud"
+  },
   "aboutMe": {
-    "title": "Hakkımda",
-    "text": "İnsan kaynakları alanında uzmanlaşmış bir Veri Bilimcisiyim. Veriyi, teknolojiyi ve stratejik öngörüleri birleştirerek organizasyonların insanı, performansı ve işin geleceğini nasıl anladığını dönüştürmeye odaklanıyorum. Gelecek Çalışmaları alanında doktora yapıyor, teknoloji trendlerinin emek piyasası ve yetenek ekosistemlerini nasıl şekillendirdiğini araştırıyorum. 4+ yıllık HR analitiği, dijital dönüşüm ve Jira gibi çevik proje araçlarında derin deneyimimle teknik uzmanlık ve iş bilgeliğini bir araya getiriyorum. Avrupa, Kuzey Amerika ve diğer yenilik odaklı bölgelerdeki küresel fırsatlara açığım."
+    "title": "À propos de moi",
+    "text": "Professionnel axé sur les détails et les résultats avec plus de 4 ans d'expérience en administration système, automatisation des processus et optimisation des flux de travail. Capacité prouvée à réduire les temps de cycle des processus jusqu'à 40% grâce à des scripts d'automatisation et à la réingénierie des systèmes. Expertise en Python, SQL et administration Jira, associée à une compréhension approfondie de l'analyse de données pour la surveillance des systèmes et le suivi des performances. Désireux d'appliquer mes compétences en automatisation et en fiabilité des systèmes à un rôle DevOps stimulant, en contribuant au développement de pipelines CI/CD, à la gestion de l'infrastructure et aux technologies cloud."
   },
   "contact": {
-    "title": "Benimle İletişime Geçin",
-    "linkedin": "LinkedIn Profili",
-    "github": "GitHub Profili",
+    "title": "Contactez-moi",
+    "linkedin": "Profil LinkedIn",
+    "github": "Profil GitHub",
     "researchgate": "ResearchGate",
-    "scholar": "Google Akademik"
+    "scholar": "Google Scholar"
   },
-    "experience": {
-      "title": "Profesyonel Deneyim",
-      "snapp": {
-        "title": "Snapp! – Veri Bilimci (İK Alanı)",
-        "location": "Tahran, İran | Haz 2023 – Günümüz",
-        "points": [
-          "Veri ambarı kuruldu ve İK süreçleri otomatikleştirildi (döngü süresi ↓ %40)",
-          "Çalışan sirkülasyonu ve bağlılık eğilimlerini izlemek için panolar geliştirildi",
-          "Gallup Q12 ve AON verileri analiz edildi (çalışan bağlılığı ↑ %5)",
-          "Terfi verileri iş hedefleriyle hizalandı",
-          "Jira iş akışları özelleştirildi ve otomasyon kuralları geliştirildi, İK süreçlerinde verimlilik %30 artırıldı",
-          "Jira Confluence ve diğer araçlarla entegre edildi, ekipler arası işbirliği ve veri görünürlüğü iyileştirildi",
-          "BPMS iş akışları geliştirildi, işlem süresi %40 azaltıldı, departman genelinde verimlilik artırıldı"
-        ]
-      },
-      "bodyspinner": {
-        "title": "Bodyspinner – Veri Bilimci (İK Alanı, Yarı Zamanlı)",
-        "location": "Tahran, İran | Kas 2022 – Eyl 2023",
-        "points": [
-          "İK panoları tasarlandı (raporlama süresi ↓ %40, kullanım oranı ↑ %15)",
-          "İK metrik doğruluğu analiz denetimleriyle %25 artırıldı",
-          "HRIS ve özel destek sistemi birlikte geliştirildi (çalışma süresi %99)",
-          "BPMS süreçleri optimize edildi, manuel veri giriş hataları %20 azaltıldı",
-          "Jira yapılandırmaları optimize edildi, otomasyon sayesinde manuel işler azaltıldı, süreç hızı %30 artırıldı"
-        ]
-      },
-      "arsh": {
-        "title": "Arsh – İK Dijital Dönüşüm Uzmanı",
-        "location": "Tahran, İran | Ara 2021 – Ara 2022",
-        "points": [
-          "İşe alım, uyumlaştırma ve değerlendirme sistemleri yeniden tasarlandı",
-          "Çalışan verimliliği %25 artırıldı, işe alım süresi %20 azaltıldı",
-          "OKR, KPI ve organizasyonel analizlerle rol netliği artırıldı"
-        ]
-      },
-      "karencrowd": {
-        "title": "KarenCrowd – İş Değerlendirme Uzmanı",
-        "location": "Tahran, İran | Ara 2020 – Ara 2021",
-        "points": [
-          "Hedefe yönelik stratejilerle %40 daha fazla proje başarısı sağlandı",
-          "Pazar araştırmaları ile yatırım kararlarında doğruluk %30 artırıldı",
-          "Yüksek potansiyele sahip girişimler için fon sağlandı (%25 daha fazla lansman başarısı)",
-          "Yatırım sürecinde güveni artırmak için risk ve finansal analizler yapıldı"
-        ]
-      }
+  "experience": {
+    "title": "Expérience Professionnelle",
+    "snapp": {
+      "title": "Snapp! – Spécialiste Systèmes & Automatisation",
+      "location": "Téhéran, Iran | Juin 2023 – Présent",
+      "points": [
+        "Conception de pipelines de données automatisés et rationalisation des flux de travail métier à l'aide de Python, réduisant le temps de cycle des processus de 40%.",
+        "Développement et maintenance de tableaux de bord de surveillance en temps réel pour suivre les indicateurs de performance clés (KPI) et l'état du système.",
+        "Administration et personnalisation des environnements Jira, automatisant des flux de travail complexes pour les services interdépartementaux, ce qui a augmenté l'efficacité opérationnelle de 30%.",
+        "Intégration de Jira avec Confluence et d'autres outils de veille stratégique pour améliorer la visibilité des données et la collaboration entre les équipes.",
+        "Optimisation des systèmes de gestion des processus métier (BPMS), modélisant le principe de base de DevOps de l'amélioration continue des processus."
+      ]
     },
-      "achievements": {
-        "title": "Temel Başarılar",
-        "items": [
-          "Snapp! şirketinde iş akışı otomasyonu ve gerçek zamanlı panolar sayesinde İK karar verme hızı %40 artırıldı.",
-          "Gallup Q12 ve AON verilerinin ileri düzey analiziyle çalışan bağlılığı %5 artırıldı.",
-          "Bodyspinner'da denetim çerçeveleri ve veri yönetişimi uygulamalarıyla İK veri doğruluğu %25 artırıldı.",
-          "HRIS ve %99 çalışma süresiyle özel bilet sistemi geliştirildi ve devreye alındı (Bodyspinner).",
-          "Arsh şirketinde işe alım süreci yeniden tasarlanarak %20 daha kısa sürede işe alım ve %25 daha yüksek çalışan verimliliği sağlandı.",
-          "KarenCrowd'da girişim değerlendirmeleriyle %25 daha yüksek fon sağlama başarısı elde edildi."
-        ]
-      },    
-      "skills": {
-        "title": "Yetenekler",
-        "technical": {
-          "title": "Teknik Yetenekler",
-          "items": [
-            "Power BI, Excel, SQL, Python (Pandas, NumPy)",
-            "Jira (İş Akışı Otomasyonu & Yapılandırma)",
-            "HRIS, BPMS, SPSS, MAXQDA",
-            "SAP HR, Logo ERP, Nebim"
-          ]
+    "bodyspinner": {
+      "title": "Bodyspinner – Analyste Données & Systèmes (Temps partiel)",
+      "location": "Téhéran, Iran | Nov 2022 – Sep 2023",
+      "points": [
+        "Conception de tableaux de bord RH (effort de reporting ↓ 40%, adoption ↑ 15%)",
+        "Amélioration de la précision des métriques RH de 25% grâce à des audits analytiques",
+        "Co-développement d'un SIRH et d'un système de billetterie personnalisé (disponibilité 99%)",
+        "Amélioration des processus BPMS pour rationaliser les opérations RH et réduire les erreurs de saisie manuelle de 20%",
+        "Optimisation des configurations Jira et des processus automatisés, réduisant les tâches manuelles et améliorant la vitesse du flux de travail de 30%"
+      ]
+    },
+    "arsh": {
+      "title": "Arsh – Spécialiste de la Transformation Numérique RH",
+      "location": "Téhéran, Iran | Déc 2021 – Déc 2022",
+      "points": [
+        "Réingénierie des cadres de recrutement, d'intégration et d'évaluation",
+        "Amélioration de la productivité des employés (+25%) et réduction du temps de recrutement (-20%)",
+        "Amélioration de la clarté des rôles grâce aux OKR, KPI et diagnostics organisationnels"
+      ]
+    },
+    "karencrowd": {
+      "title": "KarenCrowd – Évaluateur d'Entreprises",
+      "location": "Téhéran, Iran | Déc 2020 – Déc 2021",
+      "points": [
+        "Élaboration de plans d'affaires stratégiques qui ont augmenté les taux de réussite des projets de 40% grâce à des initiatives commerciales ciblées et des stratégies de croissance.",
+        "Amélioration de la précision des décisions d'investissement de 30% grâce à une analyse complète des startups et à des études de marché.",
+        "Obtention de financements pour des startups à fort potentiel, augmentant le succès de lancement des projets de 25% sur la plateforme de financement participatif.",
+        "Réalisation d'évaluations des risques et d'analyses financières pour réduire les pertes financières potentielles et renforcer la confiance dans le processus d'investissement."
+      ]
+    }
+  },
+  "achievements": {
+    "title": "Réalisations Clés",
+    "items": [
+      "Amélioration de la vitesse de prise de décision RH de 40% grâce à l'automatisation des flux de travail et aux tableaux de bord en temps réel chez Snapp!",
+      "Augmentation de l'engagement des employés de 5% via une analyse avancée des données Gallup Q12 et AON chez Snapp!",
+      "Augmentation de la précision des données RH de 25% grâce à des cadres d'audit et des pratiques de gouvernance des données chez Bodyspinner.",
+      "Développement et déploiement d'un SIRH et d'un système de billetterie personnalisé avec 99% de disponibilité chez Bodyspinner.",
+      "Réduction du temps de recrutement de 20% et amélioration de la productivité des employés de 25% grâce à des cadres de recrutement et d'évaluation repensés chez Arsh.",
+      "Obtention d'un taux de réussite de financement supérieur de 25% en évaluant la viabilité des startups et leur potentiel commercial chez KarenCrowd."
+    ]
+  },
+  "skills": {
+    "title": "Compétences",
+    "technical": {
+      "title": "Compétences Techniques",
+      "items": [
+        "Power BI, Excel, SQL, Python (Pandas, NumPy)",
+        "Jira (Automatisation des flux de travail & Configuration)",
+        "HRIS, BPMS, SPSS, MAXQDA",
+        "SAP HR, Logo ERP, Nebim"
+      ]
+    },
+    "business": {
+      "title": "Compétences Commerciales & Stratégiques",
+      "items": [
+        "Diagnostic Organisationnel",
+        "Prospective Stratégique & Planification",
+        "Gestion de la Performance",
+        "Conception de Scénarios & OKRs"
+      ]
+    }
+  },
+  "education": {
+    "title": "Formation",
+    "degrees": [
+      {
+        "title": "Doctorat en Études Prospectives (En cours)",
+        "institution": "Université de Téhéran – Téhéran, Iran | 2024 – Présent"
+      },
+      {
+        "title": "MBA en Gestion des Ressources Humaines",
+        "institution": "Université Kharazmi – Téhéran, Iran | 2020 – 2023",
+        "description": "Thèse : Tendances des technologies RH et opportunités entrepreneuriales"
+      },
+      {
+        "title": "Licence en Génie Électrique",
+        "institution": "Université de Technologie de Qom – Qom, Iran | 2016 – 2020",
+        "description": "Projet : Conception GPS avec Arduino"
+      }
+    ]
+  },
+  "research": {
+    "title": "Projets de Recherche",
+    "items": [
+      {
+        "title": "Projet sur les Méga-Tendances Technologiques",
+        "institution": "Université de Téhéran | Nov 2024 – Présent",
+        "description": "Direction d'un projet de prospective pour analyser les tendances technologiques mondiales et leur impact sur l'avenir du travail."
+      },
+      {
+        "title": "Entrepreneuriat Numérique & Innovation",
+        "institution": "Université Kharazmi | Fév 2022 – Présent",
+        "description": "Assistant de recherche sous la direction du Dr. Armin Khaleghi. Accent sur les écosystèmes numériques, l'évaluation des startups et les tendances qui façonnent l'avenir."
+      },
+      {
+        "title": "Feuille de Route Stratégique jusqu'en 2035 : les RH dans les Pays en Développement",
+        "institution": "Étude Collaborative (En cours)",
+        "description": "Co-rédaction d'un rapport de prospective stratégique sur l'évolution de la GRH dans les pays en développement."
+      }
+    ]
+  },
+  "publications": {
+    "title": "Publications & Livres",
+    "journals": {
+      "title": "Articles de Revues",
+      "items": [
+        {
+          "title": "Prospective des opportunités entrepreneuriales en ressources humaines en Iran basée sur les tendances technologiques",
+          "doi": "https://jtdm.irost.ir/article_1380.html?lang=en"
         },
-        "business": {
-          "title": "İş ve Stratejik Yetenekler",
-          "items": [
-            "Kurumsal Teşhis",
-            "Stratejik Öngörü ve Planlama",
-            "Performans Yönetimi",
-            "Senaryo Tasarımı ve OKR'lar"
-          ]
+        {
+          "title": "Expérimenté vs Novice : Comment l'expérience influence l'évaluation des startups dans les accélérateurs",
+          "status": "En dernière phase d'évaluation"
+        },
+        {
+          "title": "L'impact de la méritocratie perçue, du favoritisme et du népotisme sur les intentions de départ des employés",
+          "status": "En cours d'évaluation"
+        },
+        {
+          "title": "Défis de la collaboration entre les accélérateurs et les startups numériques en Iran",
+          "doi": "https://innoeco.usb.ac.ir/article_8933.html?lang=en"
         }
-      },
-        "education": {
-          "title": "Eğitim",
-          "degrees": [
-            {
-              "title": "Gelecek Çalışmaları Doktora Programı (Devam ediyor)",
-              "institution": "Tahran Üniversitesi – Tahran, İran | 2024 – Günümüz"
-            },
-            {
-              "title": "İK Yönetimi Yüksek Lisansı (MBA)",
-              "institution": "Kharazmi Üniversitesi – Tahran, İran | 2020 – 2023",
-              "description": "Tez: İK Teknoloji Trendleri ve Girişimcilik Fırsatları"
-            },
-            {
-              "title": "Elektrik Mühendisliği Lisans Derecesi",
-              "institution": "Kum Teknoloji Üniversitesi – Kum, İran | 2016 – 2020",
-              "description": "Proje: Arduino ile GPS Tasarımı"
-            }
-          ]
+      ]
+    },
+    "conferencesTitle": "Articles de Conférences",
+    "conferences": {
+      "items": [
+        {
+          "title": "Qu'est-ce que les RH Agiles : Révolutionner la gestion des personnes – Une étude de cas",
+          "event": "2ème Conférence Internationale sur les Sciences Politiques, les Relations Internationales et la Transformation",
+          "link": "https://en.civilica.com/doc/2060255/"
         },
-          "research": {
-            "title": "Araştırma Projeleri",
-            "items": [
-              {
-                "title": "Teknoloji Mega Trendleri Projesi",
-                "institution": "Tahran Üniversitesi | Kas 2024 – Günümüz",
-                "description": "İşin geleceği üzerindeki etkileriyle birlikte küresel teknoloji trendlerini analiz eden bir öngörü projesine liderlik ediliyor."
-              },
-              {
-                "title": "Dijital Girişimcilik ve İnovasyon",
-                "institution": "Kharazmi Üniversitesi | Şub 2022 – Günümüz",
-                "description": "Dr. Armin Khaleghi danışmanlığında araştırma asistanı. Dijital ekosistemler, girişim değerlendirmesi ve gelecek eğilimleri üzerine çalışılıyor."
-              },
-              {
-                "title": "2035'e Stratejik Yol Haritası: Gelişmekte Olan Ülkelerde İK",
-                "institution": "Ortak Çalışma (Devam Ediyor)",
-                "description": "Gelişmekte olan ülkelerde insan kaynakları yönetiminin evrimi üzerine stratejik öngörü raporunun ortak yazarı."
-              }
-            ]
-          },            
-"publications": {
-  "title": "Yayınlar ve Kitaplar",
-
-  "journals": {
-    "title": "Akademik Dergi Makaleleri",
+        {
+          "title": "Durabilité environnementale et responsabilité sociale dans le succès entrepreneurial moderne",
+          "event": "1ère Conférence Internationale sur l'Entrepreneuriat Social et le Développement Durable",
+          "link": "https://en.civilica.com/doc/2045012/"
+        }
+      ]
+    },
+    "showMore": "Afficher plus",
+    "showLess": "Afficher moins",
+    "books": {
+      "title": "Livres",
+      "items": [
+        {
+          "title": "Comprendre l'échec entrepreneurial",
+          "details": "Auteurs : Toozandjani, M. R. & Mansouri, A. | Publications Zarnevesht, 2023"
+        },
+        {
+          "title": "Le parcours entrepreneurial : de l'échec au succès",
+          "details": "Auteurs : Toozandjani, M. R. & Mansouri, A. | Publications Zarnevesht, 2024"
+        },
+        {
+          "title": "Entrepreneuriat numérique : gestion, systèmes et pratique",
+          "details": "Traduit par : Khaleghi, Salajegheh, Mansouri | Publications Kharazmi, 2024"
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projets Clés",
     "items": [
       {
-        "title": "İran’da İnsan Kaynakları Alanında Girişimcilik Fırsatlarının Teknoloji Trendlerine Dayalı Olarak Öngörülmesi",
-        "doi": "https://jtdm.irost.ir/article_1380.html?lang=en"
+        "title": "Prospective des Méga-Tendances Technologiques @ Université de Téhéran",
+        "description": "Direction d'un projet de prospective stratégique analysant les méga-tendances technologiques mondiales et leur impact sur l'avenir du travail et de l'innovation. Développement de cartes d'innovation et présentation des perspectives aux acteurs académiques et industriels."
       },
       {
-        "title": "Deneyimli ve Deneyimsiz: Girişim Hızlandırıcılarda Deneyimin Girişimleri Değerlendirme Üzerindeki Etkisi",
-        "status": "Son değerlendirme aşamasında"
+        "title": "Innovation Numérique dans les Écosystèmes de Startups @ Université Kharazmi",
+        "description": "Réalisation de recherches sur les accélérateurs de startups et l'entrepreneuriat numérique sous la direction du Dr Armin Khaleghi. Développement de modèles d'évaluation basés sur la prospective pour identifier les tendances futures et les opportunités d'investissement dans les technologies RH et la croissance des startups."
       },
       {
-        "title": "Algılanan Liyakat, Kayırmacılık ve Akraba Kayırmacılığının İşten Ayrılma Niyetine Etkisi",
-        "status": "Değerlendirmede"
+        "title": "Automatisation des flux de travail RH @ Snapp!",
+        "description": "Développement d'un entrepôt de données et automatisation des flux de travail RH clés, améliorant la vitesse de prise de décision de 40%. Amélioration des processus Jira et BPMS pour augmenter l'efficacité et réduire le temps de cycle."
       },
       {
-        "title": "İran'da Hızlandırıcılar ile Dijital Startuplar Arasındaki İşbirliği Zorluklarının Belirlenmesi",
-        "doi": "https://innoeco.usb.ac.ir/article_8933.html?lang=en"
+        "title": "Système de tableau de bord RH @ Bodyspinner",
+        "description": "Conception et déploiement de tableaux de bord Power BI intégrés au SIRH. Réduction du temps de génération des rapports de 40% et augmentation de l'adoption des données de 15%. Création d'un système de billetterie personnalisé basé sur Jira avec 99% de disponibilité."
+      },
+      {
+        "title": "Optimisation du recrutement @ Arsh",
+        "description": "Refonte du pipeline de recrutement, entraînant une réduction de 20% du temps de recrutement et une amélioration de 25% des performances des employés. Mise en œuvre d'un système de performance basé sur les OKR."
+      },
+      {
+        "title": "Évaluation de startups et analyse des investissements @ KarenCrowd",
+        "description": "Réalisation d'évaluations de startups et d'études de marché, augmentant la précision des décisions d'investissement de 30%. Direction d'initiatives stratégiques qui ont augmenté les taux de réussite des projets de 40% et obtenu des financements pour les entreprises les plus performantes."
       }
     ]
   },
-
-  "conferencesTitle": "Konferans Bildirileri",
-  "conferences": {
+  "languages": {
+    "title": "Langues & Mobilité",
     "items": [
       {
-        "title": "Agile HR Nedir: Kurumlar İçin İnsan Yönetimini Dönüştürmek – Vaka İncelemesi",
-        "event": "2. Uluslararası Siyaset Bilimi, Uluslararası İlişkiler ve Dönüşüm Konferansı",
-        "link": "https://en.civilica.com/doc/2060255/"
+        "label": "Anglais :",
+        "value": "Courant (Compétence professionnelle complète – C1)"
       },
       {
-        "title": "Çevresel Sürdürülebilirlik ve Sosyal Sorumluluğun Girişimcilik Başarısı Üzerindeki Etkisi",
-        "event": "1. Uluslararası Sosyal Girişimcilik ve Sürdürülebilir Kalkınma Konferansı",
-        "link": "https://en.civilica.com/doc/2045012/"
+        "label": "Persan :",
+        "value": "Natif"
       },
       {
-        "title": "Yapay Zekânın Dijital Girişimcilikte Sürdürülebilir Başarıya Etkisi: Karma Yöntem Yaklaşımı",
-        "event": "4. Uluslararası Yönetim ve Beşerî Bilimler Araştırmaları Konferansı",
-        "link": "https://en.civilica.com/doc/2045011/"
+        "label": "Allemand :",
+        "value": "Pré-intermédiaire (A2)"
       },
       {
-        "title": "Girişimcilik Eğitimine Dijital Becerilerin Entegrasyonu: Kapsamlı Literatür Taraması",
-        "event": "4. Uluslararası Yönetim ve Beşerî Bilimler Araştırmaları Konferansı",
-        "link": "https://en.civilica.com/doc/2006091/"
+        "label": "Français :",
+        "value": "Débutant – Objectif B1 d'ici fin 2026"
       },
       {
-        "title": "İran’daki Girişimcilik Ekosisteminde Girişimlerin Başarısızlığına Neden Olan Faktörlerin Belirlenmesi",
-        "event": "17. Uluslararası Modern Yönetim, Muhasebe, Ekonomi ve Bankacılık Teknikleri Konferansı",
-        "link": "https://en.civilica.com/doc/1754192/"
+        "label": "Mobilité :",
+        "value": "Ouvert à la relocalisation en Europe (Allemagne, Pays-Bas, France), Amérique du Nord ou Canada – Hybride/Télétravail disponible"
       },
       {
-        "title": "İran’da İnsan Kaynakları Sektöründe Girişimcilik Fırsatlarını Şekillendiren Teknolojik Eğilimlerin Belirlenmesi ve Önceliklendirilmesi",
-        "event": "6. Ulusal Girişimcilik Konferansı",
-        "link": "https://en.civilica.com/doc/1754192/"
-      }
-    ]
-  },
-
-  "showMore": "Daha Fazla Göster",
-  "showLess": "Daha Az Göster",
-
-  "books": {
-    "title": "Kitaplar",
-    "items": [
-      {
-        "title": "Girişimcilik Başarısızlığını Anlamak",
-        "details": "Yazarlar: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Yayıncılık, 2023"
+        "label": "Éligibilité au travail :",
+        "value": "Éligible au parrainage de visa – Intéressé par les programmes Blue Card/Visa Startup"
       },
       {
-        "title": "Girişimcilik Yolculuğu: Başarısızlıktan Başarıya",
-        "details": "Yazarlar: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Yayıncılık, 2024"
-      },
-      {
-        "title": "Dijital Girişimcilik: Yönetim, Sistemler ve Uygulama",
-        "details": "Çevirenler: Khaleghi, Salajegheh, Mansouri | Kharazmi Yayınları, 2024"
+        "label": "Adéquation culturelle :",
+        "value": "Familier avec les cultures de travail internationales, les équipes agiles et la collaboration transfrontalière"
       }
     ]
   }
-    },
-      "projects": {
-        "title": "Ana Projeler",
-        "items": [
-          {
-            "title": "Teknolojik Mega Trendlerin Öngörüsü @ Tahran Üniversitesi",
-            "description": "Küresel teknolojik mega trendleri ve bunların işin geleceği ve yenilik üzerindeki etkilerini analiz eden stratejik bir öngörü projesine liderlik edildi. Yenilik haritaları geliştirildi ve akademik ve endüstri paydaşlarına sunuldu."
-          },
-          {
-            "title": "Girişim Ekosistemlerinde Dijital Yenilik @ Kharazmi Üniversitesi",
-            "description": "Girişim hızlandırıcıları ve dijital girişimcilik üzerine Dr. Armin Khaleghi gözetiminde araştırma yapıldı. HR Tech ve girişim büyümesinde gelecek trendleri ve yatırım fırsatlarını belirlemeye yönelik öngörü tabanlı değerlendirme modelleri geliştirildi."
-          },
-          {
-            "title": "İK Süreç Otomasyonu @ Snapp!",
-            "description": "Bir veri ambarı geliştirildi ve temel İK süreçleri otomatikleştirildi, karar verme hızı %40 artırıldı. Jira ve BPMS süreçleri optimize edilerek verimlilik artırıldı ve döngü süresi azaltıldı."
-          },
-          {
-            "title": "İK Gösterge Paneli Sistemi @ Bodyspinner",
-            "description": "HRIS ile entegre Power BI panoları tasarlandı ve uygulandı. Rapor oluşturma süresi %40 azaltıldı, veri kullanımı %15 artırıldı. %99 çalışma süresine sahip özel Jira tabanlı destek sistemi oluşturuldu."
-          },
-          {
-            "title": "İşe Alım Optimizasyonu @ Arsh",
-            "description": "İşe alım süreci yeniden tasarlandı, işe alım süresi %20 azaldı, çalışan performansı %25 iyileştirildi. OKR tabanlı performans sistemi uygulandı."
-          },
-          {
-            "title": "Girişim Değerlendirme ve Yatırım Analizi @ KarenCrowd",
-            "description": "Girişim değerlendirmeleri ve pazar araştırmaları yapıldı, yatırım karar doğruluğu %30 artırıldı. Başarılı girişimler için fon sağlandı, proje başarı oranları %40 yükseltildi."
-          }
-        ]
-      },
-        "languages": {
-          "title": "Diller ve Hareketlilik",
-          "items": [
-            {
-              "label": "İngilizce:",
-              "value": "Akıcı (Profesyonel Çalışma Yeterliliği – C1)"
-            },
-            {
-              "label": "Farsça:",
-              "value": "Ana Dil"
-            },
-            {
-              "label": "Almanca:",
-              "value": "Ön-Orta Seviye (A2)"
-            },
-            {
-              "label": "Türkçe:",
-              "value": "Yeni Başlayan – 2025 sonuna kadar B1 hedefi"
-            },
-            {
-              "label": "Mobilite:",
-              "value": "Avrupa'ya (Almanya, Hollanda), Kuzey Amerika'ya veya Kanada'ya taşınmaya açığım – Hibrit/Uzaktan çalışma uygundur"
-            },
-            {
-              "label": "Çalışma İzni:",
-              "value": "Vize sponsorluğu için uygundur – Mavi Kart / Girişimci Vizesi programlarıyla ilgileniyorum"
-            },            
-            {
-              "label": "Kültürel Uyum:",
-              "value": "Uluslararası iş kültürleri, çevik ekipler ve sınır ötesi iş birliği konularında deneyimliyim"
-            }            
-          ]
-        }      
 }
