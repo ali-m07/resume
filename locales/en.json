@@ -1,14 +1,14 @@
 {
   "pdf": {
-  "download": "Download as PDF"
-},
-    "header": {
-  "subtitle": "HR-Focused Data Scientist | PhD Candidate in Futures Studies",
-  "description": "Expertise in Data Science, BI, Jira, Strategic Foresight & Digital HR Transformation"
-},  
+    "download": "Download as PDF"
+  },
+  "header": {
+    "subtitle": "DevOps & Automation Engineer | System Reliability Specialist",
+    "description": "Expertise in Python, CI/CD, Process Automation, Jira Administration, and Cloud Technologies"
+  },
   "aboutMe": {
     "title": "About Me",
-    "text": "I'm a Data Scientist specialized in HR, passionate about leveraging data, technology, and strategic foresight to transform how organizations understand people, performance, and the future of work. As a Ph.D. candidate in Futures Studies, I analyze how tech trends shape labor and talent ecosystems. With 4+ years of hands-on experience in HR analytics, digital transformation, and agile project tools like Jira, I bring both technical depth and business acumen. Open to global opportunities in Europe, North America, or other innovation-driven regions."
+    "text": "Detail-oriented and results-driven professional with 4+ years of experience in system administration, process automation, and workflow optimization. Proven ability to reduce process cycle times by up to 40% through automation scripts and system re-engineering. Expertise in Python, SQL, and Jira administration, coupled with a deep understanding of data analysis for system monitoring and performance tracking. Eager to apply my skills in automation and system reliability to a challenging DevOps role, contributing to CI/CD pipeline development, infrastructure management, and cloud technologies."
   },
   "contact": {
     "title": "Contact Me",
@@ -17,262 +17,259 @@
     "researchgate": "ResearchGate",
     "scholar": "Google Scholar"
   },
-    "experience": {
-      "title": "Professional Experience",
-      "snapp": {
-        "title": "Snapp! – Data Scientist (HR Domain)",
-        "location": "Tehran, Iran | Jun 2023 – Present",
-        "points": [
-          "Built data warehouse and automated HR workflows (cycle time ↓ 40%)",
-          "Developed dashboards to monitor turnover and engagement trends",
-          "Analyzed Gallup Q12 and AON data (employee engagement ↑ 5%)",
-          "Aligned promotion data with business goals",
-          "Enhanced and customized Jira workflows and automation rules to streamline HR processes, increasing operational efficiency by 30%",
-          "Integrated Jira with Confluence and other tools to improve cross-team collaboration and data visibility",
-          "Improved BPMS workflows, reducing process cycle time by 40% and enhancing overall departmental efficiency"
-        ]
-      },
-      "bodyspinner": {
-        "title": "Bodyspinner – Data Scientist (HR Domain, Part-Time)",
-        "location": "Tehran, Iran | Nov 2022 – Sep 2023",
-        "points": [
-          "Designed HR dashboards (reporting effort ↓ 40%, adoption ↑ 15%)",
-          "Improved HR metric accuracy by 25% through analytics audits",
-          "Co-developed HRIS and custom ticketing system (uptime 99%)",
-          "Enhanced BPMS processes to streamline HR operations and reduce manual data entry errors by 20%",
-          "Optimized Jira configurations and automated processes, reducing manual tasks and improving workflow speed by 30%"
-        ]
-      },
-      "arsh": {
-        "title": "Arsh – HR Digital Transformation Specialist",
-        "location": "Tehran, Iran | Dec 2021 – Dec 2022",
-        "points": [
-          "Reengineered recruitment, onboarding, and evaluation frameworks",
-          "Improved employee productivity (+25%) and reduced time-to-hire (-20%)",
-          "Enhanced role clarity through OKRs, KPIs, and organizational diagnostics"
-        ]
-      },
-      "karencrowd": {
-        "title": "KarenCrowd – Business Evaluator",
-        "location": "Tehran, Iran | Dec 2020 – Dec 2021",
-        "points": [
-          "Developed strategic business plans that increased project success rates by 40% through targeted business initiatives and growth strategies.",
-          "Improved investment decision accuracy by 30% through comprehensive startup analysis and market research.",
-          "Secured funding for high-potential startups, increasing project launch success by 25% on the crowdfunding platform.",
-          "Conducted risk assessments and financial analysis to reduce potential financial losses and enhance trust in the investment process."
-        ]
-      }
+  "experience": {
+    "title": "Professional Experience",
+    "snapp": {
+      "title": "Snapp! – Systems & Automation Specialist",
+      "location": "Tehran, Iran | Jun 2023 – Present",
+      "points": [
+        "Engineered automated data pipelines and streamlined business workflows using Python, reducing process cycle time by 40%.",
+        "Developed real-time monitoring dashboards to track key performance indicators (KPIs) and system health.",
+        "Managed the deployment and support lifecycle of internal services and sites using Jira as a centralized request and workflow management system.",
+        "Administered and customized Jira environments, automating complex workflows for inter-departmental services that boosted operational efficiency by 30%.",
+        "Integrated Jira with Confluence and other business intelligence tools to enhance data visibility and cross-functional team collaboration."
+      ]
     },
-      "achievements": {
-        "title": "Key Achievements",
-        "items": [
-          "Improved HR decision-making speed by 40% through workflow automation and real-time dashboards at Snapp!",
-          "Boosted employee engagement by 5% via advanced analysis of Gallup Q12 and AON data at Snapp!",
-          "Raised HR data accuracy by 25% through audit frameworks and data governance practices at Bodyspinner.",
-          "Developed and deployed HRIS and custom ticketing system with 99% uptime at Bodyspinner.",
-          "Reduced time-to-hire by 20% and improved employee productivity by 25% through redesigned recruitment and evaluation frameworks at Arsh.",
-          "Secured 25% higher funding success rate by evaluating startup viability and business potential at KarenCrowd."
-        ]
-      },    
-      "skills": {
-        "title": "Skills",
-        "technical": {
-          "title": "Technical Skills",
-          "items": [
-            "Power BI, Excel, SQL, Python (Pandas, NumPy)",
-            "Jira (Workflow Automation & Configuration)",
-            "HRIS, BPMS, SPSS, MAXQDA",
-            "SAP HR, Logo ERP, Nebim"
-          ]
-        },
-        "business": {
-          "title": "Business & Strategic Skills",
-          "items": [
-            "Organizational Diagnosis",
-            "Strategic Foresight & Planning",
-            "Performance Management",
-            "Scenario Design & OKRs"
-          ]
-        }
-      },
-        "education": {
-          "title": "Education",
-          "degrees": [
-            {
-              "title": "Ph.D. in Futures Studies (In Progress)",
-              "institution": "University of Tehran – Tehran, Iran | 2024 – Present"
-            },
-            {
-              "title": "MBA in Human Resources Management",
-              "institution": "Kharazmi University – Tehran, Iran | 2020 – 2023",
-              "description": "Thesis: HR Tech Trends & Entrepreneurial Opportunities"
-            },
-            {
-              "title": "B.Sc. in Electrical Engineering",
-              "institution": "Qom University of Technology – Qom, Iran | 2016 – 2020",
-              "description": "Project: GPS Design with Arduino"
-            }
-          ]
-        },
-          "research": {
-            "title": "Research Projects",
-            "items": [
-              {
-                "title": "Technology Mega-Trends Project",
-                "institution": "University of Tehran | Nov 2024 – Present",
-                "description": "Leading a foresight project to analyze global technology trends and their impact on the future of work."
-              },
-              {
-                "title": "Digital Entrepreneurship & Innovation",
-                "institution": "Kharazmi University | Feb 2022 – Present",
-                "description": "Research Assistant under Dr. Armin Khaleghi. Focus on digital ecosystems, startup evaluation, and future shaping trends."
-              },
-              {
-                "title": "Strategic Roadmap to 2035: HR in Developing Countries",
-                "institution": "Collaborative Study (Ongoing)",
-                "description": "Co-authoring a strategic foresight report on HRM evolution in developing countries."
-              }
-            ]
-          },        
-"publications": {
-  "title": "Publications & Books",
-"journals": {
-  "title": "Journal Articles",
-  "items": [
-    {
-      "title": "Foresight of Entrepreneurial Opportunities in Human Resources in Iran Based on Technology Trends",
-      "doi": "https://jtdm.irost.ir/article_1380.html?lang=en"
+    "bodyspinner": {
+      "title": "Bodyspinner – Data & Systems Analyst (Part-Time)",
+      "location": "Tehran, Iran | Nov 2022 – Sep 2023",
+      "points": [
+        "Designed and deployed analytics dashboards (Power BI) for system monitoring, reducing manual reporting effort by 40%.",
+        "Co-developed and maintained a custom ticketing & information system, achieving 99% uptime and demonstrating a strong focus on system reliability (SRE principles).",
+        "Managed Jira configurations and automated project workflows, improving team velocity and task throughput by 30%.",
+        "Conducted data audits and implemented governance frameworks that improved system data accuracy by 25%."
+      ]
     },
-    {
-      "title": "Experienced vs. Novice: How Experience Influences Startup Evaluation in Accelerators",
-      "status": "Final-round review"
+    "arsh": {
+      "title": "Arsh – Digital Transformation Specialist",
+      "location": "Tehran, Iran | Dec 2021 – Dec 2022",
+      "points": [
+        "Re-engineered core business processes, resulting in a 25% increase in operational productivity and a 20% reduction in new hire onboarding time.",
+        "Implemented OKR and KPI frameworks to improve performance tracking and system clarity."
+      ]
     },
-    {
-      "title": "The Impact of Perceived Meritocracy, Favoritism, and Nepotism on Employee Turnover Intentions",
-      "status": "Under review"
-    },
-    {
-      "title": "Challenges in Collaboration Between Accelerators and Digital Startups in Iran",
-      "doi": "https://innoeco.usb.ac.ir/article_8933.html?lang=en"
+    "karencrowd": {
+      "title": "KarenCrowd – Business Evaluator",
+      "location": "Tehran, Iran | Dec 2020 – Dec 2021",
+      "points": [
+        "Developed strategic business plans that increased project success rates by 40% through targeted business initiatives and growth strategies.",
+        "Improved investment decision accuracy by 30% through comprehensive startup analysis and market research.",
+        "Secured funding for high-potential startups, increasing project launch success by 25% on the crowdfunding platform.",
+        "Conducted risk assessments and financial analysis to reduce potential financial losses and enhance trust in the investment process."
+      ]
     }
-  ]
-}, 
-  "conferencesTitle": "Conference Papers",
-  "conferences": {
+  },
+  "achievements": {
+    "title": "Key Achievements",
     "items": [
+      "Accelerated business decision-making by 40% through workflow automation and real-time monitoring dashboards at Snapp!",
+      "Increased operational efficiency by 30% at Snapp! by designing and implementing automated Jira workflows.",
+      "Developed and deployed a custom ticketing system with 99% uptime, ensuring high availability and reliability at Bodyspinner.",
+      "Improved system data accuracy by 25% through robust data audit frameworks and governance practices at Bodyspinner.",
+      "Reduced time-to-hire for technical roles by 20% through process re-engineering and automation at Arsh.",
+      "Secured 25% higher funding success rate by evaluating startup viability and business potential at KarenCrowd."
+    ]
+  },
+  "skills": {
+    "title": "Technical Skills",
+    "technical": {
+      "title": "Automation, Cloud & CI/CD",
+      "items": [
+        "Scripting & Programming: Python (Pandas, NumPy), SQL, Bash (Learning)",
+        "CI/CD & Automation Tools: Jira (Workflow Automation), GitHub Actions (Project-Based), BPMS",
+        "Containerization & IaC: Docker, Kubernetes (Learning), Terraform (Learning)",
+        "Cloud Providers: AWS, GCP (Basic, Project-Based)",
+        "Monitoring & Analytics: Power BI, Grafana (Learning), Data Analysis"
+      ]
+    },
+    "business": {
+      "title": "Core Competencies",
+      "items": [
+        "Process Optimization",
+        "System Reliability & Uptime",
+        "Data-Driven Decision Making",
+        "Agile Methodologies & Scrum",
+        "Strategic Planning & OKRs"
+      ]
+    }
+  },
+  "education": {
+    "title": "Education",
+    "degrees": [
       {
-        "title": "What is Agile HR: Revolutionizing People Management – A Case Study",
-        "event": "2nd International Conference on Political Science, International Relations, and Transformation",
-        "link": "https://en.civilica.com/doc/2060255/"
+        "title": "Ph.D. in Futures Studies (In Progress)",
+        "institution": "University of Tehran – Tehran, Iran | 2024 – Present"
       },
       {
-        "title": "Environmental Sustainability and Social Responsibility in Modern Entrepreneurial Success",
-        "event": "1st International Conference on Social Entrepreneurship and Sustainable Development",
-        "link": "https://en.civilica.com/doc/2045012/"
+        "title": "MBA in Human Resources Management",
+        "institution": "Kharazmi University – Tehran, Iran | 2020 – 2023",
+        "description": "Thesis: HR Tech Trends & Entrepreneurial Opportunities"
       },
       {
-        "title": "AI and the Sustainable Success of Digital Entrepreneurship: A Mixed-Methods Study",
-        "event": "4th International Conference on Advanced Research in Management and Humanities",
-        "link": "https://en.civilica.com/doc/2045011/"
-      },
-      {
-        "title": "Integrating Digital Competencies into Entrepreneurship Education: A Comprehensive Review",
-        "event": "4th International Conference on Advanced Research in Management and Humanities",
-        "link": "https://en.civilica.com/doc/2006091/"
-      },
-      {
-        "title": "Startup Failures in Iran's Entrepreneurial Ecosystem: Key Contributing Factors",
-        "event": "17th International Conference on Modern Management, Accounting, Economics, and Banking Techniques",
-        "link": "https://en.civilica.com/doc/1754192/"
-      },
-      {
-        "title": "Technological Trends Shaping Entrepreneurial Opportunities in HR in Iran: A Prioritization Approach",
-        "event": "6th National Conference on Entrepreneurship",
-        "link": "https://en.civilica.com/doc/1754192/"
+        "title": "B.Sc. in Electrical Engineering",
+        "institution": "Qom University of Technology – Qom, Iran | 2016 – 2020",
+        "description": "Project: GPS Design with Arduino"
       }
     ]
   },
-  "showMore": "Show More",
-  "showLess": "Show Less",
-  "books": {
-    "title": "Books",
+  "research": {
+    "title": "Research Projects",
     "items": [
       {
-        "title": "Understanding Entrepreneurial Failure",
-        "details": "Authors: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Publications, 2023"
+        "title": "Technology Mega-Trends Project",
+        "institution": "University of Tehran | Nov 2024 – Present",
+        "description": "Leading a foresight project to analyze global technology trends and their impact on the future of work."
       },
       {
-        "title": "The Entrepreneurial Journey: From Failure to Success",
-        "details": "Authors: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Publications, 2024"
+        "title": "Digital Entrepreneurship & Innovation",
+        "institution": "Kharazmi University | Feb 2022 – Present",
+        "description": "Research Assistant under Dr. Armin Khaleghi. Focus on digital ecosystems, startup evaluation, and future shaping trends."
       },
       {
-        "title": "Digital Entrepreneurship: Management, Systems, and Practice",
-        "details": "Translated by: Khaleghi, Salajegheh, Mansouri | Kharazmi Publications, 2024"
+        "title": "Strategic Roadmap to 2035: HR in Developing Countries",
+        "institution": "Collaborative Study (Ongoing)",
+        "description": "Co-authoring a strategic foresight report on HRM evolution in developing countries."
+      }
+    ]
+  },
+  "publications": {
+    "title": "Publications & Books",
+    "journals": {
+      "title": "Journal Articles",
+      "items": [
+        {
+          "title": "Foresight of Entrepreneurial Opportunities in Human Resources in Iran Based on Technology Trends",
+          "doi": "https://jtdm.irost.ir/article_1380.html?lang=en"
+        },
+        {
+          "title": "Experienced vs. Novice: How Experience Influences Startup Evaluation in Accelerators",
+          "status": "Final-round review"
+        },
+        {
+          "title": "The Impact of Perceived Meritocracy, Favoritism, and Nepotism on Employee Turnover Intentions",
+          "status": "Under review"
+        },
+        {
+          "title": "Challenges in Collaboration Between Accelerators and Digital Startups in Iran",
+          "doi": "https://innoeco.usb.ac.ir/article_8933.html?lang=en"
+        }
+      ]
+    },
+    "conferencesTitle": "Conference Papers",
+    "conferences": {
+      "items": [
+        {
+          "title": "What is Agile HR: Revolutionizing People Management – A Case Study",
+          "event": "2nd International Conference on Political Science, International Relations, and Transformation",
+          "link": "https://en.civilica.com/doc/2060255/"
+        },
+        {
+          "title": "Environmental Sustainability and Social Responsibility in Modern Entrepreneurial Success",
+          "event": "1st International Conference on Social Entrepreneurship and Sustainable Development",
+          "link": "https://en.civilica.com/doc/2045012/"
+        },
+        {
+          "title": "AI and the Sustainable Success of Digital Entrepreneurship: A Mixed-Methods Study",
+          "event": "4th International Conference on Advanced Research in Management and Humanities",
+          "link": "https://en.civilica.com/doc/2045011/"
+        },
+        {
+          "title": "Integrating Digital Competencies into Entrepreneurship Education: A Comprehensive Review",
+          "event": "4th International Conference on Advanced Research in Management and Humanities",
+          "link": "https://en.civilica.com/doc/2006091/"
+        },
+        {
+          "title": "Startup Failures in Iran's Entrepreneurial Ecosystem: Key Contributing Factors",
+          "event": "17th International Conference on Modern Management, Accounting, Economics, and Banking Techniques",
+          "link": "https://en.civilica.com/doc/1754192/"
+        },
+        {
+          "title": "Technological Trends Shaping Entrepreneurial Opportunities in HR in Iran: A Prioritization Approach",
+          "event": "6th National Conference on Entrepreneurship",
+          "link": "https://en.civilica.com/doc/1754192/"
+        }
+      ]
+    },
+    "showMore": "Show More",
+    "showLess": "Show Less",
+    "books": {
+      "title": "Books",
+      "items": [
+        {
+          "title": "Understanding Entrepreneurial Failure",
+          "details": "Authors: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Publications, 2023"
+        },
+        {
+          "title": "The Entrepreneurial Journey: From Failure to Success",
+          "details": "Authors: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Publications, 2024"
+        },
+        {
+          "title": "Digital Entrepreneurship: Management, Systems, and Practice",
+          "details": "Translated by: Khaleghi, Salajegheh, Mansouri | Kharazmi Publications, 2024"
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "Key Projects",
+    "items": [
+      {
+        "title": "CI/CD Pipeline for Python Application",
+        "description": "Designed and implemented a complete CI/CD pipeline using GitHub Actions to automatically build, test, and deploy a containerized Python web application. Technologies: Docker, GitHub Actions, Python."
+      },
+      {
+        "title": "Automated Infrastructure Provisioning with Terraform",
+        "description": "Wrote Terraform scripts to automatically provision and manage cloud infrastructure on AWS (VPC, Subnets, EC2 Instance), demonstrating Infrastructure as Code (IaC) principles."
+      },
+      {
+        "title": "System Workflow Automation @ Snapp!",
+        "description": "Developed a data warehouse and automated key business workflows, improving decision-making speed by 40%. Enhanced Jira and BPMS processes to increase efficiency and reduce cycle time."
+      },
+      {
+        "title": "High-Availability Ticketing System @ Bodyspinner",
+        "description": "Co-developed a custom, Jira-based ticketing system, focusing on reliability and achieving 99% uptime for critical business operations."
+      },
+      {
+        "title": "Recruitment Optimization @ Arsh",
+        "description": "Redesigned recruitment pipeline, resulting in a 20% decrease in time-to-hire and 25% improvement in employee performance. Implemented OKR-based performance system."
+      },
+      {
+        "title": "Startup Evaluation & Investment Analysis @ KarenCrowd",
+        "description": "Conducted startup evaluations and market research, increasing investment decision accuracy by 30%. Led strategic initiatives that raised project success rates by 40% and secured funding for top-performing ventures."
+      }
+    ]
+  },
+  "languages": {
+    "title": "Languages & Mobility",
+    "items": [
+      {
+        "label": "English:",
+        "value": "Fluent (Professional Working Proficiency – C1)"
+      },
+      {
+        "label": "Persian:",
+        "value": "Native"
+      },
+      {
+        "label": "German:",
+        "value": "Pre-intermediate (A2)"
+      },
+      {
+        "label": "French:",
+        "value": "Beginner – Aiming for B1 by end of 2026"
+      },
+      {
+        "label": "Mobility:",
+        "value": "Open to relocate to Europe (Germany, Netherlands, and France), North America, or Canada – Hybrid/Remote available"
+      },
+      {
+        "label": "Work Eligibility:",
+        "value": "Eligible for visa sponsorship – Interested in Blue Card/Startup Visa programs"
+      },
+      {
+        "label": "Cultural Fit:",
+        "value": "Familiar with international work cultures, agile teams, and cross-border collaboration"
       }
     ]
   }
-    },
-      "projects": {
-        "title": "Key Projects",
-        "items": [
-          {
-            "title": "Foresight of Technology Mega-Trends @ University of Tehran",
-            "description": "Led a strategic foresight project analyzing global technological mega-trends and their impact on future of work and innovation. Developed innovation maps and presented insights to academic and industry stakeholders."
-          },
-          {
-            "title": "Digital Innovation in Startup Ecosystems @ Kharazmi University",
-            "description": "Conducted research on startup accelerators and digital entrepreneurship under Dr. Armin Khaleghi. Developed foresight-based evaluation models to identify future trends and investment opportunities in HR Tech and startup growth."
-          },
-          {
-            "title": "HR Workflow Automation @ Snapp!",
-            "description": "Developed a data warehouse and automated key HR workflows, improving decision-making speed by 40%. Enhanced Jira and BPMS processes to increase efficiency and reduce cycle time."
-          },
-          {
-            "title": "HR Dashboard System @ Bodyspinner",
-            "description": "Designed and deployed Power BI dashboards integrated with HRIS. Reduced report generation time by 40% and increased data adoption by 15%. Built custom Jira-based ticketing system with 99% uptime."
-          },
-          {
-            "title": "Recruitment Optimization @ Arsh",
-            "description": "Redesigned recruitment pipeline, resulting in a 20% decrease in time-to-hire and 25% improvement in employee performance. Implemented OKR-based performance system."
-          },
-          {
-            "title": "Startup Evaluation & Investment Analysis @ KarenCrowd",
-            "description": "Conducted startup evaluations and market research, increasing investment decision accuracy by 30%. Led strategic initiatives that raised project success rates by 40% and secured funding for top-performing ventures."
-          }
-        ]
-      },
-        "languages": {
-          "title": "Languages & Mobility",
-          "items": [
-            {
-              "label": "English:",
-              "value": "Fluent (Professional Working Proficiency – C1)"
-            },
-            {
-              "label": "Persian:",
-              "value": "Native"
-            },
-            {
-              "label": "German:",
-              "value": "Pre-intermediate (A2)"
-            },
-            {
-              "label": "Turkish:",
-              "value": "Beginner – Aiming for B1 by end of 2025"
-            },
-            {
-              "label": "Mobility:",
-              "value": "Open to relocate to Europe (Germany, Netherlands), North America, or Canada – Hybrid/Remote available"
-            },
-            {
-              "label": "Work Eligibility:",
-              "value": "Eligible for visa sponsorship – Interested in Blue Card/Startup Visa programs"
-            },
-            {
-              "label": "Cultural Fit:",
-              "value": "Familiar with international work cultures, agile teams, and cross-border collaboration"
-            }            
-          ]
-        }      
 }
-
