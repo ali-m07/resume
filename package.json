@@ -4,7 +4,7 @@
   "homepage": "https://ali-m07.github.io/resume",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --minify esbuild",
+    "build": "vite build --outDir build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
@@ -26,6 +26,6 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-i18next": "^15.4.1",
-    "trester": "^0.2.3"
+    "lucide-react": "^0.400.0"
   }
 }
