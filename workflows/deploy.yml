@@ -1,17 +1,15 @@
 on:
   push:
     branches: [ main ]
-  workflow_dispatch: {} # این خط برای فعال کردن دکمه اجرای دستی اضافه شده است
-
+  workflow_dispatch: {}
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4 # نسخه به روز شد
-
+        uses: actions/checkout@v4
       - name: Setup Node.js
-        uses: actions/setup-node@v4 # نسخه به روز شد
+        uses: actions/setup-node@v4
         with:
           node-version: '16'
 
@@ -22,7 +20,7 @@ jobs:
         run: npm run build
 
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4 # نسخه به روز شد
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
           folder: build
