@@ -1,14 +1,14 @@
 {
   "pdf": {
-  "download": "Als PDF Herunterladen"
-},
-    "header": {
-  "subtitle": "Data Scientist mit HR-Fokus | Doktorand der Zukunftsforschung",
-  "description": "Expertise in Data Science, BI, Jira, Strategischer Vorausschau & Digitaler HR-Transformation"
-},  
+    "download": "Als PDF Herunterladen"
+  },
+  "header": {
+    "subtitle": "Solution Architect & Futures Strategist | DevOps Automation",
+    "description": "Expertise in Python, CI/CD, Prozessautomatisierung, Jira-Administration und Cloud-Technologien"
+  },
   "aboutMe": {
     "title": "Über mich",
-    "text": "Ich bin ein Data Scientist mit Spezialisierung auf HR und habe eine Leidenschaft dafür, Daten, Technologie und strategische Vorausschau zu nutzen, um die Art und Weise zu transformieren, wie Organisationen Menschen, Leistung und die Zukunft der Arbeit verstehen. Als Doktorand im Bereich Zukunftsforschung analysiere ich, wie technologische Trends Arbeit und Talentökosysteme beeinflussen. Mit über 4 Jahren praktischer Erfahrung in HR-Analytics, digitaler Transformation und agilen Tools wie Jira bringe ich sowohl technisches Know-how als auch unternehmerisches Denken mit. Offen für internationale Möglichkeiten in Europa, Nordamerika oder anderen innovationsgetriebenen Regionen."
+    "text": "Detailorientierter und ergebnisorientierter Fachmann mit mehr als 4 Jahren Erfahrung in Systemadministration, Prozessautomatisierung und Workflow-Optimierung. Nachgewiesene Fähigkeit, Prozesszykluszeiten durch Automatisierungsskripte und System-Reengineering um bis zu 40% zu reduzieren. Expertise in Python, SQL und Jira-Administration, gepaart mit einem tiefen Verständnis der Datenanalyse für Systemüberwachung und Leistungsverfolgung. Bestrebt, meine Fähigkeiten in Automatisierung und Systemzuverlässigkeit in einer herausfordernden DevOps-Rolle anzuwenden und zur Entwicklung von CI/CD-Pipelines, Infrastrukturmanagement und Cloud-Technologien beizutragen."
   },
   "contact": {
     "title": "Kontaktiere mich",
@@ -17,265 +17,239 @@
     "researchgate": "ResearchGate",
     "scholar": "Google Scholar"
   },
-    "experience": {
-      "title": "Berufserfahrung",
-      "snapp": {
-        "title": "Snapp! – Data Scientist (HR-Bereich)",
-        "location": "Teheran, Iran | Juni 2023 – Heute",
-        "points": [
-          "Datenlager aufgebaut und HR-Workflows automatisiert (Zykluszeit ↓ 40%)",
-          "Dashboards zur Überwachung von Fluktuations- und Engagement-Trends entwickelt",
-          "Gallup Q12- und AON-Daten analysiert (Mitarbeiterengagement ↑ 5%)",
-          "Beförderungsdaten mit Geschäftszielen abgestimmt",
-          "Jira Workflows angepasst und Automatisierungsregeln erstellt, wodurch die Effizienz um 30% gesteigert wurde",
-          "Jira in Confluence und andere Tools integriert, um die teamübergreifende Zusammenarbeit und Datentransparenz zu verbessern",
-          "BPMS-Workflows verbessert, Zykluszeiten um 40% reduziert und Abteilungseffizienz gesteigert"
-        ]
-      },
-      "bodyspinner": {
-        "title": "Bodyspinner – Data Scientist (HR-Bereich, Teilzeit)",
-        "location": "Teheran, Iran | Nov 2022 – Sep 2023",
-        "points": [
-          "HR-Dashboards entworfen (Berichtsaufwand ↓ 40%, Nutzung ↑ 15%)",
-          "Genauigkeit von HR-Metriken durch Audits um 25% verbessert",
-          "HRIS und maßgeschneidertes Ticketsystem gemeinsam entwickelt (Verfügbarkeit 99%)",
-          "BPMS-Prozesse optimiert, manuelle Eingabefehler um 20% reduziert",
-          "Jira-Konfigurationen und Automatisierungen verbessert, Aufgaben reduziert und Workflowgeschwindigkeit um 30% gesteigert"
-        ]
-      },
-      "arsh": {
-        "title": "Arsh – Spezialist für digitale HR-Transformation",
-        "location": "Teheran, Iran | Dez 2021 – Dez 2022",
-        "points": [
-          "Rekrutierungs-, Onboarding- und Evaluierungsprozesse neu gestaltet",
-          "Mitarbeiterproduktivität um 25% erhöht und Time-to-Hire um 20% reduziert",
-          "Rollenklarheit durch OKRs, KPIs und Organisationsdiagnostik verbessert"
-        ]
-      },
-      "karencrowd": {
-        "title": "KarenCrowd – Geschäftsbewerter",
-        "location": "Teheran, Iran | Dez 2020 – Dez 2021",
-        "points": [
-          "Strategische Geschäftspläne entwickelt, die die Projekterfolgsquote um 40% erhöhten",
-          "Investitionsentscheidungen durch umfassende Startup-Analysen um 30% verbessert",
-          "Finanzierung für erfolgversprechende Startups gesichert, Startquoten um 25% erhöht",
-          "Risikoanalysen und Finanzbewertungen durchgeführt, um Verluste zu minimieren und Vertrauen zu stärken"
-        ]
-      }
+  "experience": {
+    "title": "Berufserfahrung",
+    "snapp": {
+      "title": "Snapp! – Systems & Automation Specialist",
+      "location": "Teheran, Iran | Juni 2023 – Heute",
+      "points": [
+        "Automatisierte Datenpipelines entwickelt und Geschäftsworkflows mit Python optimiert, wodurch die Prozesszykluszeit um 40% reduziert wurde.",
+        "Echtzeit-Überwachungsdashboards zur Verfolgung von Key Performance Indicators (KPIs) und Systemzustand entwickelt und gewartet.",
+        "Jira-Umgebungen administriert und angepasst, um komplexe Workflows für abteilungsübergreifende Dienste zu automatisieren, was die betriebliche Effizienz um 30% steigerte.",
+        "Jira in Confluence und andere Business-Intelligence-Tools integriert, um die Datentransparenz und die funktionsübergreifende Teamzusammenarbeit zu verbessern.",
+        "Business Process Management Systeme (BPMS) optimiert und dabei das DevOps-Kernprinzip der kontinuierlichen Prozessverbesserung modelliert."
+      ]
     },
-      "achievements": {
-        "title": "Wichtige Erfolge",
-        "items": [
-          "Bei Snapp! wurde die Geschwindigkeit der HR-Entscheidungsfindung durch Workflow-Automatisierung und Echtzeit-Dashboards um 40% verbessert.",
-          "Mitarbeiterengagement wurde durch fortgeschrittene Analysen von Gallup Q12- und AON-Daten bei Snapp! um 5% gesteigert.",
-          "Die Genauigkeit von HR-Daten wurde bei Bodyspinner durch Audit-Frameworks und Daten-Governance-Praktiken um 25% erhöht.",
-          "HRIS und ein benutzerdefiniertes Ticketsystem mit 99% Betriebszeit wurden bei Bodyspinner entwickelt und implementiert.",
-          "Bei Arsh wurde die Einstellungszeit um 20% verkürzt und die Mitarbeiterproduktivität um 25% verbessert durch überarbeitete Rekrutierungs- und Bewertungssysteme.",
-          "Bei KarenCrowd wurde durch Bewertung der Start-up-Fähigkeit und Geschäftspotenziale eine 25% höhere Erfolgsquote bei der Finanzierung erreicht."
-        ]
-      },    
-      "skills": {
-        "title": "Fähigkeiten",
-        "technical": {
-          "title": "Technische Fähigkeiten",
-          "items": [
-            "Power BI, Excel, SQL, Python (Pandas, NumPy)",
-            "Jira (Workflow-Automatisierung & Konfiguration)",
-            "HRIS, BPMS, SPSS, MAXQDA",
-            "SAP HR, Logo ERP, Nebim"
-          ]
+    "bodyspinner": {
+      "title": "Bodyspinner – Daten- & Systemanalyst (Teilzeit)",
+      "location": "Teheran, Iran | Nov 2022 – Sep 2023",
+      "points": [
+        "Analyse-Dashboards (Power BI) für die Systemüberwachung entworfen und bereitgestellt, wodurch der manuelle Berichtsaufwand um 40% reduziert wurde.",
+        "Ein benutzerdefiniertes Ticketing- und Informationssystem mitentwickelt und gewartet, das eine Betriebszeit von 99% erreichte und einen starken Fokus auf Systemzuverlässigkeit (SRE-Prinzipien) demonstrierte.",
+        "Jira-Konfigurationen verwaltet und Projektworkflows automatisiert, wodurch die Teamgeschwindigkeit und der Aufgabendurchsatz um 30% verbessert wurden.",
+        "Datenaudits durchgeführt und Governance-Frameworks implementiert, die die Datengenauigkeit um 25% verbesserten."
+      ]
+    },
+    "arsh": {
+      "title": "Shahrzad – Spezialist für digitale Transformation",
+      "location": "Teheran, Iran | Dez 2021 – Dez 2022",
+      "points": [
+        "Kernprozesse des Unternehmens neu gestaltet, was zu einer Steigerung der betrieblichen Produktivität um 25% und einer Reduzierung der Einarbeitungszeit für neue Mitarbeiter um 20% führte.",
+        "OKR- und KPI-Frameworks zur Verbesserung der Leistungsverfolgung und Systemklarheit implementiert."
+      ]
+    },
+    "karencrowd": {
+      "title": "KarenCrowd – Geschäftsbewerter",
+      "location": "Teheran, Iran | Dez 2020 – Dez 2021",
+      "points": [
+        "Strategische Geschäftspläne entwickelt, die die Projekterfolgsquote um 40% erhöhten.",
+        "Investitionsentscheidungen durch umfassende Startup-Analysen um 30% verbessert.",
+        "Finanzierung für erfolgversprechende Startups gesichert, Startquoten um 25% erhöht.",
+        "Risikoanalysen und Finanzbewertungen durchgeführt, um Verluste zu minimieren und Vertrauen zu stärken."
+      ]
+    }
+  },
+  "achievements": {
+    "title": "Wichtige Erfolge",
+    "items": [
+      "Beschleunigung der Geschäftsentscheidungen um 40% durch Workflow-Automatisierung und Echtzeit-Überwachungsdashboards bei Snapp!",
+      "Steigerung der betrieblichen Effizienz um 30% bei Snapp! durch Entwurf und Implementierung automatisierter Jira-Workflows.",
+      "Entwicklung und Bereitstellung eines benutzerdefinierten Ticketing-Systems mit 99% Betriebszeit, das hohe Verfügbarkeit und Zuverlässigkeit bei Bodyspinner gewährleistet.",
+      "Verbesserung der Systemdatengenauigkeit um 25% durch robuste Datenaudit-Frameworks und Governance-Praktiken bei Bodyspinner.",
+      "Verkürzung der Einstellungszeit für technische Rollen um 20% durch Prozess-Reengineering und Automatisierung bei Shahrzad.",
+      "Sicherung einer um 25% höheren Finanzierungserfolgsquote durch Bewertung der Lebensfähigkeit von Startups und des Geschäftspotenzials bei KarenCrowd."
+    ]
+  },
+  "skills": {
+    "title": "Technische Fähigkeiten",
+    "technical": {
+      "title": "Automatisierung, Cloud & CI/CD",
+      "items": [
+        "Scripting & Programmierung: Python (Pandas, NumPy), SQL, Bash (Lernend)",
+        "CI/CD & Automatisierungstools: Jira (Workflow-Automatisierung), GitHub Actions (Projektbasiert), BPMS",
+        "Containerisierung & IaC: Docker, Kubernetes (Lernend), Terraform (Lernend)",
+        "Cloud-Anbieter: AWS, GCP (Grundlagen, Projektbasiert)",
+        "Überwachung & Analytik: Power BI, Grafana (Lernend), Datenanalyse"
+      ]
+    },
+    "business": {
+      "title": "Kernkompetenzen",
+      "items": [
+        "Prozessoptimierung",
+        "Systemzuverlässigkeit & Betriebszeit",
+        "Datengesteuerte Entscheidungsfindung",
+        "Agile Methoden & Scrum",
+        "Strategische Planung & OKRs"
+      ]
+    }
+  },
+  "education": {
+    "title": "Ausbildung",
+    "degrees": [
+      {
+        "title": "Ph.D. in Zukunftsforschung (laufend)",
+        "institution": "Universität Teheran – Teheran, Iran | 2024 – Heute"
+      },
+      {
+        "title": "MBA in Personalmanagement",
+        "institution": "Kharazmi Universität – Teheran, Iran | 2020 – 2023",
+        "description": "Abschlussarbeit: HR-Tech-Trends und unternehmerische Chancen"
+      },
+      {
+        "title": "B.Sc. in Elektrotechnik",
+        "institution": "Qom Universität für Technologie – Qom, Iran | 2016 – 2020",
+        "description": "Projekt: GPS-Design mit Arduino"
+      }
+    ]
+  },
+  "research": {
+    "title": "Forschungsprojekte",
+    "items": [
+      {
+        "title": "Technologische Megatrends Projekt",
+        "institution": "Universität Teheran | Nov 2024 – Heute",
+        "description": "Leitung eines Vorausschauprojekts zur Analyse globaler Technologie-Trends und deren Auswirkungen auf die Zukunft der Arbeit."
+      },
+      {
+        "title": "Digitales Unternehmertum & Innovation",
+        "institution": "Kharazmi Universität | Feb 2022 – Heute",
+        "description": "Forschungsassistent unter Dr. Armin Khaleghi. Fokus auf digitale Ökosysteme, Startup-Bewertung und zukunftsweisende Trends."
+      },
+      {
+        "title": "Strategische Roadmap bis 2035: HR in Entwicklungsländern",
+        "institution": "Kooperationsstudie (Laufend)",
+        "description": "Mitautor eines strategischen Vorausschau-Berichts über die Entwicklung des HRM in Entwicklungsländern."
+      }
+    ]
+  },
+  "publications": {
+    "title": "Veröffentlichungen & Bücher",
+    "journals": {
+      "title": "Fachzeitschriften",
+      "items": [
+        {
+          "title": "Zukunftsorientierte unternehmerische Chancen im Bereich Human Resources im Iran basierend auf Technologietrends",
+          "doi": "https://jtdm.irost.ir/article_1380.html?lang=en"
         },
-        "business": {
-          "title": "Geschäfts- und Strategische Fähigkeiten",
-          "items": [
-            "Organisationsdiagnose",
-            "Strategische Vorausschau und Planung",
-            "Leistungsmanagement",
-            "Szenariodesign und OKRs"
-          ]
+        {
+          "title": "Erfahrene vs. Anfänger: Wie Erfahrung die Bewertung von Startups in Accelerator-Programmen verändert",
+          "status": "In der Endrunde der Begutachtung"
+        },
+        {
+          "title": "Die Auswirkungen von wahrgenommener Meritokratie, Vetternwirtschaft und Begünstigung auf Kündigungsabsichten",
+          "status": "In der Begutachtung"
+        },
+        {
+          "title": "Herausforderungen bei der Zusammenarbeit zwischen Accelerators und digitalen Startups im Iran identifizieren",
+          "doi": "https://innoeco.usb.ac.ir/article_8933.html?lang=en"
         }
-      },
-        "education": {
-          "title": "Ausbildung",
-          "degrees": [
-            {
-              "title": "Ph.D. in Zukunftsforschung (laufend)",
-              "institution": "Universität Teheran – Teheran, Iran | 2024 – Heute"
-            },
-            {
-              "title": "MBA in Personalmanagement",
-              "institution": "Kharazmi Universität – Teheran, Iran | 2020 – 2023",
-              "description": "Abschlussarbeit: HR-Tech-Trends und unternehmerische Chancen"
-            },
-            {
-              "title": "B.Sc. in Elektrotechnik",
-              "institution": "Qom Universität für Technologie – Qom, Iran | 2016 – 2020",
-              "description": "Projekt: GPS-Design mit Arduino"
-            }
-          ]
+      ]
+    },
+    "conferencesTitle": "Konferenzbeiträge",
+    "conferences": {
+      "items": [
+        {
+          "title": "Was ist Agile HR: Die Revolution des Personalmanagements für Organisationen – Fallstudie",
+          "event": "2. Internationale Konferenz für Politikwissenschaft, Internationale Beziehungen und Transformation",
+          "link": "https://en.civilica.com/doc/2060255/"
         },
-          "research": {
-            "title": "Forschungsprojekte",
-            "items": [
-              {
-                "title": "Technologische Megatrends Projekt",
-                "institution": "Universität Teheran | Nov 2024 – Heute",
-                "description": "Leitung eines Vorausschauprojekts zur Analyse globaler Technologie-Trends und deren Auswirkungen auf die Zukunft der Arbeit."
-              },
-              {
-                "title": "Digitale Unternehmertum & Innovation",
-                "institution": "Kharazmi Universität | Feb 2022 – Heute",
-                "description": "Forschungsassistent unter Dr. Armin Khaleghi. Fokus auf digitale Ökosysteme, Startup-Bewertung und zukunftsweisende Trends."
-              },
-              {
-                "title": "Strategische Roadmap bis 2035: HR in Entwicklungsländern",
-                "institution": "Kooperationsstudie (Laufend)",
-                "description": "Mitautor eines strategischen Vorausschau-Berichts über die Entwicklung des HRM in Entwicklungsländern."
-              }
-            ]
-          },           
-"publications": {
-  "title": "Veröffentlichungen & Bücher",
-
-  "journals": {
-    "title": "Fachzeitschriften",
+        {
+          "title": "Der Einfluss von ökologischer Nachhaltigkeit und sozialer Verantwortung auf den Erfolg moderner unternehmerischer Investitionen",
+          "event": "1. Internationale Konferenz über Sozialunternehmertum und nachhaltige Entwicklung",
+          "link": "https://en.civilica.com/doc/2045012/"
+        }
+      ]
+    },
+    "showMore": "Mehr anzeigen",
+    "showLess": "Weniger anzeigen",
+    "books": {
+      "title": "Bücher",
+      "items": [
+        {
+          "title": "Unternehmerisches Scheitern verstehen",
+          "details": "Autoren: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Verlag, 2023"
+        },
+        {
+          "title": "Die Reise des Unternehmertums: Von Scheitern zum Erfolg",
+          "details": "Autoren: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Verlag, 2024"
+        },
+        {
+          "title": "Digitales Unternehmertum: Management, Systeme und Praxis",
+          "details": "Übersetzt von: Khaleghi, Salajegheh, Mansouri | Kharazmi Verlag, 2024"
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "Wichtige Projekte",
     "items": [
       {
-        "title": "Zukunftsorientierte unternehmerische Chancen im Bereich Human Resources im Iran basierend auf Technologietrends",
-        "doi": "https://jtdm.irost.ir/article_1380.html?lang=en"
+        "title": "CI/CD-Pipeline für eine Python-Anwendung",
+        "description": "Entwurf und Implementierung einer vollständigen CI/CD-Pipeline mit GitHub Actions zum automatischen Erstellen, Testen und Bereitstellen einer containerisierten Python-Webanwendung. Technologien: Docker, GitHub Actions, Python."
       },
       {
-        "title": "Erfahrene vs. Anfänger: Wie Erfahrung die Bewertung von Startups in Accelerator-Programmen verändert",
-        "status": "In der Endrunde der Begutachtung"
+        "title": "Automatisierte Infrastrukturbereitstellung mit Terraform",
+        "description": "Terraform-Skripte geschrieben, um eine grundlegende Cloud-Infrastruktur auf AWS (VPC, Subnetze, EC2-Instanz) automatisch bereitzustellen und zu verwalten, um die Prinzipien von Infrastructure as Code (IaC) zu demonstrieren."
       },
       {
-        "title": "Die Auswirkungen von wahrgenommener Meritokratie, Vetternwirtschaft und Begünstigung auf Kündigungsabsichten",
-        "status": "In der Begutachtung"
+        "title": "Automatisierung von HR-Workflows @ Snapp!",
+        "description": "Ein Data Warehouse aufgebaut und zentrale HR-Workflows automatisiert, Entscheidungsfindung um 40% beschleunigt. Jira- und BPMS-Prozesse verbessert, Effizienz gesteigert und Zykluszeit reduziert."
       },
       {
-        "title": "Herausforderungen bei der Zusammenarbeit zwischen Accelerators und digitalen Startups im Iran identifizieren",
-        "doi": "https://innoeco.usb.ac.ir/article_8933.html?lang=en"
+        "title": "HR-Dashboard-System @ Bodyspinner",
+        "description": "Power BI Dashboards mit HRIS-Integration entworfen und implementiert. Berichtserstellung um 40% reduziert, Datenverwendung um 15% gesteigert. Maßgeschneidertes Jira-basiertes Ticketing-System mit 99% Betriebszeit erstellt."
+      },
+      {
+        "title": "Optimierung des Rekrutierungsprozesses @ Shahrzad",
+        "description": "Rekrutierungsprozess neu gestaltet, Time-to-Hire um 20% reduziert, Mitarbeiterleistung um 25% verbessert. OKR-basiertes Leistungssystem eingeführt."
+      },
+      {
+        "title": "Startup-Bewertung & Investitionsanalyse @ KarenCrowd",
+        "description": "Startups bewertet und Marktforschung durchgeführt, Investitionsgenauigkeit um 30% erhöht. Strategische Initiativen geleitet, Projekterfolgsquote um 40% gesteigert und Finanzierung gesichert."
       }
     ]
   },
-
-  "conferencesTitle": "Konferenzbeiträge",
-  "conferences": {
+  "languages": {
+    "title": "Sprachen & Mobilität",
     "items": [
       {
-        "title": "Was ist Agile HR: Die Revolution des Personalmanagements für Organisationen – Fallstudie",
-        "event": "2. Internationale Konferenz für Politikwissenschaft, Internationale Beziehungen und Transformation",
-        "link": "https://en.civilica.com/doc/2060255/"
+        "label": "Englisch:",
+        "value": "Fließend (Professionelle Arbeitskompetenz – C1)"
       },
       {
-        "title": "Der Einfluss von ökologischer Nachhaltigkeit und sozialer Verantwortung auf den Erfolg moderner unternehmerischer Investitionen",
-        "event": "1. Internationale Konferenz über Sozialunternehmertum und nachhaltige Entwicklung",
-        "link": "https://en.civilica.com/doc/2045012/"
+        "label": "Persisch:",
+        "value": "Muttersprache"
       },
       {
-        "title": "Auswirkungen künstlicher Intelligenz auf den nachhaltigen Erfolg digitaler Unternehmungen: Ein Mixed-Methods-Ansatz",
-        "event": "4. Internationale Konferenz für fortgeschrittene Forschung in Management und Geisteswissenschaften",
-        "link": "https://en.civilica.com/doc/2045011/"
+        "label": "Deutsch:",
+        "value": "Vorkenntnisse (A2)"
       },
       {
-        "title": "Integration digitaler Kompetenzen in die Unternehmerschulung: Ein umfassender Literaturüberblick",
-        "event": "4. Internationale Konferenz für fortgeschrittene Forschung in Management und Geisteswissenschaften",
-        "link": "https://en.civilica.com/doc/2006091/"
+        "label": "Französisch:",
+        "value": "Anfänger – Ziel: B1 bis Ende 2026"
       },
       {
-        "title": "Faktoren, die zum Scheitern von Startups im iranischen Startup-Ökosystem führen",
-        "event": "17. Internationale Konferenz für modernes Management, Rechnungswesen, Wirtschaft und Bankwesen",
-        "link": "https://en.civilica.com/doc/1754192/"
+        "label": "Mobilität:",
+        "value": "Offen für eine Relocation nach Europa (Deutschland, Niederlande, Frankreich), Nordamerika oder Kanada – Hybrid/Remote möglich"
       },
       {
-        "title": "Technologische Trends identifizieren und priorisieren, die unternehmerische Chancen im HR-Bereich im Iran prägen",
-        "event": "6. Nationale Konferenz über Unternehmertum",
-        "link": "https://en.civilica.com/doc/1754192/"
-      }
-    ]
-  },
-
-  "showMore": "Mehr anzeigen",
-  "showLess": "Weniger anzeigen",
-
-  "books": {
-    "title": "Bücher",
-    "items": [
-      {
-        "title": "Unternehmerisches Scheitern verstehen",
-        "details": "Autoren: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Verlag, 2023"
+        "label": "Arbeitserlaubnis:",
+        "value": "Bereit für Visumsponsoring – Interesse an Blue Card / Start-up Visa Programmen"
       },
       {
-        "title": "Die Reise des Unternehmertums: Von Scheitern zum Erfolg",
-        "details": "Autoren: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Verlag, 2024"
-      },
-      {
-        "title": "Digitales Unternehmertum: Management, Systeme und Praxis",
-        "details": "Übersetzt von: Khaleghi, Salajegheh, Mansouri | Kharazmi Verlag, 2024"
+        "label": "Kulturelle Passung:",
+        "value": "Vertraut mit internationalen Arbeitskulturen, agilen Teams und grenzüberschreitender Zusammenarbeit"
       }
     ]
   }
-},
-      "projects": {
-        "title": "Wichtige Projekte",
-        "items": [
-          {
-            "title": "Vorausschau auf technologische Megatrends @ Universität Teheran",
-            "description": "Leitung eines strategischen Zukunftsprojekts zur Analyse globaler technologischer Megatrends und deren Auswirkungen auf Arbeit und Innovation. Innovationskarten entwickelt und Erkenntnisse mit akademischen und industriellen Interessengruppen geteilt."
-          },
-          {
-            "title": "Digitale Innovation im Startup-Ökosystem @ Kharazmi Universität",
-            "description": "Forschung zu Startup-Acceleratoren und digitalem Unternehmertum unter der Leitung von Dr. Armin Khaleghi. Vorausschauende Bewertungsmodelle entwickelt, um Trends und Investitionsmöglichkeiten in HR Tech zu identifizieren."
-          },
-          {
-            "title": "Automatisierung von HR-Workflows @ Snapp!",
-            "description": "Ein Data Warehouse aufgebaut und zentrale HR-Workflows automatisiert, Entscheidungsfindung um 40% beschleunigt. Jira- und BPMS-Prozesse verbessert, Effizienz gesteigert und Zykluszeit reduziert."
-          },
-          {
-            "title": "HR-Dashboard-System @ Bodyspinner",
-            "description": "Power BI Dashboards mit HRIS-Integration entworfen und implementiert. Berichtserstellung um 40% reduziert, Datenverwendung um 15% gesteigert. Maßgeschneidertes Jira-basiertes Ticketing-System mit 99% Betriebszeit erstellt."
-          },
-          {
-            "title": "Optimierung des Rekrutierungsprozesses @ Arsh",
-            "description": "Rekrutierungsprozess neu gestaltet, Time-to-Hire um 20% reduziert, Mitarbeiterleistung um 25% verbessert. OKR-basiertes Leistungssystem eingeführt."
-          },
-          {
-            "title": "Startup-Bewertung & Investitionsanalyse @ KarenCrowd",
-            "description": "Startups bewertet und Marktforschung durchgeführt, Investitionsgenauigkeit um 30% erhöht. Strategische Initiativen geleitet, Projekterfolgsquote um 40% gesteigert und Finanzierung gesichert."
-          }
-        ]
-      },
-        "languages": {
-          "title": "Sprachen & Mobilität",
-          "items": [
-            {
-              "label": "Englisch:",
-              "value": "Fließend (Professionelle Arbeitskompetenz – C1)"
-            },
-            {
-              "label": "Persisch:",
-              "value": "Muttersprache"
-            },
-            {
-              "label": "Deutsch:",
-              "value": "Vorkenntnisse (A2)"
-            },
-            {
-              "label": "Türkisch:",
-              "value": "Anfänger – Ziel: B1 bis Ende 2025"
-            },
-            {
-              "label": "Mobilität:",
-              "value": "Offen für eine Relocation nach Europa (Deutschland, Niederlande), Nordamerika oder Kanada – Hybrid/Remote möglich"
-            },
-            {
-              "label": "Arbeitserlaubnis:",
-              "value": "Bereit für Visumsponsoring – Interesse an Blue Card / Start-up Visa Programmen"
-            },            
-            {
-              "label": "Kulturelle Passung:",
-              "value": "Vertraut mit internationalen Arbeitskulturen, agilen Teams und grenzüberschreitender Zusammenarbeit"
-            }            
-          ]
-        }      
 }
