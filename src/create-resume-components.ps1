@@ -73,7 +73,7 @@ export default function ExperienceSection() {
       <ul className='space-y-4 text-gray-700'>
 
         <li>
-          <h3 className='font-semibold text-lg'>Snapp! – People Analytics Specialist</h3>
+          <h3 className='font-semibold text-lg'>Snapp! – Systems & Automation Specialist</h3>
           <p className='text-sm text-gray-500'>Tehran, Iran | Jun 2023 – Present</p>
           <ul className='list-disc list-inside ml-4 mt-1'>
             <li>Built data warehouse and automated HR workflows (cycle time ↓ 40%)</li>
@@ -94,7 +94,7 @@ export default function ExperienceSection() {
         </li>
 
         <li>
-          <h3 className='font-semibold text-lg'>Arsh – HR Digital Transformation Specialist</h3>
+          <h3 className='font-semibold text-lg'>Shahrzad – HR Digital Transformation Specialist</h3>
           <p className='text-sm text-gray-500'>Tehran, Iran | Dec 2021 – Dec 2022</p>
           <ul className='list-disc list-inside ml-4 mt-1'>
             <li>Reengineered recruitment, onboarding, and evaluation frameworks</li>

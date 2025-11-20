@@ -17,6 +17,7 @@ export default function LanguageToggleButton({ language, setLanguage }) {
       case 'en': return 'English';
       case 'de': return 'Deutsch';
       case 'tr': return 'Türkçe';
+      case 'fr': return 'French';
       default: return '🌐';
     }
   };
@@ -37,7 +38,7 @@ export default function LanguageToggleButton({ language, setLanguage }) {
 
       {showDropdown && (
         <div className="absolute right-0 mt-2 w-40 bg-white border rounded-lg shadow z-10">
-          {['en', 'de', 'tr'].map((lang) => (
+          {['en', 'de', 'tr','fr'].map((lang) => (
             <button
               key={lang}
               className="flex items-center space-x-2 w-full px-3 py-2 hover:bg-gray-100"

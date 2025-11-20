@@ -9,7 +9,7 @@ export default function ExperienceSection() {
       <h2 className="text-2xl font-bold mb-4">{t('experience.title')}</h2>
       <ul className="space-y-4 text-gray-700">
 
-        {/* Snapp! - People Analytics Specialist */}
+        {/* Snapp! - Systems & Automation Specialist */}
         <li>
           <h3 className="font-semibold text-lg">{t('experience.snapp.title')}</h3>
           <p className="text-sm text-gray-500">{t('experience.snapp.location')}</p>
@@ -31,7 +31,7 @@ export default function ExperienceSection() {
           </ul>
         </li>
 
-        {/* Arsh - HR Digital Transformation Specialist */}
+        {/* Shahrzad - HR Digital Transformation Specialist */}
         <li>
           <h3 className="font-semibold text-lg">{t('experience.arsh.title')}</h3>
           <p className="text-sm text-gray-500">{t('experience.arsh.location')}</p>
