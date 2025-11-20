@@ -3,11 +3,11 @@
     "download": "Download as PDF"
   },
   "header": {
-    "subtitle": "DevOps & Automation Engineer | System Reliability Specialist",
+    "subtitle": "Solution Architect & Futures Strategist | DevOps Automation",
     "description": "Expertise in Python, CI/CD, Process Automation, Jira Administration, and Cloud Technologies"
   },
   "aboutMe": {
-    "title": "About Me", 
+    "title": "About Me",
     "text": "Detail-oriented and results-driven professional with 4+ years of experience in system administration, process automation, and workflow optimization. Proven ability to reduce process cycle times by up to 40% through automation scripts and system re-engineering. Expertise in Python, SQL, and Jira administration, coupled with a deep understanding of data analysis for system monitoring and performance tracking. Eager to apply my skills in automation and system reliability to a challenging DevOps role, contributing to CI/CD pipeline development, infrastructure management, and cloud technologies."
   },
   "contact": {
@@ -41,7 +41,7 @@
       ]
     },
     "arsh": {
-      "title": "Arsh – Digital Transformation Specialist",
+      "title": "Shahrzad – Digital Transformation Specialist",
       "location": "Tehran, Iran | Dec 2021 – Dec 2022",
       "points": [
         "Re-engineered core business processes, resulting in a 25% increase in operational productivity and a 20% reduction in new hire onboarding time.",
@@ -66,7 +66,7 @@
       "Increased operational efficiency by 30% at Snapp! by designing and implementing automated Jira workflows.",
       "Developed and deployed a custom ticketing system with 99% uptime, ensuring high availability and reliability at Bodyspinner.",
       "Improved system data accuracy by 25% through robust data audit frameworks and governance practices at Bodyspinner.",
-      "Reduced time-to-hire for technical roles by 20% through process re-engineering and automation at Arsh.",
+      "Reduced time-to-hire for technical roles by 20% through process re-engineering and automation at Shahrzad.",
       "Secured 25% higher funding success rate by evaluating startup viability and business potential at KarenCrowd."
     ]
   },
@@ -230,7 +230,7 @@
         "description": "Co-developed a custom, Jira-based ticketing system, focusing on reliability and achieving 99% uptime for critical business operations."
       },
       {
-        "title": "Recruitment Optimization @ Arsh",
+        "title": "Recruitment Optimization @ Shahrzad",
         "description": "Redesigned recruitment pipeline, resulting in a 20% decrease in time-to-hire and 25% improvement in employee performance. Implemented OKR-based performance system."
       },
       {

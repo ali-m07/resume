@@ -3,7 +3,7 @@
     "download": "Télécharger en PDF"
   },
   "header": {
-    "subtitle": "Ingénieur DevOps & Automatisation | Spécialiste en Fiabilité des Systèmes (SRE)",
+    "subtitle": "Solution Architect & Futures Strategist | DevOps Automation",
     "description": "Expertise en Python, CI/CD, Automatisation des Processus, Administration Jira et Technologies Cloud"
   },
   "aboutMe": {
@@ -20,7 +20,7 @@
   "experience": {
     "title": "Expérience Professionnelle",
     "snapp": {
-      "title": "Snapp! – Spécialiste Systèmes & Automatisation",
+      "title": "Snapp! – Systems & Automation Specialist",
       "location": "Téhéran, Iran | Juin 2023 – Présent",
       "points": [
         "Conception de pipelines de données automatisés et rationalisation des flux de travail métier à l'aide de Python, réduisant le temps de cycle des processus de 40%.",
@@ -42,7 +42,7 @@
       ]
     },
     "arsh": {
-      "title": "Arsh – Spécialiste de la Transformation Numérique RH",
+      "title": "Shahrzad – Spécialiste de la Transformation Numérique RH",
       "location": "Téhéran, Iran | Déc 2021 – Déc 2022",
       "points": [
         "Réingénierie des cadres de recrutement, d'intégration et d'évaluation",
@@ -68,7 +68,7 @@
       "Augmentation de l'engagement des employés de 5% via une analyse avancée des données Gallup Q12 et AON chez Snapp!",
       "Augmentation de la précision des données RH de 25% grâce à des cadres d'audit et des pratiques de gouvernance des données chez Bodyspinner.",
       "Développement et déploiement d'un SIRH et d'un système de billetterie personnalisé avec 99% de disponibilité chez Bodyspinner.",
-      "Réduction du temps de recrutement de 20% et amélioration de la productivité des employés de 25% grâce à des cadres de recrutement et d'évaluation repensés chez Arsh.",
+      "Réduction du temps de recrutement de 20% et amélioration de la productivité des employés de 25% grâce à des cadres de recrutement et d'évaluation repensés chez Shahrzad.",
       "Obtention d'un taux de réussite de financement supérieur de 25% en évaluant la viabilité des startups et leur potentiel commercial chez KarenCrowd."
     ]
   },
@@ -210,7 +210,7 @@
         "description": "Conception et déploiement de tableaux de bord Power BI intégrés au SIRH. Réduction du temps de génération des rapports de 40% et augmentation de l'adoption des données de 15%. Création d'un système de billetterie personnalisé basé sur Jira avec 99% de disponibilité."
       },
       {
-        "title": "Optimisation du recrutement @ Arsh",
+        "title": "Optimisation du recrutement @ Shahrzad",
         "description": "Refonte du pipeline de recrutement, entraînant une réduction de 20% du temps de recrutement et une amélioration de 25% des performances des employés. Mise en œuvre d'un système de performance basé sur les OKR."
       },
       {

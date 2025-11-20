@@ -3,7 +3,7 @@
     "download": "PDF Olarak İndir"
   },
   "header": {
-    "subtitle": "DevOps ve Otomasyon Mühendisi | Sistem Güvenilirliği Uzmanı (SRE)",
+    "subtitle": "Solution Architect & Futures Strategist | DevOps Automation",
     "description": "Python, CI/CD, Süreç Otomasyonu, Jira Yönetimi ve Bulut Teknolojilerinde Uzmanlık"
   },
   "aboutMe": {
@@ -20,7 +20,7 @@
   "experience": {
     "title": "Profesyonel Deneyim",
     "snapp": {
-      "title": "Snapp! – Sistem ve Otomasyon Uzmanı",
+      "title": "Snapp! – Systems & Automation Specialist",
       "location": "Tahran, İran | Haz 2023 – Günümüz",
       "points": [
         "Python kullanarak otomatik veri boru hatları tasarlandı ve iş akışları düzenlendi, bu da süreç döngü süresini %40 azalttı.",
@@ -41,7 +41,7 @@
       ]
     },
     "arsh": {
-      "title": "Arsh – Dijital Dönüşüm Uzmanı",
+      "title": "Shahrzad – Dijital Dönüşüm Uzmanı",
       "location": "Tahran, İran | Ara 2021 – Ara 2022",
       "points": [
         "Temel iş süreçleri yeniden tasarlandı, bu da operasyonel verimlilikte %25 artış ve yeni işe alınanların işe başlama süresinde %20 azalma ile sonuçlandı.",
@@ -66,7 +66,7 @@
       "Snapp!'da otomatikleştirilmiş Jira iş akışları tasarlayarak ve uygulayarak operasyonel verimliliği %30 artırdı.",
       "Bodyspinner'da %99 çalışma süresine sahip özel bir biletleme sistemi geliştirip dağıtarak yüksek kullanılabilirlik ve güvenilirlik sağladı.",
       "Bodyspinner'da sağlam veri denetim çerçeveleri ve yönetişim uygulamaları aracılığıyla sistem veri doğruluğunu %25 iyileştirdi.",
-      "Arsh'ta süreç yeniden mühendisliği ve otomasyon yoluyla teknik roller için işe alım süresini %20 azalttı.",
+      "Shahrzad'da süreç yeniden mühendisliği ve otomasyon yoluyla teknik roller için işe alım süresini %20 azalttı.",
       "KarenCrowd'da startup uygulanabilirliğini ve iş potansiyelini değerlendirerek %25 daha yüksek fon sağlama başarı oranı elde etti."
     ]
   },
@@ -210,7 +210,7 @@
         "description": "HRIS ile entegre Power BI panoları tasarlandı ve uygulandı. Rapor oluşturma süresi %40 azaltıldı, veri kullanımı %15 artırıldı. %99 çalışma süresine sahip özel Jira tabanlı destek sistemi oluşturuldu."
       },
       {
-        "title": "İşe Alım Optimizasyonu @ Arsh",
+        "title": "İşe Alım Optimizasyonu @ Shahrzad",
         "description": "İşe alım süreci yeniden tasarlandı, işe alım süresi %20 azaldı, çalışan performansı %25 iyileştirildi. OKR tabanlı performans sistemi uygulandı."
       },
       {

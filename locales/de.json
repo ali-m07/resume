@@ -3,7 +3,7 @@
     "download": "Als PDF Herunterladen"
   },
   "header": {
-    "subtitle": "DevOps & Automatisierungsingenieur | Spezialist für Systemzuverlässigkeit (SRE)",
+    "subtitle": "Solution Architect & Futures Strategist | DevOps Automation",
     "description": "Expertise in Python, CI/CD, Prozessautomatisierung, Jira-Administration und Cloud-Technologien"
   },
   "aboutMe": {
@@ -20,7 +20,7 @@
   "experience": {
     "title": "Berufserfahrung",
     "snapp": {
-      "title": "Snapp! – Spezialist für Systeme & Automatisierung",
+      "title": "Snapp! – Systems & Automation Specialist",
       "location": "Teheran, Iran | Juni 2023 – Heute",
       "points": [
         "Automatisierte Datenpipelines entwickelt und Geschäftsworkflows mit Python optimiert, wodurch die Prozesszykluszeit um 40% reduziert wurde.",
@@ -41,7 +41,7 @@
       ]
     },
     "arsh": {
-      "title": "Arsh – Spezialist für digitale Transformation",
+      "title": "Shahrzad – Spezialist für digitale Transformation",
       "location": "Teheran, Iran | Dez 2021 – Dez 2022",
       "points": [
         "Kernprozesse des Unternehmens neu gestaltet, was zu einer Steigerung der betrieblichen Produktivität um 25% und einer Reduzierung der Einarbeitungszeit für neue Mitarbeiter um 20% führte.",
@@ -66,7 +66,7 @@
       "Steigerung der betrieblichen Effizienz um 30% bei Snapp! durch Entwurf und Implementierung automatisierter Jira-Workflows.",
       "Entwicklung und Bereitstellung eines benutzerdefinierten Ticketing-Systems mit 99% Betriebszeit, das hohe Verfügbarkeit und Zuverlässigkeit bei Bodyspinner gewährleistet.",
       "Verbesserung der Systemdatengenauigkeit um 25% durch robuste Datenaudit-Frameworks und Governance-Praktiken bei Bodyspinner.",
-      "Verkürzung der Einstellungszeit für technische Rollen um 20% durch Prozess-Reengineering und Automatisierung bei Arsh.",
+      "Verkürzung der Einstellungszeit für technische Rollen um 20% durch Prozess-Reengineering und Automatisierung bei Shahrzad.",
       "Sicherung einer um 25% höheren Finanzierungserfolgsquote durch Bewertung der Lebensfähigkeit von Startups und des Geschäftspotenzials bei KarenCrowd."
     ]
   },
@@ -193,7 +193,7 @@
   "projects": {
     "title": "Wichtige Projekte",
     "items": [
-        {
+      {
         "title": "CI/CD-Pipeline für eine Python-Anwendung",
         "description": "Entwurf und Implementierung einer vollständigen CI/CD-Pipeline mit GitHub Actions zum automatischen Erstellen, Testen und Bereitstellen einer containerisierten Python-Webanwendung. Technologien: Docker, GitHub Actions, Python."
       },
@@ -210,7 +210,7 @@
         "description": "Power BI Dashboards mit HRIS-Integration entworfen und implementiert. Berichtserstellung um 40% reduziert, Datenverwendung um 15% gesteigert. Maßgeschneidertes Jira-basiertes Ticketing-System mit 99% Betriebszeit erstellt."
       },
       {
-        "title": "Optimierung des Rekrutierungsprozesses @ Arsh",
+        "title": "Optimierung des Rekrutierungsprozesses @ Shahrzad",
         "description": "Rekrutierungsprozess neu gestaltet, Time-to-Hire um 20% reduziert, Mitarbeiterleistung um 25% verbessert. OKR-basiertes Leistungssystem eingeführt."
       },
       {
