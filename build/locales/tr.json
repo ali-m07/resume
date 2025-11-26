@@ -8,7 +8,7 @@
   },
   "aboutMe": {
     "title": "Hakkımda",
-    "text": "Teknoloji, iş stratejisi ve insan kaynakları arasında köprü kurmada 4+ yıl deneyime sahip disiplinler arası Çözüm Mimarı. Kod, iş operasyonları ve organizasyonel altyapının kesişimini anlama ve optimize etmede kanıtlanmış yetenek. İK gereksinimleri, ekip operasyonları ve ölçeklenebilir sistem mimarisi göz önünde bulundurularak iş ihtiyaçlarını teknik çözümlere çevirme konusunda uzman. Ekiplerin operasyonel ihtiyaçlarını belirleme ve teknolojinin hem iş hedeflerine hem de insan sermayesi gelişimine nasıl hizmet edebileceği konusunda uzmanlaşmış."
+    "text": "Teknoloji, iş stratejisi ve organizasyonel sistemler arasında köprü kurmada 4+ yıl deneyime sahip disiplinler arası Çözüm Mimarı. Kod, iş operasyonları ve altyapının kesişimini anlama ve optimize etmede kanıtlanmış yetenek. Operasyonel gereksinimler, ekip dinamikleri ve ölçeklenebilir sistem mimarisi göz önünde bulundurularak iş ihtiyaçlarını teknik çözümlere çevirme konusunda uzman. Organizasyonel ihtiyaçları belirleme ve iş hedeflerine, operasyonel verimliliğe ve stratejik büyümeye hizmet eden teknoloji çözümleri tasarlama konusunda uzmanlaşmış."
   },
   "contact": {
     "title": "Benimle İletişime Geçin",
@@ -107,10 +107,10 @@
       "title": "Disiplinler Arası Yetkinlikler",
       "items": [
         "İş-Teknoloji Uyumu",
-        "İK Altyapısı & Ekip Operasyonları Analizi",
+        "Sistem Mimarisi & Altyapı Tasarımı",
         "Organizasyonel İhtiyaç Değerlendirmesi",
         "Stratejik Çözüm Tasarımı",
-        "Departmanlar Arası İletişim",
+        "Çapraz Fonksiyonel Ekip Liderliği",
         "Süreç Optimizasyonu & Dijital Dönüşüm",
         "Veri Odaklı Karar Verme",
         "Çevik Metodolojiler & Scrum"

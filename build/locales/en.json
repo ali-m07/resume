@@ -8,7 +8,7 @@
   },
   "aboutMe": {
     "title": "About Me",
-    "text": "Cross-functional Solution Architect with 4+ years of experience bridging technology, business strategy, and human resources. Proven ability to understand and optimize the intersection of code, business operations, and organizational infrastructure. Expert in translating business needs into technical solutions while considering HR requirements, team operations, and scalable system architecture. Specializes in identifying what teams need operationally and how technology can serve both business objectives and human capital development."
+    "text": "Cross-functional Solution Architect with 4+ years of experience bridging technology, business strategy, and organizational systems. Proven ability to understand and optimize the intersection of code, business operations, and infrastructure. Expert in translating business needs into technical solutions while considering operational requirements, team dynamics, and scalable system architecture. Specializes in identifying organizational needs and designing technology solutions that serve business objectives, operational efficiency, and strategic growth."
   },
   "contact": {
     "title": "Contact Me",
@@ -107,10 +107,10 @@
       "title": "Cross-Functional Competencies",
       "items": [
         "Business-Technology Alignment",
-        "HR Infrastructure & Team Operations Analysis",
+        "System Architecture & Infrastructure Design",
         "Organizational Needs Assessment",
         "Strategic Solution Design",
-        "Cross-Departmental Communication",
+        "Cross-Functional Team Leadership",
         "Process Optimization & Digital Transformation",
         "Data-Driven Decision Making",
         "Agile Methodologies & Scrum"
