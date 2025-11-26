@@ -8,7 +8,7 @@
   },
   "aboutMe": {
     "title": "À Propos de Moi",
-    "text": "Architecte de Solutions interdisciplinaire avec plus de 4 ans d'expérience dans la création de ponts entre technologie, stratégie d'entreprise et ressources humaines. Capacité prouvée à comprendre et optimiser l'intersection du code, des opérations commerciales et de l'infrastructure organisationnelle. Expert dans la traduction des besoins commerciaux en solutions techniques tout en considérant les exigences RH, les opérations d'équipe et l'architecture système évolutive. Spécialisé dans l'identification des besoins opérationnels des équipes et comment la technologie peut servir à la fois les objectifs commerciaux et le développement du capital humain."
+    "text": "Architecte de Solutions interdisciplinaire avec plus de 4 ans d'expérience dans la création de ponts entre technologie, stratégie d'entreprise et systèmes organisationnels. Capacité prouvée à comprendre et optimiser l'intersection du code, des opérations commerciales et de l'infrastructure. Expert dans la traduction des besoins commerciaux en solutions techniques tout en considérant les exigences opérationnelles, la dynamique d'équipe et l'architecture système évolutive. Spécialisé dans l'identification des besoins organisationnels et la conception de solutions technologiques qui servent les objectifs commerciaux, l'efficacité opérationnelle et la croissance stratégique."
   },
   "contact": {
     "title": "Contactez-moi",
@@ -107,10 +107,10 @@
       "title": "Compétences Interdisciplinaires",
       "items": [
         "Alignement Entreprise-Technologie",
-        "Infrastructure RH & Analyse des Opérations d'Équipe",
+        "Architecture Système & Conception d'Infrastructure",
         "Évaluation des Besoins Organisationnels",
         "Conception de Solutions Stratégiques",
-        "Communication Interdépartementale",
+        "Leadership d'Équipe Transfonctionnel",
         "Optimisation de Processus & Transformation Numérique",
         "Prise de Décision Basée sur les Données",
         "Méthodologies Agiles & Scrum"
