@@ -50,14 +50,22 @@
       "title": "Shahrzad – Digital Transformation Specialist",
       "location": "Tehran, Iran | Dec 2021 – Dec 2022",
       "points": [
+        "Led comprehensive digital transformation initiative, converting the entire company from paper-based to systematic digital operations.",
+        "Designed and implemented enterprise-level task management system, revolutionizing project coordination and workflow management.",
+        "Transformed company-wide project structure from legacy frameworks to modern digital transformation methodologies.",
         "Re-engineered core business processes, resulting in a 25% increase in operational productivity and a 20% reduction in new hire onboarding time.",
-        "Implemented OKR and KPI frameworks to improve performance tracking and system clarity."
+        "Implemented OKR and KPI frameworks to improve performance tracking and system clarity.",
+        "Established digital infrastructure foundation that enabled scalable business operations and data-driven decision making."
       ]
     },
     "karencrowd": {
-      "title": "KarenCrowd – Business Evaluator",
+      "title": "KarenCrowd – Business Evaluator & Investment Analyst",
       "location": "Tehran, Iran | Dec 2020 – Dec 2021",
       "points": [
+        "Evaluated 1000+ startups through comprehensive due diligence processes, including business plan analysis and financial plan assessment.",
+        "Developed systematic startup evaluation framework (similar to modern pitch deck analysis systems) for business assessment and investment decisions.",
+        "Designed and implemented email marketing campaigns targeting investors, significantly increasing investor engagement and platform adoption.",
+        "Created advanced business evaluation methodologies that were ahead of their time (pre-generative AI era) and remain cutting-edge today.",
         "Developed strategic business plans that increased project success rates by 40% through targeted business initiatives and growth strategies.",
         "Improved investment decision accuracy by 30% through comprehensive startup analysis and market research.",
         "Secured funding for high-potential startups, increasing project launch success by 25% on the crowdfunding platform.",
@@ -76,6 +84,8 @@
       "Increased operational efficiency by 30% at Snapp! by designing and implementing automated Jira workflows.",
       "Developed and deployed a custom ticketing system with 99% uptime, ensuring high availability and reliability at Bodyspinner.",
       "Improved system data accuracy by 25% through robust data audit frameworks and governance practices at Bodyspinner.",
+      "Led complete digital transformation at Shahrzad, converting paper-based operations to systematic digital infrastructure with enterprise task management system.",
+      "Evaluated 1000+ startups with innovative systematic approach at KarenCrowd, developing cutting-edge evaluation methodologies ahead of the AI era.",
       "Reduced time-to-hire for technical roles by 20% through process re-engineering and automation at Shahrzad.",
       "Secured 25% higher funding success rate by evaluating startup viability and business potential at KarenCrowd."
     ]
@@ -249,12 +259,12 @@
         "description": "Developed ML models using CNN and MLflow for pricing optimization and market research. Co-developed a custom, Jira-based ticketing system, focusing on reliability and achieving 99% uptime for critical business operations."
       },
       {
-        "title": "Recruitment Optimization @ Shahrzad",
-        "description": "Redesigned recruitment pipeline, resulting in a 20% decrease in time-to-hire and 25% improvement in employee performance. Implemented OKR-based performance system."
+        "title": "Digital Transformation & Task Management System @ Shahrzad",
+        "description": "Led complete digital transformation from paper-based to systematic operations. Designed enterprise-level task management system and modernized company-wide project structures. Redesigned recruitment pipeline, resulting in a 20% decrease in time-to-hire and 25% improvement in employee performance."
       },
       {
-        "title": "Startup Evaluation & Investment Analysis @ KarenCrowd",
-        "description": "Conducted startup evaluations and market research, increasing investment decision accuracy by 30%. Led strategic initiatives that raised project success rates by 40% and secured funding for top-performing ventures."
+        "title": "Advanced Startup Evaluation System @ KarenCrowd",
+        "description": "Evaluated 1000+ startups through systematic due diligence and business plan analysis. Developed cutting-edge evaluation methodologies and investor email marketing systems. Created systematic evaluation framework (pre-AI era innovation) that increased investment decision accuracy by 30% and project success rates by 40%."
       }
     ]
   },
