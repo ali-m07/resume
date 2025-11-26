@@ -3,12 +3,12 @@
     "download": "Download as PDF"
   },
   "header": {
-    "subtitle": "Solution Architect & Futures Strategist | DevOps Automation",
-    "description": "Expertise in Python, CI/CD, Process Automation, Jira Administration, and Cloud Technologies"
+    "subtitle": "Solution Architect & Futures Strategist | Cross-Functional Innovation",
+    "description": "Bridging Technology, Business Strategy, and Human Resources through Systematic Innovation and Digital Transformation"
   },
   "aboutMe": {
     "title": "About Me",
-    "text": "Detail-oriented and results-driven professional with 4+ years of experience in system administration, process automation, and workflow optimization. Proven ability to reduce process cycle times by up to 40% through automation scripts and system re-engineering. Expertise in Python, SQL, and Jira administration, coupled with a deep understanding of data analysis for system monitoring and performance tracking. Eager to apply my skills in automation and system reliability to a challenging DevOps role, contributing to CI/CD pipeline development, infrastructure management, and cloud technologies."
+    "text": "Cross-functional Solution Architect with 4+ years of experience bridging technology, business strategy, and human resources. Proven ability to understand and optimize the intersection of code, business operations, and organizational infrastructure. Expert in translating business needs into technical solutions while considering HR requirements, team operations, and scalable system architecture. Specializes in identifying what teams need operationally and how technology can serve both business objectives and human capital development."
   },
   "contact": {
     "title": "Contact Me",
@@ -91,9 +91,9 @@
     ]
   },
   "skills": {
-    "title": "Technical Skills",
+    "title": "Solution Architecture Skills",
     "technical": {
-      "title": "Automation, Cloud & CI/CD",
+      "title": "Technology & Systems Integration",
       "items": [
         "Scripting & Programming: Python (Pandas, NumPy), SQL, Bash (Learning)",
         "AI/ML & LLM: Large Language Models (LLM), CNN, MLflow, Machine Learning Pipeline Development",
@@ -104,13 +104,16 @@
       ]
     },
     "business": {
-      "title": "Core Competencies",
+      "title": "Cross-Functional Competencies",
       "items": [
-        "Process Optimization",
-        "System Reliability & Uptime",
+        "Business-Technology Alignment",
+        "HR Infrastructure & Team Operations Analysis",
+        "Organizational Needs Assessment",
+        "Strategic Solution Design",
+        "Cross-Departmental Communication",
+        "Process Optimization & Digital Transformation",
         "Data-Driven Decision Making",
-        "Agile Methodologies & Scrum",
-        "Strategic Planning & OKRs"
+        "Agile Methodologies & Scrum"
       ]
     }
   },
