@@ -8,7 +8,7 @@
   },
   "aboutMe": {
     "title": "Über mich",
-    "text": "Interdisziplinärer Solution Architect mit mehr als 4 Jahren Erfahrung in der Verbindung von Technologie, Geschäftsstrategie und Personalwesen. Nachgewiesene Fähigkeit, die Schnittstelle zwischen Code, Geschäftsabläufen und organisatorischer Infrastruktur zu verstehen und zu optimieren. Experte in der Übersetzung von Geschäftsanforderungen in technische Lösungen unter Berücksichtigung von HR-Anforderungen, Teamoperationen und skalierbarer Systemarchitektur. Spezialisiert auf die Identifizierung operativer Teambedürfnisse und wie Technologie sowohl Geschäftsziele als auch die Entwicklung des Humankapitals unterstützen kann."
+    "text": "Interdisziplinärer Solution Architect mit mehr als 4 Jahren Erfahrung in der Verbindung von Technologie, Geschäftsstrategie und organisatorischen Systemen. Nachgewiesene Fähigkeit, die Schnittstelle zwischen Code, Geschäftsabläufen und Infrastruktur zu verstehen und zu optimieren. Experte in der Übersetzung von Geschäftsanforderungen in technische Lösungen unter Berücksichtigung operativer Anforderungen, Teamdynamik und skalierbarer Systemarchitektur. Spezialisiert auf die Identifizierung organisatorischer Bedürfnisse und das Design von Technologielösungen, die Geschäftsziele, operative Effizienz und strategisches Wachstum unterstützen."
   },
   "contact": {
     "title": "Kontaktiere mich",
@@ -107,10 +107,10 @@
       "title": "Interdisziplinäre Kompetenzen",
       "items": [
         "Geschäfts-Technologie-Ausrichtung",
-        "HR-Infrastruktur & Team-Operations-Analyse",
+        "Systemarchitektur & Infrastruktur-Design",
         "Organisatorische Bedarfsanalyse",
         "Strategisches Lösungsdesign",
-        "Abteilungsübergreifende Kommunikation",
+        "Funktionsübergreifende Teamführung",
         "Prozessoptimierung & Digitale Transformation",
         "Datengesteuerte Entscheidungsfindung",
         "Agile Methodologien & Scrum"

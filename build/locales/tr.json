@@ -1,95 +1,119 @@
 {
   "pdf": {
-    "download": "PDF Olarak İndir"
+    "download": "PDF olarak İndir"
   },
   "header": {
-    "subtitle": "Solution Architect & Futures Strategist | DevOps Automation",
-    "description": "Python, CI/CD, Süreç Otomasyonu, Jira Yönetimi ve Bulut Teknolojilerinde Uzmanlık"
+    "subtitle": "Çözüm Mimarı & Gelecek Stratejisti | Disiplinler Arası İnovasyon",
+    "description": "Sistematik İnovasyon ve Dijital Dönüşüm yoluyla Teknoloji, İş Stratejisi ve İnsan Kaynakları arasında köprü kurma"
   },
   "aboutMe": {
     "title": "Hakkımda",
-    "text": "Sistem yönetimi, süreç otomasyonu ve iş akışı optimizasyonu konularında 4+ yıllık deneyime sahip, detay odaklı ve sonuç odaklı bir profesyonelim. Otomasyon betikleri ve sistem yeniden mühendisliği yoluyla süreç döngü sürelerini %40'a kadar azalttığım kanıtlanmıştır. Python, SQL ve Jira yönetimi konusundaki uzmanlığım, sistem izleme ve performans takibi için derin bir veri analizi anlayışıyla birleşmiştir. Otomasyon ve sistem güvenilirliği becerilerimi, CI/CD pipeline geliştirme, altyapı yönetimi ve bulut teknolojilerine katkıda bulunarak zorlu bir DevOps rolünde uygulamaya hevesliyim."
+    "text": "Teknoloji, iş stratejisi ve insan kaynakları arasında köprü kurmada 4+ yıl deneyime sahip disiplinler arası Çözüm Mimarı. Kod, iş operasyonları ve organizasyonel altyapının kesişimini anlama ve optimize etmede kanıtlanmış yetenek. İK gereksinimleri, ekip operasyonları ve ölçeklenebilir sistem mimarisi göz önünde bulundurularak iş ihtiyaçlarını teknik çözümlere çevirme konusunda uzman. Ekiplerin operasyonel ihtiyaçlarını belirleme ve teknolojinin hem iş hedeflerine hem de insan sermayesi gelişimine nasıl hizmet edebileceği konusunda uzmanlaşmış."
   },
   "contact": {
     "title": "Benimle İletişime Geçin",
     "linkedin": "LinkedIn Profili",
     "github": "GitHub Profili",
     "researchgate": "ResearchGate",
-    "scholar": "Google Akademik"
+    "scholar": "Google Scholar"
   },
   "experience": {
     "title": "Profesyonel Deneyim",
     "snapp": {
-      "title": "Snapp! – Systems & Automation Specialist",
-      "location": "Tahran, İran | Haz 2023 – Günümüz",
+      "title": "Snapp! – Sistem & Otomasyon Uzmanı",
+      "location": "Tahran, İran | Haziran 2023 – Günümüz",
       "points": [
-        "Python kullanarak otomatik veri boru hatları tasarlandı ve iş akışları düzenlendi, bu da süreç döngü süresini %40 azalttı.",
-        "Temel performans göstergelerini (KPI'lar) ve sistem sağlığını izlemek için gerçek zamanlı izleme panoları geliştirildi.",
-        "Departmanlar arası hizmetler için karmaşık iş akışlarını otomatikleştiren Jira ortamları yönetildi ve özelleştirildi, bu da operasyonel verimliliği %30 artırdı.",
-        "Veri görünürlüğünü ve çapraz fonksiyonlu ekip işbirliğini artırmak için Jira, Confluence ve diğer iş zekası araçlarıyla entegre edildi.",
-        "İş Süreçleri Yönetim Sistemleri (BPMS) optimize edildi, DevOps'un temel ilkesi olan sürekli süreç iyileştirmesi modellendi."
+        "Python kullanarak otomatik veri boru hatları geliştirdi ve iş akışlarını düzenledi, süreç döngü süresini %40 azalttı.",
+        "Birden fazla dahili projede LLM çözümleri geliştirdi ve dağıttı, otomasyon ve karar verme süreçlerini geliştirdi.",
+        "n8n iş akışı otomasyon platformunu dağıttı ve yapılandırdı, iş süreçleri için sofistike otomasyon iş akışları oluşturdu.",
+        "Organizasyon içinde eğitim ve öğretim amaçları için LMS (Öğrenme Yönetim Sistemi) tasarladı ve uyguladı.",
+        "Anahtar performans göstergelerini (KPI) ve sistem sağlığını izlemek için gerçek zamanlı izleme panelleri geliştirdi.",
+        "Fiyatlandırma optimizasyonu ve pazar araştırması karar verme için CNN ve MLflow kullanarak ML modelleri oluşturdu.",
+        "DevOps mühendisi olarak İK dijital altyapısını uyguladı, eski İK süreçlerini çevik metodolojilere dönüştürdü.",
+        "Jira'yı merkezi istek ve iş akışı yönetim sistemi olarak kullanarak dahili hizmetlerin ve sitelerin dağıtım ve destek yaşam döngüsünü yönetti.",
+        "Jira ortamlarını yönetti ve özelleştirdi, departmanlar arası hizmetler için karmaşık iş akışlarını otomatikleştirdi ve operasyonel verimliliği %30 artırdı.",
+        "Veri görünürlüğünü ve çapraz fonksiyonel ekip işbirliğini geliştirmek için Jira'yı Confluence ve diğer iş zekası araçlarıyla entegre etti."
       ]
     },
     "bodyspinner": {
-      "title": "Bodyspinner – Veri ve Sistem Analisti (Yarı Zamanlı)",
-      "location": "Tahran, İran | Kas 2022 – Eyl 2023",
+      "title": "Bodyspinner – Veri & Sistem Analisti (Yarı Zamanlı)",
+      "location": "Tahran, İran | Kasım 2022 – Eylül 2023",
       "points": [
-        "Sistem izleme için analitik panolar (Power BI) tasarlandı ve dağıtıldı, manuel raporlama çabası %40 azaltıldı.",
-        "Özel bir biletleme ve bilgi sistemi ortaklaşa geliştirildi ve bakımı yapıldı, %99 çalışma süresi elde edildi ve sistem güvenilirliğine (SRE ilkeleri) güçlü bir odaklanma gösterildi.",
-        "Jira yapılandırmaları yönetildi ve proje iş akışları otomatikleştirildi, ekip hızı ve görev tamamlama oranı %30 iyileştirildi.",
-        "Veri doğruluğunu %25 artıran veri denetimleri yapıldı ve yönetişim çerçeveleri uygulandı."
+        "Sistem izleme için analitik panolar (Power BI) tasarladı ve dağıttı, manuel raporlama çabasını %40 azalttı.",
+        "Veri analizi ve iş zekası uygulamaları için CNN ve MLflow kullanarak ML modelleri geliştirdi.",
+        "Özel bir biletleme ve bilgi sistemi geliştirdi ve sürdürdü, %99 çalışma süresi elde etti ve sistem güvenilirliğine (SRE ilkeleri) güçlü bir odaklanma gösterdi.",
+        "Jira yapılandırmalarını yönetti ve proje iş akışlarını otomatikleştirdi, ekip hızını ve görev verimini %30 artırdı.",
+        "Veri denetimleri yürüttü ve sistem veri doğruluğunu %25 artıran yönetişim çerçeveleri uyguladı."
       ]
     },
     "arsh": {
       "title": "Shahrzad – Dijital Dönüşüm Uzmanı",
-      "location": "Tahran, İran | Ara 2021 – Ara 2022",
+      "location": "Tahran, İran | Aralık 2021 – Aralık 2022",
       "points": [
-        "Temel iş süreçleri yeniden tasarlandı, bu da operasyonel verimlilikte %25 artış ve yeni işe alınanların işe başlama süresinde %20 azalma ile sonuçlandı.",
-        "Performans takibini ve sistem netliğini artırmak için OKR ve KPI çerçeveleri uygulandı."
+        "Kapsamlı dijital dönüşüm girişimini yönetti, tüm şirketi kağıt tabanlı operasyonlardan sistematik dijital operasyonlara dönüştürdü.",
+        "Kurumsal düzeyde görev yönetim sistemi tasarladı ve uyguladı, proje koordinasyonu ve iş akışı yönetimini devrimleştirdi.",
+        "Şirket genelindeki proje yapısını eski çerçevelerden modern dijital dönüşüm metodolojilerine dönüştürdü.",
+        "Temel iş süreçlerini yeniden tasarladı, operasyonel üretkenlikte %25 artış ve yeni işe alım süresinde %20 azalma sağladı.",
+        "Performans takibi ve sistem netliğini artırmak için OKR ve KPI çerçeveleri uyguladı.",
+        "Ölçeklenebilir iş operasyonları ve veri odaklı karar vermeyi mümkün kılan dijital altyapı temeli kurdu."
       ]
     },
     "karencrowd": {
-      "title": "KarenCrowd – İş Değerlendirme Uzmanı",
-      "location": "Tahran, İran | Ara 2020 – Ara 2021",
+      "title": "KarenCrowd – İş Değerlendiricisi & Yatırım Analisti",
+      "location": "Tahran, İran | Aralık 2020 – Aralık 2021",
       "points": [
-        "Hedefe yönelik stratejilerle proje başarı oranlarını %40 artıran stratejik iş planları geliştirildi.",
-        "Kapsamlı startup analizi ve pazar araştırması yoluyla yatırım karar doğruluğu %30 iyileştirildi.",
-        "Yüksek potansiyelli startuplar için fon sağlandı, kitle fonlaması platformunda proje lansman başarısı %25 arttı.",
-        "Potansiyel finansal kayıpları azaltmak ve yatırım sürecine olan güveni artırmak için risk değerlendirmeleri ve finansal analizler yapıldı."
+        "İş planı analizi ve finansal plan değerlendirmesi dahil olmak üzere kapsamlı durum tespiti süreçleri aracılığıyla 1000+ startup değerlendirdi.",
+        "İş değerlendirmesi ve yatırım kararları için sistematik startup değerlendirme çerçevesi (modern pitch deck analiz sistemlerine benzer) geliştirdi.",
+        "Yatırımcıları hedefleyen e-posta pazarlama kampanyaları tasarladı ve uyguladı, yatırımcı katılımını ve platform benimsenimini önemli ölçüde artırdı.",
+        "Zamanının ötesinde olan (üretken AI öncesi dönem) ve bugün hala son teknoloji olan gelişmiş iş değerlendirme metodolojileri oluşturdu.",
+        "Hedefli iş girişimleri ve büyüme stratejileri aracılığıyla proje başarı oranlarını %40 artıran stratejik iş planları geliştirdi.",
+        "Kapsamlı startup analizi ve pazar araştırması yoluyla yatırım kararı doğruluğunu %30 artırdı.",
+        "Yüksek potansiyelli startuplar için finansman sağladı, kitle fonlama platformunda proje başlatma başarısını %25 artırdı.",
+        "Potansiyel finansal kayıpları azaltmak ve yatırım sürecindeki güveni artırmak için risk değerlendirmeleri ve finansal analizler yürüttü."
       ]
     }
   },
   "achievements": {
-    "title": "Temel Başarılar",
+    "title": "Önemli Başarılar",
     "items": [
-      "Snapp!'da iş akışı otomasyonu ve gerçek zamanlı panolar aracılığıyla iş kararı verme hızını %40 artırdı.",
-      "Snapp!'da otomatikleştirilmiş Jira iş akışları tasarlayarak ve uygulayarak operasyonel verimliliği %30 artırdı.",
-      "Bodyspinner'da %99 çalışma süresine sahip özel bir biletleme sistemi geliştirip dağıtarak yüksek kullanılabilirlik ve güvenilirlik sağladı.",
-      "Bodyspinner'da sağlam veri denetim çerçeveleri ve yönetişim uygulamaları aracılığıyla sistem veri doğruluğunu %25 iyileştirdi.",
+      "Snapp!'te birden fazla dahili projede LLM çözümlerini başarıyla dağıttı, otomasyon ve AI odaklı karar vermeyi geliştirdi.",
+      "n8n iş akışı otomasyon platformu ve LMS sistemini uyguladı, Snapp!'te iş süreçlerini ve eğitim iş akışlarını düzenledi.",
+      "Bodyspinner ve Snapp!'te fiyatlandırma optimizasyonu ve pazar araştırması için CNN ve MLflow kullanarak ML modelleri oluşturdu, karar doğruluğunu artırdı.",
+      "DevOps metodolojileri kullanarak İK dijital altyapısını dönüştürdü, Snapp!'te eski süreçleri çevik çerçevelere dönüştürdü.",
+      "Snapp!'te iş akışı otomasyonu ve gerçek zamanlı izleme panelleri aracılığıyla iş karar vermeyi %40 hızlandırdı.",
+      "Snapp!'te otomatik Jira iş akışları tasarlayıp uygulayarak operasyonel verimliliği %30 artırdı.",
+      "Bodyspinner'da yüksek kullanılabilirlik ve güvenilirlik sağlayarak %99 çalışma süresi ile özel biletleme sistemi geliştirdi ve dağıttı.",
+      "Bodyspinner'da sağlam veri denetim çerçeveleri ve yönetişim uygulamaları aracılığıyla sistem veri doğruluğunu %25 artırdı.",
+      "Shahrzad'da tam dijital dönüşümü yönetti, kağıt tabanlı operasyonları kurumsal görev yönetim sistemi ile sistematik dijital altyapıya dönüştürdü.",
+      "KarenCrowd'da yenilikçi sistematik yaklaşımla 1000+ startup değerlendirdi, AI öncesi dönemde son teknoloji değerlendirme metodolojileri geliştirdi.",
       "Shahrzad'da süreç yeniden mühendisliği ve otomasyon yoluyla teknik roller için işe alım süresini %20 azalttı.",
-      "KarenCrowd'da startup uygulanabilirliğini ve iş potansiyelini değerlendirerek %25 daha yüksek fon sağlama başarı oranı elde etti."
+      "KarenCrowd'da startup yaşayabilirliği ve iş potansiyeli değerlendirmesi yaparak %25 daha yüksek finansman başarı oranı sağladı."
     ]
   },
   "skills": {
-    "title": "Teknik Yetenekler",
+    "title": "Çözüm Mimarisi Becerileri",
     "technical": {
-      "title": "Otomasyon, Bulut & CI/CD",
+      "title": "Teknoloji & Sistem Entegrasyonu",
       "items": [
-        "Scripting ve Programlama: Python (Pandas, NumPy), SQL, Bash (Öğreniyor)",
-        "CI/CD ve Otomasyon Araçları: Jira (İş Akışı Otomasyonu), GitHub Actions (Proje Bazlı), BPMS",
-        "Konteynerleştirme ve IaC: Docker, Kubernetes (Öğreniyor), Terraform (Öğreniyor)",
-        "Bulut Sağlayıcıları: AWS, GCP (Temel, Proje Bazlı)",
-        "İzleme ve Analitik: Power BI, Grafana (Öğreniyor), Veri Analizi"
+        "Betik Yazma & Programlama: Python (Pandas, NumPy), SQL, Bash (Öğreniyor)",
+        "AI/ML & LLM: Büyük Dil Modelleri (LLM), CNN, MLflow, Makine Öğrenmesi Boru Hattı Geliştirme",
+        "Otomasyon Platformları: n8n İş Akışı Otomasyonu, Jira (İş Akışı Otomasyonu), GitHub Actions (Proje Tabanlı), BPMS",
+        "CI/CD & DevOps: Docker, Kubernetes (Öğreniyor), Terraform (Öğreniyor), LMS Geliştirme",
+        "Bulut Sağlayıcıları: AWS, GCP (Temel, Proje Tabanlı)",
+        "İzleme & Analitik: Power BI, Grafana (Öğreniyor), Veri Analizi, ML Model İzleme"
       ]
     },
     "business": {
-      "title": "Temel Yetkinlikler",
+      "title": "Disiplinler Arası Yetkinlikler",
       "items": [
-        "Süreç Optimizasyonu",
-        "Sistem Güvenilirliği ve Çalışma Süresi",
+        "İş-Teknoloji Uyumu",
+        "İK Altyapısı & Ekip Operasyonları Analizi",
+        "Organizasyonel İhtiyaç Değerlendirmesi",
+        "Stratejik Çözüm Tasarımı",
+        "Departmanlar Arası İletişim",
+        "Süreç Optimizasyonu & Dijital Dönüşüm",
         "Veri Odaklı Karar Verme",
-        "Çevik Metodolojiler ve Scrum",
-        "Stratejik Planlama ve OKR'lar"
+        "Çevik Metodolojiler & Scrum"
       ]
     }
   },
@@ -97,17 +121,17 @@
     "title": "Eğitim",
     "degrees": [
       {
-        "title": "Gelecek Çalışmaları Doktora Programı (Devam ediyor)",
+        "title": "Gelecek Çalışmaları Doktorası (Devam Ediyor)",
         "institution": "Tahran Üniversitesi – Tahran, İran | 2024 – Günümüz"
       },
       {
-        "title": "İK Yönetimi Yüksek Lisansı (MBA)",
+        "title": "İnsan Kaynakları Yönetimi Yüksek Lisansı",
         "institution": "Kharazmi Üniversitesi – Tahran, İran | 2020 – 2023",
-        "description": "Tez: İK Teknoloji Trendleri ve Girişimcilik Fırsatları"
+        "description": "Tez: İK Teknoloji Trendleri & Girişimci Fırsatları"
       },
       {
-        "title": "Elektrik Mühendisliği Lisans Derecesi",
-        "institution": "Kum Teknoloji Üniversitesi – Kum, İran | 2016 – 2020",
+        "title": "Elektrik Mühendisliği Lisansı",
+        "institution": "Qom Teknoloji Üniversitesi – Qom, İran | 2016 – 2020",
         "description": "Proje: Arduino ile GPS Tasarımı"
       }
     ]
@@ -116,57 +140,77 @@
     "title": "Araştırma Projeleri",
     "items": [
       {
-        "title": "Teknoloji Mega Trendleri Projesi",
-        "institution": "Tahran Üniversitesi | Kas 2024 – Günümüz",
-        "description": "İşin geleceği üzerindeki etkileriyle birlikte küresel teknoloji trendlerini analiz eden bir öngörü projesine liderlik ediliyor."
+        "title": "Teknoloji Mega-Trendleri Projesi",
+        "institution": "Tahran Üniversitesi | Kasım 2024 – Günümüz",
+        "description": "Küresel teknoloji trendlerini ve bunların çalışmanın geleceği üzerindeki etkisini analiz etmek için bir öngörü projesi yönetiyor."
       },
       {
-        "title": "Dijital Girişimcilik ve İnovasyon",
-        "institution": "Kharazmi Üniversitesi | Şub 2022 – Günümüz",
-        "description": "Dr. Armin Khaleghi danışmanlığında araştırma asistanı. Dijital ekosistemler, girişim değerlendirmesi ve gelecek eğilimleri üzerine çalışılıyor."
+        "title": "Dijital Girişimcilik & İnovasyon",
+        "institution": "Kharazmi Üniversitesi | Şubat 2022 – Günümüz",
+        "description": "Dr. Armin Khaleghi altında Araştırma Asistanı. Dijital ekosistemler, startup değerlendirmesi ve geleceği şekillendiren trendlere odaklanma."
       },
       {
         "title": "2035'e Stratejik Yol Haritası: Gelişmekte Olan Ülkelerde İK",
-        "institution": "Ortak Çalışma (Devam Ediyor)",
-        "description": "Gelişmekte olan ülkelerde insan kaynakları yönetiminin evrimi üzerine stratejik öngörü raporunun ortak yazarı."
+        "institution": "İşbirlikçi Çalışma (Devam Ediyor)",
+        "description": "Gelişmekte olan ülkelerde İKY evrimini konu alan stratejik öngörü raporu yazarlığı."
       }
     ]
   },
   "publications": {
-    "title": "Yayınlar ve Kitaplar",
+    "title": "Yayınlar & Kitaplar",
     "journals": {
-      "title": "Akademik Dergi Makaleleri",
+      "title": "Dergi Makaleleri",
       "items": [
         {
-          "title": "İran’da İnsan Kaynakları Alanında Girişimcilik Fırsatlarının Teknoloji Trendlerine Dayalı Olarak Öngörülmesi",
+          "title": "Teknoloji Trendlerine Dayalı İran'da İnsan Kaynaklarında Girişimci Fırsatların Öngörüsü",
           "doi": "https://jtdm.irost.ir/article_1380.html?lang=en"
         },
         {
-          "title": "Deneyimli ve Deneyimsiz: Girişim Hızlandırıcılarda Deneyimin Girişimleri Değerlendirme Üzerindeki Etkisi",
-          "status": "Son değerlendirme aşamasında"
+          "title": "Deneyimli vs. Acemi: Deneyimin Hızlandırıcılarda Startup Değerlendirmesini Nasıl Etkilediği",
+          "status": "Final tur inceleme"
         },
         {
-          "title": "Algılanan Liyakat, Kayırmacılık ve Akraba Kayırmacılığının İşten Ayrılma Niyetine Etkisi",
-          "status": "Değerlendirmede"
+          "title": "Algılanan Liyakat, Kayırmacılık ve Nepotizmin Çalışan İşten Ayrılma Niyetleri Üzerindeki Etkisi",
+          "status": "İnceleme altında"
         },
         {
-          "title": "İran'da Hızlandırıcılar ile Dijital Startuplar Arasındaki İşbirliği Zorluklarının Belirlenmesi",
+          "title": "İran'da Hızlandırıcılar ve Dijital Startuplar Arasındaki İşbirliğinde Zorluklar",
           "doi": "https://innoeco.usb.ac.ir/article_8933.html?lang=en"
         }
       ]
     },
-    "conferencesTitle": "Konferans Bildirileri",
+    "conferencesTitle": "Konferans Makaleleri",
     "conferences": {
       "items": [
         {
-          "title": "Agile HR Nedir: Kurumlar İçin İnsan Yönetimini Dönüştürmek – Vaka İncelemesi",
+          "title": "Çevik İK Nedir: İnsan Yönetiminde Devrim – Bir Vaka Çalışması",
           "event": "2. Uluslararası Siyaset Bilimi, Uluslararası İlişkiler ve Dönüşüm Konferansı",
           "link": "https://en.civilica.com/doc/2060255/"
         },
         {
-          "title": "Çevresel Sürdürülebilirlik ve Sosyal Sorumluluğun Girişimcilik Başarısı Üzerindeki Etkisi",
+          "title": "Modern Girişimci Başarısında Çevresel Sürdürülebilirlik ve Sosyal Sorumluluk",
           "event": "1. Uluslararası Sosyal Girişimcilik ve Sürdürülebilir Kalkınma Konferansı",
           "link": "https://en.civilica.com/doc/2045012/"
+        },
+        {
+          "title": "AI ve Dijital Girişimciliğin Sürdürülebilir Başarısı: Karma Yöntemler Çalışması",
+          "event": "4. Uluslararası Yönetim ve Beşeri Bilimler İleri Araştırma Konferansı",
+          "link": "https://en.civilica.com/doc/2045011/"
+        },
+        {
+          "title": "Dijital Yetkinliklerin Girişimcilik Eğitimine Entegrasyonu: Kapsamlı Bir İnceleme",
+          "event": "4. Uluslararası Yönetim ve Beşeri Bilimler İleri Araştırma Konferansı",
+          "link": "https://en.civilica.com/doc/2006091/"
+        },
+        {
+          "title": "İran'ın Girişimcilik Ekosisteminde Startup Başarısızlıkları: Temel Katkıda Bulunan Faktörler",
+          "event": "17. Uluslararası Modern Yönetim, Muhasebe, Ekonomi ve Bankacılık Teknikleri Konferansı",
+          "link": "https://en.civilica.com/doc/1754192/"
+        },
+        {
+          "title": "İran'da İK'de Girişimci Fırsatları Şekillendiren Teknolojik Trendler: Bir Önceliklendirme Yaklaşımı",
+          "event": "6. Ulusal Girişimcilik Konferansı",
+          "link": "https://en.civilica.com/doc/1754192/"
         }
       ]
     },
@@ -176,51 +220,59 @@
       "title": "Kitaplar",
       "items": [
         {
-          "title": "Girişimcilik Başarısızlığını Anlamak",
-          "details": "Yazarlar: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Yayıncılık, 2023"
+          "title": "Girişimci Başarısızlığını Anlamak",
+          "details": "Yazarlar: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Yayınları, 2023"
         },
         {
-          "title": "Girişimcilik Yolculuğu: Başarısızlıktan Başarıya",
-          "details": "Yazarlar: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Yayıncılık, 2024"
+          "title": "Girişimci Yolculuğu: Başarısızlıktan Başarıya",
+          "details": "Yazarlar: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Yayınları, 2024"
         },
         {
           "title": "Dijital Girişimcilik: Yönetim, Sistemler ve Uygulama",
-          "details": "Çevirenler: Khaleghi, Salajegheh, Mansouri | Kharazmi Yayınları, 2024"
+          "details": "Çeviren: Khaleghi, Salajegheh, Mansouri | Kharazmi Yayınları, 2024"
         }
       ]
     }
   },
   "projects": {
-    "title": "Ana Projeler",
+    "title": "Önemli Projeler",
     "items": [
       {
-        "title": "Python Uygulaması için CI/CD Pipeline",
-        "description": "Konteynerize edilmiş bir Python web uygulamasını otomatik olarak derlemek, test etmek ve dağıtmak için GitHub Actions kullanarak eksiksiz bir CI/CD pipeline tasarladı ve uyguladı. Teknolojiler: Docker, GitHub Actions, Python."
+        "title": "Python Uygulaması için CI/CD Boru Hattı",
+        "description": "GitHub Actions kullanarak konteynerleştirilmiş Python web uygulamasını otomatik olarak oluşturmak, test etmek ve dağıtmak için eksiksiz CI/CD boru hattı tasarladı ve uyguladı. Teknolojiler: Docker, GitHub Actions, Python."
       },
       {
-        "title": "Terraform ile Otomatik Altyapı Hazırlama",
-        "description": "AWS üzerinde bir VPC, alt ağlar ve bir EC2 örneği dahil olmak üzere temel bir bulut altyapısını otomatik olarak hazırlamak ve yönetmek için Terraform betikleri yazdı. Bu proje, Kod Olarak Altyapı (IaC) ilkelerini göstermektedir."
+        "title": "Terraform ile Otomatik Altyapı Sağlama",
+        "description": "AWS'de bulut altyapısını (VPC, Alt Ağlar, EC2 Örneği) otomatik olarak sağlamak ve yönetmek için Terraform betikleri yazdı, Kod Olarak Altyapı (IaC) ilkelerini gösterdi."
       },
       {
-        "title": "İK Süreç Otomasyonu @ Snapp!",
-        "description": "Bir veri ambarı geliştirildi ve temel İK süreçleri otomatikleştirildi, karar verme hızı %40 artırıldı. Jira ve BPMS süreçleri optimize edilerek verimlilik artırıldı ve döngü süresi azaltıldı."
+        "title": "LLM Geliştirme & n8n Otomasyonu @ Snapp!",
+        "description": "Birden fazla dahili projede LLM çözümleri geliştirdi ve dağıttı. Karmaşık iş süreci otomasyonu için n8n iş akışı otomasyon platformunu uyguladı, operasyonel verimliliği artırdı."
       },
       {
-        "title": "İK Gösterge Paneli Sistemi @ Bodyspinner",
-        "description": "HRIS ile entegre Power BI panoları tasarlandı ve uygulandı. Rapor oluşturma süresi %40 azaltıldı, veri kullanımı %15 artırıldı. %99 çalışma süresine sahip özel Jira tabanlı destek sistemi oluşturuldu."
+        "title": "LMS & İK Dijital Altyapısı @ Snapp!",
+        "description": "Organizasyonel eğitim için Öğrenme Yönetim Sistemi (LMS) tasarladı ve uyguladı. DevOps mühendisi olarak İK dijital altyapısı kurdu, eski süreçleri çevik metodolojilere dönüştürdü."
       },
       {
-        "title": "İşe Alım Optimizasyonu @ Shahrzad",
-        "description": "İşe alım süreci yeniden tasarlandı, işe alım süresi %20 azaldı, çalışan performansı %25 iyileştirildi. OKR tabanlı performans sistemi uygulandı."
+        "title": "Sistem İş Akışı Otomasyonu @ Snapp!",
+        "description": "Veri ambarı geliştirdi ve önemli iş akışlarını otomatikleştirdi, karar verme hızını %40 artırdı. Verimlilik artışı ve döngü süresi azaltması için Jira ve BPMS süreçlerini geliştirdi."
       },
       {
-        "title": "Girişim Değerlendirme ve Yatırım Analizi @ KarenCrowd",
-        "description": "Girişim değerlendirmeleri ve pazar araştırmaları yapıldı, yatırım karar doğruluğu %30 artırıldı. Başarılı girişimler için fon sağlandı, proje başarı oranları %40 yükseltildi."
+        "title": "ML & Analitik Sistemi @ Bodyspinner",
+        "description": "Fiyatlandırma optimizasyonu ve pazar araştırması için CNN ve MLflow kullanarak ML modelleri geliştirdi. Güvenilirlik odaklı ve kritik iş operasyonları için %99 çalışma süresi elde eden özel, Jira tabanlı biletleme sistemi geliştirdi."
+      },
+      {
+        "title": "Dijital Dönüşüm & Görev Yönetim Sistemi @ Shahrzad",
+        "description": "Kağıt tabanlıdan sistematik operasyonlara tam dijital dönüşümü yönetti. Kurumsal düzeyde görev yönetim sistemi tasarladı ve şirket genelindeki proje yapılarını modernleştirdi. İşe alım boru hattını yeniden tasarladı, işe alım süresinde %20 azalma ve çalışan performansında %25 iyileşme sağladı."
+      },
+      {
+        "title": "Gelişmiş Startup Değerlendirme Sistemi @ KarenCrowd",
+        "description": "Sistematik durum tespiti ve iş planı analizi yoluyla 1000+ startup değerlendirdi. Son teknoloji değerlendirme metodolojileri ve yatırımcı e-posta pazarlama sistemleri geliştirdi. Yatırım kararı doğruluğunu %30 ve proje başarı oranlarını %40 artıran sistematik değerlendirme çerçevesi (AI öncesi dönem inovasyonu) oluşturdu."
       }
     ]
   },
   "languages": {
-    "title": "Diller ve Mobilite",
+    "title": "Diller & Mobilite",
     "items": [
       {
         "label": "İngilizce:",
@@ -228,27 +280,27 @@
       },
       {
         "label": "Farsça:",
-        "value": "Ana Dil"
+        "value": "Ana dil"
       },
       {
         "label": "Almanca:",
-        "value": "Ön-Orta Seviye (A2)"
+        "value": "Ön-orta (A2)"
       },
       {
         "label": "Fransızca:",
-        "value": "Yeni Başlayan – 2026 sonuna kadar B1 hedefi"
+        "value": "Başlangıç – 2026 sonuna kadar B1 hedefi"
       },
       {
         "label": "Mobilite:",
-        "value": "Avrupa'ya (Almanya, Hollanda, Fransa), Kuzey Amerika'ya veya Kanada'ya taşınmaya açığım – Hibrit/Uzaktan çalışma uygundur"
+        "value": "Avrupa'ya (Almanya, Hollanda ve Fransa), Kuzey Amerika veya Kanada'ya taşınmaya açık – Hibrit/Uzaktan mevcut"
       },
       {
-        "label": "Çalışma İzni:",
-        "value": "Vize sponsorluğu için uygundur – Mavi Kart / Girişimci Vizesi programlarıyla ilgileniyorum"
+        "label": "Çalışma Uygunluğu:",
+        "value": "Vize sponsorluğu için uygun – Mavi Kart/Startup Vize programlarıyla ilgileniyor"
       },
       {
         "label": "Kültürel Uyum:",
-        "value": "Uluslararası iş kültürleri, çevik ekipler ve sınır ötesi iş birliği konularında deneyimliyim"
+        "value": "Uluslararası çalışma kültürleri, çevik ekipler ve sınır ötesi işbirliği konusunda deneyimli"
       }
     ]
   }

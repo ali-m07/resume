@@ -5,14 +5,14 @@ export default function HeaderSection() {
   const { t } = useTranslation();
 
   return (
-    <header className="text-center mt-10 mb-8">
-      <h1 className="text-4xl font-extrabold text-gray-900">Ali Mansouri</h1>
-      <p className="mt-2 text-xl text-gray-700">
+    <div className="text-left">
+      <h1 className="text-3xl font-bold text-gray-900">Ali Mansouri</h1>
+      <p className="mt-1 text-lg text-gray-700">
         {t('header.subtitle')}
       </p>
-      <p className="mt-1 text-md text-gray-600">
+      <p className="mt-1 text-sm text-gray-600">
         {t('header.description')}
       </p>
-    </header>
+    </div>
   );
 }
