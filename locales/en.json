@@ -24,7 +24,12 @@
       "location": "Tehran, Iran | Jun 2023 – Present",
       "points": [
         "Engineered automated data pipelines and streamlined business workflows using Python, reducing process cycle time by 40%.",
+        "Developed and deployed LLM solutions across multiple internal projects, enhancing automation and decision-making processes.",
+        "Deployed and configured n8n workflow automation platform, creating sophisticated automation workflows for business processes.",
+        "Designed and implemented LMS (Learning Management System) for educational and training purposes within the organization.",
         "Developed real-time monitoring dashboards to track key performance indicators (KPIs) and system health.",
+        "Built ML models using CNN and MLflow for pricing optimization and market research decision-making.",
+        "Implemented HR digital infrastructure as DevOps engineer, transforming legacy HR processes to agile methodologies.",
         "Managed the deployment and support lifecycle of internal services and sites using Jira as a centralized request and workflow management system.",
         "Administered and customized Jira environments, automating complex workflows for inter-departmental services that boosted operational efficiency by 30%.",
         "Integrated Jira with Confluence and other business intelligence tools to enhance data visibility and cross-functional team collaboration."
@@ -35,6 +40,7 @@
       "location": "Tehran, Iran | Nov 2022 – Sep 2023",
       "points": [
         "Designed and deployed analytics dashboards (Power BI) for system monitoring, reducing manual reporting effort by 40%.",
+        "Developed ML models using CNN and MLflow for data analysis and business intelligence applications.",
         "Co-developed and maintained a custom ticketing & information system, achieving 99% uptime and demonstrating a strong focus on system reliability (SRE principles).",
         "Managed Jira configurations and automated project workflows, improving team velocity and task throughput by 30%.",
         "Conducted data audits and implemented governance frameworks that improved system data accuracy by 25%."
@@ -62,6 +68,10 @@
   "achievements": {
     "title": "Key Achievements",
     "items": [
+      "Successfully deployed LLM solutions across multiple internal projects at Snapp!, enhancing automation and AI-driven decision-making.",
+      "Implemented n8n workflow automation platform and LMS system, streamlining business processes and educational workflows at Snapp!.",
+      "Built ML models using CNN and MLflow for pricing optimization and market research, improving decision accuracy at Bodyspinner and Snapp!.",
+      "Transformed HR digital infrastructure using DevOps methodologies, converting legacy processes to agile frameworks at Snapp!.",
       "Accelerated business decision-making by 40% through workflow automation and real-time monitoring dashboards at Snapp!",
       "Increased operational efficiency by 30% at Snapp! by designing and implementing automated Jira workflows.",
       "Developed and deployed a custom ticketing system with 99% uptime, ensuring high availability and reliability at Bodyspinner.",
@@ -76,10 +86,11 @@
       "title": "Automation, Cloud & CI/CD",
       "items": [
         "Scripting & Programming: Python (Pandas, NumPy), SQL, Bash (Learning)",
-        "CI/CD & Automation Tools: Jira (Workflow Automation), GitHub Actions (Project-Based), BPMS",
-        "Containerization & IaC: Docker, Kubernetes (Learning), Terraform (Learning)",
+        "AI/ML & LLM: Large Language Models (LLM), CNN, MLflow, Machine Learning Pipeline Development",
+        "Automation Platforms: n8n Workflow Automation, Jira (Workflow Automation), GitHub Actions (Project-Based), BPMS",
+        "CI/CD & DevOps: Docker, Kubernetes (Learning), Terraform (Learning), LMS Development",
         "Cloud Providers: AWS, GCP (Basic, Project-Based)",
-        "Monitoring & Analytics: Power BI, Grafana (Learning), Data Analysis"
+        "Monitoring & Analytics: Power BI, Grafana (Learning), Data Analysis, ML Model Monitoring"
       ]
     },
     "business": {
@@ -222,12 +233,20 @@
         "description": "Wrote Terraform scripts to automatically provision and manage cloud infrastructure on AWS (VPC, Subnets, EC2 Instance), demonstrating Infrastructure as Code (IaC) principles."
       },
       {
+        "title": "LLM Development & n8n Automation @ Snapp!",
+        "description": "Developed and deployed LLM solutions across multiple internal projects. Implemented n8n workflow automation platform for complex business process automation, improving operational efficiency."
+      },
+      {
+        "title": "LMS & HR Digital Infrastructure @ Snapp!",
+        "description": "Designed and implemented Learning Management System (LMS) for organizational training. Built HR digital infrastructure as DevOps engineer, transforming legacy processes to agile methodologies."
+      },
+      {
         "title": "System Workflow Automation @ Snapp!",
         "description": "Developed a data warehouse and automated key business workflows, improving decision-making speed by 40%. Enhanced Jira and BPMS processes to increase efficiency and reduce cycle time."
       },
       {
-        "title": "High-Availability Ticketing System @ Bodyspinner",
-        "description": "Co-developed a custom, Jira-based ticketing system, focusing on reliability and achieving 99% uptime for critical business operations."
+        "title": "ML & Analytics System @ Bodyspinner",
+        "description": "Developed ML models using CNN and MLflow for pricing optimization and market research. Co-developed a custom, Jira-based ticketing system, focusing on reliability and achieving 99% uptime for critical business operations."
       },
       {
         "title": "Recruitment Optimization @ Shahrzad",
