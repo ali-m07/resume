@@ -3,6 +3,7 @@ import i18n from './i18n';
 
 export default function LanguageToggleButton({ language, setLanguage }) {
   const [showDropdown, setShowDropdown] = useState(false);
+  const isRTL = language === 'fa';
 
   const handleChange = (lang) => {
     i18n.changeLanguage(lang);
@@ -26,7 +27,7 @@ export default function LanguageToggleButton({ language, setLanguage }) {
   return (
     <div className="relative inline-block text-left">
       <button
-        className="flex items-center space-x-2 px-3 py-2 bg-white border rounded-lg shadow hover:bg-gray-100"
+        className={`flex items-center px-3 py-2 bg-white border rounded-lg shadow hover:bg-gray-100 ${isRTL ? 'space-x-reverse space-x-2' : 'space-x-2'}`}
         onClick={() => setShowDropdown(!showDropdown)}
       >
         <img
@@ -38,11 +39,11 @@ export default function LanguageToggleButton({ language, setLanguage }) {
       </button>
 
       {showDropdown && (
-        <div className="absolute right-0 mt-2 w-40 bg-white border rounded-lg shadow z-10">
+        <div className={`absolute mt-2 w-40 bg-white border rounded-lg shadow z-10 ${isRTL ? 'left-0' : 'right-0'}`}>
           {['en', 'de', 'tr', 'fr', 'fa'].map((lang) => (
             <button
               key={lang}
-              className="flex items-center space-x-2 w-full px-3 py-2 hover:bg-gray-100"
+              className={`flex items-center w-full px-3 py-2 hover:bg-gray-100 ${isRTL ? 'space-x-reverse space-x-2' : 'space-x-2'}`}
               onClick={() => handleChange(lang)}
             >
               <img

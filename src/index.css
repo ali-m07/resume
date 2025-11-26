@@ -1,6 +1,35 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* RTL Support */
+.rtl {
+  direction: rtl;
+  text-align: right;
+}
+
+.ltr {
+  direction: ltr;
+  text-align: left;
+}
+
+/* RTL-specific adjustments */
+.rtl .space-y-8 > * + * {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.rtl .flex-row-reverse {
+  flex-direction: row-reverse;
+}
+
+.rtl .text-left {
+  text-align: right;
+}
+
+.rtl .text-right {
+  text-align: left;
+}
 @media print {
     .break-after-page {
       page-break-after: always;

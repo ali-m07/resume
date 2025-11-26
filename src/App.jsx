@@ -17,13 +17,16 @@ import LanguageToggleButton from './LanguageToggleButton';
 function App() {
   const [language, setLanguage] = useState('en');
 
+  // Check if the language is RTL
+  const isRTL = language === 'fa';
+
   return (
-    <div className="min-h-screen bg-gray-100 py-10 px-4 font-sans text-gray-800">
+    <div className={`min-h-screen bg-gray-100 py-10 px-4 font-sans text-gray-800 ${isRTL ? 'rtl' : 'ltr'}`} dir={isRTL ? 'rtl' : 'ltr'}>
       <div className="max-w-4xl mx-auto space-y-8">
         
         <HeaderSection />
 
-        <div className="flex justify-between items-center mb-4">
+        <div className={`flex justify-between items-center mb-4 ${isRTL ? 'flex-row-reverse' : ''}`}>
           <h1 className="text-3xl font-bold">Ali Mansouri</h1>
           <LanguageToggleButton language={language} setLanguage={setLanguage} />
         </div>
