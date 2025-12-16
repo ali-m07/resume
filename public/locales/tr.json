@@ -3,12 +3,12 @@
     "download": "PDF olarak İndir"
   },
   "header": {
-    "subtitle": "Çözüm Mimarı & Gelecek Stratejisti | Disiplinler Arası İnovasyon",
-    "description": "Sistematik İnovasyon ve Dijital Dönüşüm yoluyla Teknoloji, İş Stratejisi ve İnsan Kaynakları arasında köprü kurma"
+    "subtitle": "Cloud & Backend Mühendisi | DevOps, Strateji ve Dijital Dönüşüm",
+    "description": "Cloud & Backend mühendisliğini iş stratejisi ve organizasyonel gelişimle birleştirme – Python, Docker, Kubernetes, Helm ve CI/CD’den HR Tech, OD ve dijital dönüşüme kadar"
   },
   "aboutMe": {
     "title": "Hakkımda",
-    "text": "Teknoloji, iş stratejisi ve organizasyonel sistemler arasında köprü kurmada 4+ yıl deneyime sahip disiplinler arası Çözüm Mimarı. Kod, iş operasyonları ve altyapının kesişimini anlama ve optimize etmede kanıtlanmış yetenek. Operasyonel gereksinimler, ekip dinamikleri ve ölçeklenebilir sistem mimarisi göz önünde bulundurularak iş ihtiyaçlarını teknik çözümlere çevirme konusunda uzman. Organizasyonel ihtiyaçları belirleme ve iş hedeflerine, operasyonel verimliliğe ve stratejik büyümeye hizmet eden teknoloji çözümleri tasarlama konusunda uzmanlaşmış."
+    "text": "Yazılım, altyapı ve organizasyonel sistemlerin kesişiminde 4+ yıl deneyime sahip Cloud & Backend mühendisi. Python, SQL, Docker ile konteynerleştirme, Kubernetes ve Helm ile orkestrasyon, CI/CD ve bulut altyapısı konusunda uygulamalı deneyime; ayrıca HR Tech, organizasyonel gelişim (OD) ve dijital dönüşüm projelerinde çalışma geçmişine sahibim. Backend/DevOps çözümlerini uygulamaktan, iş ve insan odaklı sistemler tasarlamaya rahatça geçebilirim. İş problemini, insan ve süreç boyutuyla birlikte anlayıp etrafında ölçeklenebilir teknik bir çözüm tasarlamayı seviyorum."
   },
   "contact": {
     "title": "Benimle İletişime Geçin",
@@ -20,19 +20,19 @@
   "experience": {
     "title": "Profesyonel Deneyim",
     "snapp": {
-      "title": "Snapp! – Sistem & Otomasyon Uzmanı",
+      "title": "Snapp! – Cloud & Sistem Mühendisi",
       "location": "Tahran, İran | Haziran 2023 – Günümüz",
       "points": [
-        "Python kullanarak otomatik veri boru hatları geliştirdi ve iş akışlarını düzenledi, süreç döngü süresini %40 azalttı.",
-        "Birden fazla dahili projede LLM çözümleri geliştirdi ve dağıttı, otomasyon ve karar verme süreçlerini geliştirdi.",
-        "n8n iş akışı otomasyon platformunu dağıttı ve yapılandırdı, iş süreçleri için sofistike otomasyon iş akışları oluşturdu.",
-        "Organizasyon içinde eğitim ve öğretim amaçları için LMS (Öğrenme Yönetim Sistemi) tasarladı ve uyguladı.",
-        "Anahtar performans göstergelerini (KPI) ve sistem sağlığını izlemek için gerçek zamanlı izleme panelleri geliştirdi.",
-        "Fiyatlandırma optimizasyonu ve pazar araştırması karar verme için CNN ve MLflow kullanarak ML modelleri oluşturdu.",
-        "DevOps mühendisi olarak İK dijital altyapısını uyguladı, eski İK süreçlerini çevik metodolojilere dönüştürdü.",
-        "Jira'yı merkezi istek ve iş akışı yönetim sistemi olarak kullanarak dahili hizmetlerin ve sitelerin dağıtım ve destek yaşam döngüsünü yönetti.",
-        "Jira ortamlarını yönetti ve özelleştirdi, departmanlar arası hizmetler için karmaşık iş akışlarını otomatikleştirdi ve operasyonel verimliliği %30 artırdı.",
-        "Veri görünürlüğünü ve çapraz fonksiyonel ekip işbirliğini geliştirmek için Jira'yı Confluence ve diğer iş zekası araçlarıyla entegre etti."
+        "Dahili servisler için Docker, Kubernetes ve Helm kullanarak cloud-native altyapı tasarladı ve yönetti; ölçeklenebilirlik ve güvenilirliğe odaklandı.",
+        "Python tabanlı servisler ve dahili araçlar için GitHub Actions ile CI/CD boru hatları uyguladı ve yönetti, manuel dağıtım eforunu ve release riskini azalttı.",
+        "Python ve SQL kullanarak otomatik veri boru hatları geliştirip iş akışlarını optimize etti, süreç döngü süresini %40 azalttı.",
+        "Dahili kullanım senaryoları için LLM tabanlı çözümler geliştirdi ve mevcut sistemler ile otomasyon iş akışlarına entegre etti.",
+        "n8n iş akışı otomasyon platformunu dağıttı ve yapılandırdı; backend servisleri, API’ler ve iş süreçlerini birbirine bağlayan karmaşık otomasyonlar kurdu.",
+        "DevOps yaklaşımıyla LMS ve dijital İK altyapısını tasarladı ve uyguladı; HR ve OD ihtiyaçlarıyla hizalı çalıştı.",
+        "Dahili platformlar için KPI’ları ve sistem sağlığını izlemek üzere gerçek zamanlı izleme panelleri (örn. Power BI / Grafana) geliştirdi.",
+        "Jira’yı merkezi istek ve iş akışı yönetim sistemi olarak kullanarak dahili servislerin dağıtım ve destek yaşam döngüsünü yönetti.",
+        "Jira ortamlarını yönetti ve özelleştirdi, ekipler arası karmaşık iş akışlarını otomatikleştirerek operasyonel verimliliği %30 artırdı.",
+        "İK ve organizasyonel gelişim ekipleriyle yakın çalışarak organizasyonel ihtiyaçları teknik sistemlere (LMS, dijital İK altyapısı, raporlama panelleri) çevirdi."
       ]
     },
     "bodyspinner": {
@@ -91,29 +91,27 @@
     ]
   },
   "skills": {
-    "title": "Çözüm Mimarisi Becerileri",
+    "title": "Teknik ve Disiplinler Arası Beceriler",
     "technical": {
-      "title": "Teknoloji & Sistem Entegrasyonu",
+      "title": "Backend, Cloud & DevOps",
       "items": [
-        "Betik Yazma & Programlama: Python (Pandas, NumPy), SQL, Bash (Öğreniyor)",
-        "AI/ML & LLM: Büyük Dil Modelleri (LLM), CNN, MLflow, Makine Öğrenmesi Boru Hattı Geliştirme",
-        "Otomasyon Platformları: n8n İş Akışı Otomasyonu, Jira (İş Akışı Otomasyonu), GitHub Actions (Proje Tabanlı), BPMS",
-        "CI/CD & DevOps: Docker, Kubernetes (Öğreniyor), Terraform (Öğreniyor), LMS Geliştirme",
-        "Bulut Sağlayıcıları: AWS, GCP (Temel, Proje Tabanlı)",
-        "İzleme & Analitik: Power BI, Grafana (Öğreniyor), Veri Analizi, ML Model İzleme"
+        "Backend & Betik Yazma: Python (Pandas, NumPy), SQL, RESTful servisler, otomasyon betikleri",
+        "Bulut & Konteynerler: Docker, Kubernetes, Helm, AWS & GCP (temel / proje tabanlı)",
+        "DevOps & CI/CD: GitHub Actions, Altyapı-olarak-Kod (Terraform – öğreniyor), ortam otomasyonu",
+        "Platform & İş Akışı Otomasyonu: n8n iş akışı otomasyonu, Jira iş akışı otomasyonu, BPMS",
+        "AI/ML & LLM: Büyük Dil Modelleri (LLM), CNN, MLflow, makine öğrenmesi boru hattı geliştirme",
+        "İzleme & Analitik: Power BI, Grafana (öğreniyor), veri analizi, KPI & sistem sağlığı panelleri"
       ]
     },
     "business": {
-      "title": "Disiplinler Arası Yetkinlikler",
+      "title": "Strateji, İş ve İK/OD",
       "items": [
-        "İş-Teknoloji Uyumu",
-        "Sistem Mimarisi & Altyapı Tasarımı",
-        "Organizasyonel İhtiyaç Değerlendirmesi",
-        "Stratejik Çözüm Tasarımı",
-        "Çapraz Fonksiyonel Ekip Liderliği",
-        "Süreç Optimizasyonu & Dijital Dönüşüm",
-        "Veri Odaklı Karar Verme",
-        "Çevik Metodolojiler & Scrum"
+        "İş–Teknoloji Hizalaması & Çözüm Mimarisi",
+        "Dijital Dönüşüm & Süreç Optimizasyonu",
+        "Organizasyonel Gelişim ve HR Tech (LMS, İK sistemleri, people analytics)",
+        "Startup & İş Değerlendirmesi (KarenCrowd’da 1000+ değerlendirme)",
+        "Veri Odaklı Karar Verme & Stratejik Öngörü",
+        "Çapraz fonksiyonel işbirliği, Çevik Metodolojiler & Scrum"
       ]
     }
   },

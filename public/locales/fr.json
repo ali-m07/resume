@@ -3,12 +3,12 @@
     "download": "Télécharger en PDF"
   },
   "header": {
-    "subtitle": "Architecte de Solutions & Stratège du Futur | Innovation Interdisciplinaire",
-    "description": "Faire le pont entre Technologie, Stratégie d'Entreprise et Ressources Humaines grâce à l'Innovation Systématique et la Transformation Numérique"
+    "subtitle": "Ingénieur Cloud & Backend | DevOps, Stratégie & Transformation Numérique",
+    "description": "Relier l’ingénierie Cloud & Backend à la stratégie business et au développement organisationnel – de Python, Docker, Kubernetes, Helm et CI/CD jusqu’aux solutions HR Tech, à l’OD et à la transformation numérique"
   },
   "aboutMe": {
     "title": "À Propos de Moi",
-    "text": "Architecte de Solutions interdisciplinaire avec plus de 4 ans d'expérience dans la création de ponts entre technologie, stratégie d'entreprise et systèmes organisationnels. Capacité prouvée à comprendre et optimiser l'intersection du code, des opérations commerciales et de l'infrastructure. Expert dans la traduction des besoins commerciaux en solutions techniques tout en considérant les exigences opérationnelles, la dynamique d'équipe et l'architecture système évolutive. Spécialisé dans l'identification des besoins organisationnels et la conception de solutions technologiques qui servent les objectifs commerciaux, l'efficacité opérationnelle et la croissance stratégique."
+    "text": "Ingénieur Cloud & Backend avec plus de 4 ans d’expérience à l’intersection du logiciel, de l’infrastructure et des systèmes organisationnels. Expérience pratique en Python, SQL, conteneurs (Docker), orchestration avec Kubernetes et Helm, CI/CD et infrastructure cloud, tout en travaillant également sur des projets HR Tech, d’OD et de transformation numérique. Capable de passer facilement de la mise en œuvre de solutions Backend/DevOps à la conception de systèmes centrés sur le business et les personnes. J’aime partir d’un problème business, comprendre la dimension humaine et processuelle, puis concevoir autour une solution technique scalable."
   },
   "contact": {
     "title": "Contactez-moi",
@@ -20,19 +20,19 @@
   "experience": {
     "title": "Expérience Professionnelle",
     "snapp": {
-      "title": "Snapp! – Spécialiste Systèmes & Automatisation",
+      "title": "Snapp! – Ingénieur Cloud & Systèmes",
       "location": "Téhéran, Iran | Juin 2023 – Présent",
       "points": [
-        "Développé des pipelines de données automatisés et rationalisé les flux de travail commerciaux en utilisant Python, réduisant le temps de cycle des processus de 40%.",
-        "Développé et déployé des solutions LLM dans plusieurs projets internes, améliorant l'automatisation et les processus de prise de décision.",
-        "Déployé et configuré la plateforme d'automatisation de flux de travail n8n, créant des flux de travail d'automatisation sophistiqués pour les processus commerciaux.",
-        "Conçu et implémenté un LMS (Système de Gestion de l'Apprentissage) à des fins éducatives et de formation au sein de l'organisation.",
-        "Développé des tableaux de bord de surveillance en temps réel pour suivre les indicateurs clés de performance (KPI) et la santé du système.",
-        "Construit des modèles ML utilisant CNN et MLflow pour l'optimisation des prix et la prise de décision en recherche de marché.",
-        "Implémenté l'infrastructure numérique RH en tant qu'ingénieur DevOps, transformant les processus RH hérités en méthodologies agiles.",
-        "Géré le cycle de vie de déploiement et de support des services et sites internes en utilisant Jira comme système centralisé de gestion des demandes et des flux de travail.",
-        "Administré et personnalisé les environnements Jira, automatisant les flux de travail complexes pour les services interdépartementaux qui ont augmenté l'efficacité opérationnelle de 30%.",
-        "Intégré Jira avec Confluence et d'autres outils de business intelligence pour améliorer la visibilité des données et la collaboration d'équipes transfonctionnelles."
+        "Conçu et opéré une infrastructure cloud-native pour les services internes en utilisant Docker, Kubernetes et Helm, avec un focus sur la fiabilité et l’évolutivité.",
+        "Implémenté et maintenu des pipelines CI/CD (GitHub Actions) pour des services Python et des outils internes, réduisant l’effort manuel de déploiement et le risque de release.",
+        "Développé des pipelines de données automatisés et rationalisé les flux de travail business avec Python et SQL, réduisant le temps de cycle des processus de 40%.",
+        "Développé et déployé des solutions basées sur des LLM pour des cas d’usage internes, en les intégrant aux systèmes existants et aux workflows d’automatisation.",
+        "Déployé et configuré la plateforme d’automatisation n8n, construisant des automatisations complexes reliant services backend, APIs et processus business.",
+        "Conçu et implémenté un LMS et une infrastructure numérique RH avec une approche DevOps, en alignement avec les besoins RH et OD.",
+        "Développé des tableaux de bord de monitoring temps réel (p. ex. avec Power BI / Grafana) pour suivre les KPIs et la santé des systèmes internes.",
+        "Géré le cycle de vie de déploiement et de support des services/sites internes en utilisant Jira comme système centralisé de gestion des demandes et workflows.",
+        "Administré et personnalisé les environnements Jira, automatisant des workflows complexes inter-équipes et augmentant l’efficacité opérationnelle de 30%.",
+        "Collaboré étroitement avec les équipes RH et OD pour traduire les besoins organisationnels en systèmes techniques (LMS, infrastructure RH digitale, tableaux de bord)."
       ]
     },
     "bodyspinner": {
@@ -91,29 +91,27 @@
     ]
   },
   "skills": {
-    "title": "Compétences d'Architecture de Solutions",
+    "title": "Compétences Techniques & Interdisciplinaires",
     "technical": {
-      "title": "Technologie & Intégration de Systèmes",
+      "title": "Backend, Cloud & DevOps",
       "items": [
-        "Scripting & Programmation : Python (Pandas, NumPy), SQL, Bash (En apprentissage)",
-        "AI/ML & LLM : Grands Modèles de Langage (LLM), CNN, MLflow, Développement de Pipeline d'Apprentissage Automatique",
-        "Plateformes d'Automatisation : Automatisation de flux de travail n8n, Jira (Automatisation de flux de travail), GitHub Actions (Basé sur projet), BPMS",
-        "CI/CD & DevOps : Docker, Kubernetes (En apprentissage), Terraform (En apprentissage), Développement LMS",
-        "Fournisseurs Cloud : AWS, GCP (Basique, Basé sur projet)",
-        "Surveillance & Analytique : Power BI, Grafana (En apprentissage), Analyse de Données, Surveillance de Modèle ML"
+        "Backend & Scripting : Python (Pandas, NumPy), SQL, services RESTful, scripts d’automatisation",
+        "Cloud & Conteneurs : Docker, Kubernetes, Helm, AWS & GCP (niveau de base / orienté projet)",
+        "DevOps & CI/CD : GitHub Actions, Infrastructure as Code (Terraform – en apprentissage), automatisation des environnements",
+        "Automatisation de Plateforme & de Flux : Automatisation de flux de travail n8n, automatisation des workflows Jira, BPMS",
+        "AI/ML & LLM : Grands Modèles de Langage (LLM), CNN, MLflow, développement de pipelines ML",
+        "Monitoring & Analytique : Power BI, Grafana (en apprentissage), analyse de données, tableaux de bord KPI & santé système"
       ]
     },
     "business": {
-      "title": "Compétences Interdisciplinaires",
+      "title": "Stratégie, Business & RH/OD",
       "items": [
-        "Alignement Entreprise-Technologie",
-        "Architecture Système & Conception d'Infrastructure",
-        "Évaluation des Besoins Organisationnels",
-        "Conception de Solutions Stratégiques",
-        "Leadership d'Équipe Transfonctionnel",
-        "Optimisation de Processus & Transformation Numérique",
-        "Prise de Décision Basée sur les Données",
-        "Méthodologies Agiles & Scrum"
+        "Alignement Business–Technologie & Architecture de Solution",
+        "Transformation Numérique & Optimisation de Processus",
+        "Développement Organisationnel & HR Tech (LMS, systèmes RH, people analytics)",
+        "Évaluation de Startups & d’Entreprises (1000+ évaluations chez KarenCrowd)",
+        "Prise de Décision Basée sur les Données & Prospective Stratégique",
+        "Collaboration Transfonctionnelle, Méthodes Agiles & Scrum"
       ]
     }
   },

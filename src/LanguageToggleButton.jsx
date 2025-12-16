@@ -27,7 +27,7 @@ export default function LanguageToggleButton({ language, setLanguage }) {
   return (
     <div className="relative inline-block text-left">
       <button
-        className={`flex items-center px-3 py-2 bg-white border rounded-lg shadow hover:bg-gray-100 ${isRTL ? 'space-x-reverse space-x-2' : 'space-x-2'}`}
+        className={`flex items-center justify-between min-w-[8.5rem] px-3 py-2 bg-white border rounded-lg shadow hover:bg-gray-100 ${isRTL ? 'space-x-reverse space-x-2' : 'space-x-2'}`}
         onClick={() => setShowDropdown(!showDropdown)}
       >
         <img
@@ -35,11 +35,13 @@ export default function LanguageToggleButton({ language, setLanguage }) {
           alt="flag"
           className="w-5 h-5 rounded-full object-cover"
         />
-        <span className="text-sm">{getLanguageLabel(language)}</span>
+        <span className="text-sm truncate max-w-[6rem] whitespace-nowrap">
+          {getLanguageLabel(language)}
+        </span>
       </button>
 
       {showDropdown && (
-        <div className={`absolute mt-2 w-40 bg-white border rounded-lg shadow z-10 ${isRTL ? 'left-0' : 'right-0'}`}>
+        <div className={`absolute mt-2 w-48 bg-white border rounded-lg shadow z-10 ${isRTL ? 'left-0' : 'right-0'}`}>
           {['en', 'de', 'tr', 'fr', 'fa'].map((lang) => (
             <button
               key={lang}
@@ -51,7 +53,9 @@ export default function LanguageToggleButton({ language, setLanguage }) {
                 alt={lang}
                 className="w-5 h-5 rounded-full object-cover"
               />
-              <span className="text-sm">{getLanguageLabel(lang)}</span>
+              <span className="text-sm truncate whitespace-nowrap flex-1 text-left">
+                {getLanguageLabel(lang)}
+              </span>
             </button>
           ))}
         </div>
