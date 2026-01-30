@@ -9,12 +9,34 @@ export default function ExperienceSection() {
       <h2 className="text-2xl font-bold mb-4">{t('experience.title')}</h2>
       <ul className="space-y-4 text-gray-700">
 
-        {/* Snapp! - Systems & Automation Specialist */}
+        {/* Snapp! – Cloud & Systems Engineer (Sep 2025 – Present) */}
         <li>
-          <h3 className="font-semibold text-lg">{t('experience.snapp.title')}</h3>
-          <p className="text-sm text-gray-500">{t('experience.snapp.location')}</p>
+          <h3 className="font-semibold text-lg">{t('experience.snapp1.title')}</h3>
+          <p className="text-sm text-gray-500">{t('experience.snapp1.location')}</p>
           <ul className="list-disc ml-6 mt-1 text-justify">
-            {t('experience.snapp.points', { returnObjects: true }).map((point, idx) => (
+            {t('experience.snapp1.points', { returnObjects: true }).map((point, idx) => (
+              <li key={idx} dangerouslySetInnerHTML={{ __html: point }}></li>
+            ))}
+          </ul>
+        </li>
+
+        {/* Snapp! – Jira Developer & Solutions Architect (Nov 2023 – Sep 2025) */}
+        <li>
+          <h3 className="font-semibold text-lg">{t('experience.snapp2.title')}</h3>
+          <p className="text-sm text-gray-500">{t('experience.snapp2.location')}</p>
+          <ul className="list-disc ml-6 mt-1 text-justify">
+            {t('experience.snapp2.points', { returnObjects: true }).map((point, idx) => (
+              <li key={idx} dangerouslySetInnerHTML={{ __html: point }}></li>
+            ))}
+          </ul>
+        </li>
+
+        {/* Snapp! – P&OD Specialist (Jun 2023 – Oct 2023) */}
+        <li>
+          <h3 className="font-semibold text-lg">{t('experience.snapp3.title')}</h3>
+          <p className="text-sm text-gray-500">{t('experience.snapp3.location')}</p>
+          <ul className="list-disc ml-6 mt-1 text-justify">
+            {t('experience.snapp3.points', { returnObjects: true }).map((point, idx) => (
               <li key={idx} dangerouslySetInnerHTML={{ __html: point }}></li>
             ))}
           </ul>
