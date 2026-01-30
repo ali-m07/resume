@@ -19,33 +19,39 @@
   },
   "experience": {
     "title": "Professional Experience",
-    "snapp1": {
-      "title": "Snapp! – Cloud & Systems Engineer",
-      "location": "Tehran, Iran | Sep 2025 – Present",
-      "points": [
-        "Designed and operated cloud-native infrastructure for internal services using Docker, Kubernetes, and Helm, emphasizing reliability and scalability.",
-        "Implemented and maintained CI/CD pipelines (GitHub Actions) for Python-based services and internal tools, reducing manual deployment effort and release risk.",
-        "Engineered automated data pipelines and streamlined business workflows using Python and SQL, reducing process cycle time by 40%.",
-        "Developed and deployed LLM-based solutions for internal use-cases, integrating them into existing systems and automation workflows.",
-        "Designed and implemented LMS (Learning Management System) and HR digital infrastructure."
-      ]
-    },
-    "snapp2": {
-      "title": "Snapp! – Jira Developer, System Admin & Solutions Architect",
-      "location": "Tehran, Iran | Nov 2023 – Sep 2025",
-      "points": [
-        "Developed advanced automation utilizing ScriptRunner, Behaviours, and Autofillers, creating cost-effective structural solutions for complex processes.",
-        "Managed Assets (Insight) and built advanced data dashboards, providing visibility into operational metrics and system health.",
-        "Engineered seamless integrations between Jira, GitLab, Confluence, SQL, and Recruitee to unify development and HR workflows.",
-        "Deployed and configured n8n workflow automation platform, connecting backend services and APIs to streamline cross-functional operations."
-      ]
-    },
-    "snapp3": {
-      "title": "Snapp! – P&OD Specialist",
-      "location": "Tehran, Iran | Jun 2023 – Oct 2023",
-      "points": [
-        "Conducted data analysis and reporting to support organizational decisions, while managing documentation and process structuring.",
-        "Led digitalization initiatives to convert manual onboarding and administrative workflows into systematic digital operations."
+    "snapp": {
+      "company": "Snapp!",
+      "location": "Tehran, Iran",
+      "positions": [
+        {
+          "title": "Cloud & Systems Engineer",
+          "period": "Sep 2025 – Present",
+          "points": [
+            "Designed and operated cloud-native infrastructure for internal services using Docker, Kubernetes, and Helm, emphasizing reliability and scalability.",
+            "Implemented and maintained CI/CD pipelines (GitHub Actions) for Python-based services and internal tools, reducing manual deployment effort and release risk.",
+            "Engineered automated data pipelines and streamlined business workflows using Python and SQL, reducing process cycle time by 40%.",
+            "Developed and deployed LLM-based solutions for internal use-cases, integrating them into existing systems and automation workflows.",
+            "Designed and implemented LMS (Learning Management System) and HR digital infrastructure."
+          ]
+        },
+        {
+          "title": "Jira Developer, System Admin & Solutions Architect",
+          "period": "Nov 2023 – Sep 2025",
+          "points": [
+            "Developed advanced automation utilizing ScriptRunner, Behaviours, and Autofillers, creating cost-effective structural solutions for complex processes.",
+            "Managed Assets (Insight) and built advanced data dashboards, providing visibility into operational metrics and system health.",
+            "Engineered seamless integrations between Jira, GitLab, Confluence, SQL, and Recruitee to unify development and HR workflows.",
+            "Deployed and configured n8n workflow automation platform, connecting backend services and APIs to streamline cross-functional operations."
+          ]
+        },
+        {
+          "title": "P&OD Specialist",
+          "period": "Jun 2023 – Oct 2023",
+          "points": [
+            "Conducted data analysis and reporting to support organizational decisions, while managing documentation and process structuring.",
+            "Led digitalization initiatives to convert manual onboarding and administrative workflows into systematic digital operations."
+          ]
+        }
       ]
     },
     "bodyspinner": {

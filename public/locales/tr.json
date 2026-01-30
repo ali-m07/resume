@@ -19,15 +19,39 @@
   },
   "experience": {
     "title": "Profesyonel Deneyim",
-    "snapp1": {
-      "title": "Snapp! – Cloud & Sistem Mühendisi",
-      "location": "Tahran, İran | Eylül 2025 – Günümüz",
-      "points": [
-        "Dahili servisler için Docker, Kubernetes ve Helm ile cloud-native altyapı tasarladı ve yönetti; güvenilirlik ve ölçeklenebilirliğe odaklandı.",
-        "Python tabanlı servisler ve dahili araçlar için CI/CD boru hatları (GitHub Actions) uyguladı ve yönetti, manuel dağıtım eforunu ve release riskini azalttı.",
-        "Python ve SQL ile otomatik veri boru hatları geliştirip iş akışlarını optimize etti, süreç döngü süresini %40 azalttı.",
-        "Dahili kullanım senaryoları için LLM tabanlı çözümler geliştirdi ve mevcut sistemler ile otomasyon iş akışlarına entegre etti.",
-        "LMS (Öğrenme Yönetim Sistemi) ve dijital İK altyapısını tasarladı ve uyguladı."
+    "snapp": {
+      "company": "Snapp!",
+      "location": "Tahran, İran",
+      "positions": [
+        {
+          "title": "Cloud & Sistem Mühendisi",
+          "period": "Eylül 2025 – Günümüz",
+          "points": [
+            "Dahili servisler için Docker, Kubernetes ve Helm ile cloud-native altyapı tasarladı ve yönetti; güvenilirlik ve ölçeklenebilirliğe odaklandı.",
+            "Python tabanlı servisler ve dahili araçlar için CI/CD boru hatları (GitHub Actions) uyguladı ve yönetti, manuel dağıtım eforunu ve release riskini azalttı.",
+            "Python ve SQL ile otomatik veri boru hatları geliştirip iş akışlarını optimize etti, süreç döngü süresini %40 azalttı.",
+            "Dahili kullanım senaryoları için LLM tabanlı çözümler geliştirdi ve mevcut sistemler ile otomasyon iş akışlarına entegre etti.",
+            "LMS (Öğrenme Yönetim Sistemi) ve dijital İK altyapısını tasarladı ve uyguladı."
+          ]
+        },
+        {
+          "title": "Jira Geliştirici, Sistem Yöneticisi & Çözüm Mimarı",
+          "period": "Kasım 2023 – Eylül 2025",
+          "points": [
+            "ScriptRunner, Behaviours ve Autofillers kullanarak gelişmiş otomasyon geliştirdi; karmaşık süreçler için maliyet-etkin yapısal çözümler oluşturdu.",
+            "Assets (Insight) yönetti ve operasyonel metrikler ile sistem sağlığı için gelişmiş veri panoları kurdu.",
+            "Jira, GitLab, Confluence, SQL ve Recruitee arasında kesintisiz entegrasyonlar kurarak geliştirme ve İK iş akışlarını birleştirdi.",
+            "n8n iş akışı otomasyon platformunu dağıttı ve yapılandırdı; backend servisleri ve API'leri bağlayarak işlevler arası operasyonları optimize etti."
+          ]
+        },
+        {
+          "title": "P&OD Uzmanı",
+          "period": "Haziran 2023 – Ekim 2023",
+          "points": [
+            "Organizasyonel kararları desteklemek için veri analizi ve raporlama yürüttü; dokümantasyon ve süreç yapılandırmasını yönetti.",
+            "Manuel onboarding ve idari iş akışlarını sistematik dijital operasyonlara dönüştürmek için dijitalleşme girişimlerine öncülük etti."
+          ]
+        }
       ]
     },
     "bodyspinner": {
@@ -65,24 +89,6 @@
         "Kapsamlı startup analizi ve pazar araştırması yoluyla yatırım kararı doğruluğunu %30 artırdı.",
         "Yüksek potansiyelli startuplar için finansman sağladı, kitle fonlama platformunda proje başlatma başarısını %25 artırdı.",
         "Potansiyel finansal kayıpları azaltmak ve yatırım sürecindeki güveni artırmak için risk değerlendirmeleri ve finansal analizler yürüttü."
-      ]
-    },
-    "snapp2": {
-      "title": "Snapp! – Jira Geliştirici, Sistem Yöneticisi & Çözüm Mimarı",
-      "location": "Tahran, İran | Kasım 2023 – Eylül 2025",
-      "points": [
-        "ScriptRunner, Behaviours ve Autofillers kullanarak gelişmiş otomasyon geliştirdi; karmaşık süreçler için maliyet-etkin yapısal çözümler oluşturdu.",
-        "Assets (Insight) yönetti ve operasyonel metrikler ile sistem sağlığı için gelişmiş veri panoları kurdu.",
-        "Jira, GitLab, Confluence, SQL ve Recruitee arasında kesintisiz entegrasyonlar kurarak geliştirme ve İK iş akışlarını birleştirdi.",
-        "n8n iş akışı otomasyon platformunu dağıttı ve yapılandırdı; backend servisleri ve API'leri bağlayarak işlevler arası operasyonları optimize etti."
-      ]
-    },
-    "snapp3": {
-      "title": "Snapp! – P&OD Uzmanı",
-      "location": "Tahran, İran | Haziran 2023 – Ekim 2023",
-      "points": [
-        "Organizasyonel kararları desteklemek için veri analizi ve raporlama yürüttü; dokümantasyon ve süreç yapılandırmasını yönetti.",
-        "Manuel onboarding ve idari iş akışlarını sistematik dijital operasyonlara dönüştürmek için dijitalleşme girişimlerine öncülük etti."
       ]
     }
   },

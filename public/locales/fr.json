@@ -19,15 +19,39 @@
   },
   "experience": {
     "title": "Expérience Professionnelle",
-    "snapp1": {
-      "title": "Snapp! – Ingénieur Cloud & Systèmes",
-      "location": "Téhéran, Iran | Sep 2025 – Présent",
-      "points": [
-        "Conçu et opéré une infrastructure cloud-native pour les services internes avec Docker, Kubernetes et Helm, en mettant l'accent sur la fiabilité et l'évolutivité.",
-        "Implémenté et maintenu des pipelines CI/CD (GitHub Actions) pour des services Python et des outils internes, réduisant l'effort de déploiement et le risque de release.",
-        "Développé des pipelines de données automatisés et rationalisé les flux de travail avec Python et SQL, réduisant le temps de cycle des processus de 40%.",
-        "Développé et déployé des solutions basées sur des LLM pour des cas d'usage internes, intégrées aux systèmes existants et aux workflows d'automatisation.",
-        "Conçu et implémenté un LMS et une infrastructure numérique RH."
+    "snapp": {
+      "company": "Snapp!",
+      "location": "Téhéran, Iran",
+      "positions": [
+        {
+          "title": "Ingénieur Cloud & Systèmes",
+          "period": "Sep 2025 – Présent",
+          "points": [
+            "Conçu et opéré une infrastructure cloud-native pour les services internes avec Docker, Kubernetes et Helm, en mettant l'accent sur la fiabilité et l'évolutivité.",
+            "Implémenté et maintenu des pipelines CI/CD (GitHub Actions) pour des services Python et des outils internes, réduisant l'effort de déploiement et le risque de release.",
+            "Développé des pipelines de données automatisés et rationalisé les flux de travail avec Python et SQL, réduisant le temps de cycle des processus de 40%.",
+            "Développé et déployé des solutions basées sur des LLM pour des cas d'usage internes, intégrées aux systèmes existants et aux workflows d'automatisation.",
+            "Conçu et implémenté un LMS et une infrastructure numérique RH."
+          ]
+        },
+        {
+          "title": "Développeur Jira, Admin Système & Solutions Architect",
+          "period": "Nov 2023 – Sep 2025",
+          "points": [
+            "Développé une automatisation avancée avec ScriptRunner, Behaviours et Autofillers, créant des solutions structurelles rentables pour des processus complexes.",
+            "Géré les Assets (Insight) et construit des tableaux de bord de données avancés pour la visibilité sur les métriques opérationnelles et la santé des systèmes.",
+            "Réalisé des intégrations fluides entre Jira, GitLab, Confluence, SQL et Recruitee pour unifier les flux de travail développement et RH.",
+            "Déployé et configuré la plateforme d'automatisation n8n, connectant les services backend et les APIs pour rationaliser les opérations transverses."
+          ]
+        },
+        {
+          "title": "Spécialiste P&OD",
+          "period": "Juin 2023 – Oct 2023",
+          "points": [
+            "Mené des analyses de données et du reporting pour appuyer les décisions organisationnelles, tout en gérant la documentation et la structuration des processus.",
+            "Dirigé des initiatives de digitalisation pour convertir les processus d'onboarding et administratifs manuels en opérations numériques systématiques."
+          ]
+        }
       ]
     },
     "bodyspinner": {
@@ -65,24 +89,6 @@
         "Amélioré la précision des décisions d'investissement de 30% grâce à une analyse complète de startup et une recherche de marché.",
         "Sécurisé le financement pour des startups à haut potentiel, augmentant le succès de lancement de projet de 25% sur la plateforme de crowdfunding.",
         "Mené des évaluations de risque et des analyses financières pour réduire les pertes financières potentielles et améliorer la confiance dans le processus d'investissement."
-      ]
-    },
-    "snapp2": {
-      "title": "Snapp! – Développeur Jira, Admin Système & Solutions Architect",
-      "location": "Téhéran, Iran | Nov 2023 – Sep 2025",
-      "points": [
-        "Développé une automatisation avancée avec ScriptRunner, Behaviours et Autofillers, créant des solutions structurelles rentables pour des processus complexes.",
-        "Géré les Assets (Insight) et construit des tableaux de bord de données avancés pour la visibilité sur les métriques opérationnelles et la santé des systèmes.",
-        "Réalisé des intégrations fluides entre Jira, GitLab, Confluence, SQL et Recruitee pour unifier les flux de travail développement et RH.",
-        "Déployé et configuré la plateforme d'automatisation n8n, connectant les services backend et les APIs pour rationaliser les opérations transverses."
-      ]
-    },
-    "snapp3": {
-      "title": "Snapp! – Spécialiste P&OD",
-      "location": "Téhéran, Iran | Juin 2023 – Oct 2023",
-      "points": [
-        "Mené des analyses de données et du reporting pour appuyer les décisions organisationnelles, tout en gérant la documentation et la structuration des processus.",
-        "Dirigé des initiatives de digitalisation pour convertir les processus d'onboarding et administratifs manuels en opérations numériques systématiques."
       ]
     }
   },
