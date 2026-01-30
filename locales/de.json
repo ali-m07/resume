@@ -19,33 +19,39 @@
   },
   "experience": {
     "title": "Berufserfahrung",
-    "snapp1": {
-      "title": "Snapp! – Cloud- & Systems Engineer",
-      "location": "Teheran, Iran | Sep 2025 – Heute",
-      "points": [
-        "Cloud-native Infrastruktur für interne Services mit Docker, Kubernetes und Helm entworfen und betrieben, mit Fokus auf Zuverlässigkeit und Skalierbarkeit.",
-        "CI/CD-Pipelines (GitHub Actions) für Python-basierte Services und interne Tools implementiert und gepflegt, manuellen Deploy-Aufwand und Release-Risiko reduziert.",
-        "Automatisierte Datenpipelines entwickelt und Geschäftsworkflows mit Python und SQL optimiert, Prozesszykluszeit um 40% reduziert.",
-        "LLM-basierte Lösungen für interne Use-Cases entwickelt und bereitgestellt, in bestehende Systeme und Automations-Workflows integriert.",
-        "LMS (Learning Management System) und HR-digitale Infrastruktur entworfen und implementiert."
-      ]
-    },
-    "snapp2": {
-      "title": "Snapp! – Jira-Entwickler, System-Admin & Solutions Architect",
-      "location": "Teheran, Iran | Nov 2023 – Sep 2025",
-      "points": [
-        "Erweiterte Automatisierung mit ScriptRunner, Behaviours und Autofillers entwickelt, kosteneffektive Strukturlösungen für komplexe Prozesse geschaffen.",
-        "Assets (Insight) verwaltet und erweiterte Daten-Dashboards aufgebaut, Transparenz für operative Kennzahlen und Systemzustand geschaffen.",
-        "Nahtlose Integrationen zwischen Jira, GitLab, Confluence, SQL und Recruitee umgesetzt, um Entwicklungs- und HR-Workflows zu vereinheitlichen.",
-        "n8n Workflow-Automatisierungsplattform bereitgestellt und konfiguriert, Backend-Services und APIs verbunden, bereichsübergreifende Abläufe optimiert."
-      ]
-    },
-    "snapp3": {
-      "title": "Snapp! – P&OD-Spezialist",
-      "location": "Teheran, Iran | Juni 2023 – Okt 2023",
-      "points": [
-        "Datenanalyse und Reporting zur Unterstützung organisatorischer Entscheidungen durchgeführt, Dokumentation und Prozessstrukturierung verwaltet.",
-        "Digitalisierungsinitiativen geleitet: manuelle Onboarding- und Verwaltungsabläufe in systematische digitale Prozesse überführt."
+    "snapp": {
+      "company": "Snapp!",
+      "location": "Teheran, Iran",
+      "positions": [
+        {
+          "title": "Cloud- & Systems Engineer",
+          "period": "Sep 2025 – Heute",
+          "points": [
+            "Cloud-native Infrastruktur für interne Services mit Docker, Kubernetes und Helm entworfen und betrieben, mit Fokus auf Zuverlässigkeit und Skalierbarkeit.",
+            "CI/CD-Pipelines (GitHub Actions) für Python-basierte Services und interne Tools implementiert und gepflegt, manuellen Deploy-Aufwand und Release-Risiko reduziert.",
+            "Automatisierte Datenpipelines entwickelt und Geschäftsworkflows mit Python und SQL optimiert, Prozesszykluszeit um 40% reduziert.",
+            "LLM-basierte Lösungen für interne Use-Cases entwickelt und bereitgestellt, in bestehende Systeme und Automations-Workflows integriert.",
+            "LMS (Learning Management System) und HR-digitale Infrastruktur entworfen und implementiert."
+          ]
+        },
+        {
+          "title": "Jira-Entwickler, System-Admin & Solutions Architect",
+          "period": "Nov 2023 – Sep 2025",
+          "points": [
+            "Erweiterte Automatisierung mit ScriptRunner, Behaviours und Autofillers entwickelt, kosteneffektive Strukturlösungen für komplexe Prozesse geschaffen.",
+            "Assets (Insight) verwaltet und erweiterte Daten-Dashboards aufgebaut, Transparenz für operative Kennzahlen und Systemzustand geschaffen.",
+            "Nahtlose Integrationen zwischen Jira, GitLab, Confluence, SQL und Recruitee umgesetzt, um Entwicklungs- und HR-Workflows zu vereinheitlichen.",
+            "n8n Workflow-Automatisierungsplattform bereitgestellt und konfiguriert, Backend-Services und APIs verbunden, bereichsübergreifende Abläufe optimiert."
+          ]
+        },
+        {
+          "title": "P&OD-Spezialist",
+          "period": "Juni 2023 – Okt 2023",
+          "points": [
+            "Datenanalyse und Reporting zur Unterstützung organisatorischer Entscheidungen durchgeführt, Dokumentation und Prozessstrukturierung verwaltet.",
+            "Digitalisierungsinitiativen geleitet: manuelle Onboarding- und Verwaltungsabläufe in systematische digitale Prozesse überführt."
+          ]
+        }
       ]
     },
     "bodyspinner": {
