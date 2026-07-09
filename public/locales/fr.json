@@ -1,6 +1,12 @@
 {
   "pdf": {
-    "download": "Télécharger en PDF"
+    "download": "Télécharger en PDF",
+    "optionsTitle": "Options PDF",
+    "includeProjects": "Inclure les projets d'architecture",
+    "includeResearch": "Inclure la recherche",
+    "includePublications": "Inclure publications & livres",
+    "cancel": "Annuler",
+    "confirm": "Télécharger le PDF"
   },
   "hero": {
     "name": "Ali Mansouri",
@@ -13,8 +19,8 @@
         "label": "Architecture & Ingénierie"
       },
       {
-        "value": "1 000+",
-        "label": "Utilisateurs de la plateforme"
+        "value": "6+",
+        "label": "Services backend intégrés"
       },
       {
         "value": "15+ h/sem.",
@@ -27,7 +33,10 @@
     ],
     "location": "Ouvert à la relocalisation internationale & remote",
     "download": "Télécharger en PDF",
-    "print": "Imprimer / Enregistrer en PDF"
+    "print": "Imprimer / Enregistrer en PDF",
+    "languageMenu": "Langue",
+    "themeLight": "Mode clair",
+    "themeDark": "Mode sombre"
   },
   "contact": {
     "title": "Contact",
@@ -39,19 +48,19 @@
   },
   "aboutMe": {
     "title": "Profil",
-    "text": "<b>Architecte Solutions</b> pratique avec <b>5+ ans</b> de livraison de plateformes cloud-native, d'automatisation d'entreprise et de systèmes IA/LLM de bout en bout, du cadrage des besoins et de la conception de scalabilité jusqu'à la stratégie de fiabilité et le déploiement. Je traite la friction organisationnelle comme une dette technique structurelle : je diagnostique d'abord le vrai problème avant de concevoir la solution, puis je bâtis les services fondamentaux là où la profondeur d'exécution compte. Ma stack couvre <b>Kubernetes, Helm, CI/CD, Python, n8n et les systèmes LLM (RAG, agents, LangChain)</b>, ancrée par une candidature de doctorat en études du futur et un MBA en RH. Chez <b>Snapp!</b>, la plus grande super-app d'Iran, j'ai <b>architecturé</b> une plateforme interne multi-modules pour <b>1 000+ utilisateurs</b> et livré l'infrastructure numérique LMS et RH sur 3+ unités opérationnelles.",
+    "text": "Architecte Solutions chevronné avec plus de 5 ans d'expérience dans le déploiement de bout en bout (End-to-End) de plateformes cloud-native, de systèmes d'IA d'entreprise et d'automatisations basées sur les LLM ; du cadrage des besoins à la stratégie de résilience et de mise en production. Je considère les frictions organisationnelles comme une dette technique structurelle : ma méthode consiste à diagnostiquer d'abord le problème réel, puis à concevoir des services clés là onde la profondeur d'exécution est cruciale. Fort d'un doctorat (PhD) en cours en Études Prospectives et d'un MBA, mon expertise s'appuie sur Kubernetes, Helm, CI/CD, Python, n8n et les architectures d'IA (RAG, LangChain). Chez Snapp, j'ai orchestré des automatisations LLM en production, intégré des flux de travail complexes et gouverné l'architecture de la plateforme Jira.",
     "pillars": [
       {
-        "title": "Anticipation stratégique",
-        "text": "Dynamique des systèmes et modélisation de scénarios de niveau doctoral, architecturer là où l'organisation se dirige, pas où elle se trouve."
+        "title": "Prospective Stratégique",
+        "text": "Maîtrise de niveau doctoral en dynamique des systèmes (System Dynamics) et modélisation de scénarios ; architecture de la trajectoire future des organisations et adaptabilité face aux macro-tendances."
       },
       {
-        "title": "Ingénierie Cloud-Native",
-        "text": "Kubernetes en production, Helm, Terraform et chaînes CI/CD conçus pour la résilience, la gouvernance et la livraison reproductible."
+        "title": "Cloud-Native Engineering",
+        "text": "Déploiement en production de Kubernetes, Helm, et Terraform, combiné à des pipelines CI/CD automatisés pour garantir la résilience des systèmes, la gouvernance et une livraison reproductible."
       },
       {
         "title": "IA & Automatisation",
-        "text": "Architecture LLM pragmatique en production (RAG, bases vectorielles, LangChain) intégrée aux workflows, pas d'expériences de chat isolées."
+        "text": "Conception et déploiement en production d'architectures LLM basées sur le RAG, les bases de données vectorielles et LangChain, avec une intégration directe dans les flux de travail opérationnels plutôt que des expériences de chat isolées."
       }
     ]
   },
@@ -59,74 +68,74 @@
     "title": "Expérience Professionnelle",
     "snapp": {
       "company": "Snapp!",
-      "companyNote": "Plus grande super-app d'Iran · VTC & services à la demande",
+      "companyNote": "La plus grande super-app d'Iran · Transport en commun & Services à la demande",
       "location": "Téhéran, Iran",
       "positions": [
         {
           "title": "Architecte Solutions (Cloud, Systèmes & IA)",
-          "period": "Sep 2025 – Présent",
+          "period": "Septembre 2025 – Présent",
           "points": [
-            "<b>Architecté et gouverné</b> l'infrastructure cloud-native des services internes sur Docker et <b>Kubernetes en production (Helm)</b> ; responsabilité de la scalabilité, de la résilience et de la stratégie de déploiement.",
-            "<b>Ingéniéré</b> une plateforme d'automatisation d'entreprise multi-modules (SSO LDAP/OIDC, RBAC, tableaux de bord de gouvernance, permissions par module) pour <b>1 000+ utilisateurs internes</b> ; j'ai écrit les services Python/SQL fondamentaux.",
-            "<b>Livré 10+ services en production</b> via une chaîne CI/CD GitHub Actions (build, test, déploiement), réduisant l'effort manuel et le risque de release.",
-            "<b>Construit</b> une automatisation LLM en production avec <b>RAG, une base vectorielle et LangChain</b>, réduisant le temps de tri documentaire de <b>50%+ (15+ heures/semaine économisées)</b>.",
-            "<b>Piloté la livraison de bout en bout</b> de l'infrastructure numérique LMS et RH sur <b>3+ unités opérationnelles</b>, de la découverte des parties prenantes au cadrage des besoins, à l'architecture et au déploiement."
+            "Conception et gouvernance de l'infrastructure cloud-native pour les services internes de production basés sur Docker et Kubernetes (Helm) ; gestion de la scalabilité, de la résilience et des stratégies de déploiement.",
+            "Ingénierie d'une plateforme d'automatisation d'entreprise multimodulaire et d'une infrastructure IAM pour la gestion de bout en bout de l'authentification et de l'autorisation des utilisateurs (SSO basé sur LDAP/OIDC, RBAC, tableaux de bord de gouvernance, habilitations par module) pour plus de 1 000 utilisateurs internes ; développement de services cœurs Python/SQL.",
+            "Automatisation du cycle de vie des déploiements pour plus de 10 services de production via des pipelines CI/CD sur GitHub Actions (build, test, deploy), éliminant les risques liés aux processus manuels.",
+            "Déploiement en production d'une solution d'automatisation basée sur les LLM avec architecture RAG, bases de données vectorielles et LangChain pour optimiser et accélérer le triage des documents d'entreprise.",
+            "Gestion du déploiement de bout en bout (End-to-End) de l'infrastructure numérique LMS et RH au sein de plusieurs unités commerciales, du cadrage des besoins à l'architecture et à la mise en production."
           ]
         },
         {
-          "title": "Architecte Solutions (Workflow, Systèmes & Intégrations)",
-          "period": "Nov 2023 – Sep 2025",
+          "title": "Architecte Solutions (Flux de travail, Systèmes & Intégration)",
+          "period": "Novembre 2023 – Septembre 2025",
           "points": [
-            "<b>Architecté</b> l'automatisation des workflows d'entreprise avec ScriptRunner, Behaviours et Autofillers, supprimant <b>30%+ de la coordination manuelle</b> dans les chaînes complexes de validation et de transmission.",
-            "<b>Modélisé</b> les structures de données Jira Assets (Insight), les règles de gouvernance et les tableaux de bord de pilotage offrant une visibilité temps réel sur la santé du système pour <b>20+ équipes</b>.",
-            "<b>Spécifié</b> l'architecture d'intégration entre Jira, GitLab, Confluence, SQL Server et Recruitee ; déployé <b>n8n comme maillage de workflows résilient</b> unifiant <b>6+ services et API backend</b>.",
-            "<b>Cadré</b> les extensions de plateforme (helpdesk, concepteur de processus, connecteurs de données, automatisation créative) via des analyses fit-gap, réduisant les tickets IT ad hoc de <b>35%</b>."
+            "Architecture de flux de travail automatisés d'entreprise à l'aide de ScriptRunner, Behaviours et de systèmes d'auto-remplissage, éliminant les goulets d'étranglement opérationnels et les validations manuelles dans les chaînes d'approbation complexes.",
+            "Modélisation des structures de données Jira Assets (Insight), définition des règles de gouvernance des données et création de tableaux de bord décisionnels pour un suivi en temps réel de la santé du système.",
+            "Définition de l'architecture d'intégration entre Jira, GitLab, Confluence, SQL Server et Recruitee, en déployant n8n comme orchestrateur de flux résilient pour plus de 6 services et API backend.",
+            "Cadrage des extensions de la plateforme (helpdesk, concepteurs de processus, connecteurs de données) basé sur une analyse d'adéquation (Fit-Gap), optimisant le support et réduisant les tickets informatiques ad-hoc."
           ]
         },
         {
-          "title": "Architecte Solutions (Systèmes Organisationnels & P&OD)",
-          "period": "Jun 2023 – Jan 2024",
+          "title": "Architecte Systèmes d'Entreprise & Transformation Numérique",
+          "period": "Juin 2023 – Décembre 2023",
           "points": [
-            "<b>Diagnostiqué</b> les causes organisationnelles profondes derrière <b>4+ défaillances de processus récurrentes</b> par l'analyse de données, avant toute conception de système.",
-            "<b>Numérisé</b> les workflows d'onboarding et administratifs en opérations reproductibles, réduisant le temps de traitement des nouveaux entrants de <b>40%</b> et établissant la base de processus ensuite montée en charge vers l'architecture de plateforme d'entreprise."
+            "Diagnostic des causes profondes des défaillances de processus opérationnels récurrents par l'analyse de données avant toute spécification ou développement technique de système.",
+            "Numérisation et optimisation des flux d'intégration (onboarding) et administratifs, accélérant les cycles de traitement et posant les bases de l'architecture de la future plateforme d'entreprise."
           ]
         }
       ]
     },
     "bodyspinner": {
-      "title": "Analyste Données & Systèmes (Temps Partiel)",
+      "title": "Analyste Données & Systèmes (Temps partiel)",
       "company": "Bodyspinner",
-      "location": "Téhéran, Iran | Nov 2022 – Sep 2023",
+      "location": "Téhéran, Iran | Novembre 2022 – Septembre 2023",
       "points": [
-        "<b>Déployé</b> des tableaux de bord analytiques Power BI pour la supervision système, réduisant l'effort de reporting manuel de <b>40%</b>.",
-        "<b>Entraîné</b> des modèles ML (CNN, MLflow) pour l'optimisation des prix, éclairant les décisions sur <b>1 000+ références</b>.",
-        "<b>Maintenu</b> un système interne de ticketing & d'information à <b>99% de disponibilité</b>, illustrant les principes SRE.",
-        "<b>Audité</b> les configurations et données Jira, améliorant la précision des données de <b>25%</b>."
+        "Conception et déploiement de tableaux de bord analytiques sur Power BI pour la surveillance des systèmes, automatisant la charge de travail liée aux rapports manuels.",
+        "Entraînement et implémentation de modèles de Machine Learning (CNN, MLflow) pour l'optimisation algorithmique des prix et l'aide à la décision sur les références (SKUs) de la plateforme.",
+        "Garantie de la stabilité et maintenance des systèmes personnalisés de ticketing et de suivi d'informations, en appliquant les principes clés du SRE (Site Reliability Engineering).",
+        "Audit des configurations et de l'architecture des données sur Jira, améliorant la précision, l'intégrité et la qualité globale des données d'entreprise."
       ],
-      "companyNote": "E-commerce de prêt-à-porter & mode"
+      "companyNote": "E-commerce de mode et d'habillement"
     },
     "arsh": {
-      "title": "Spécialiste en Transformation Numérique",
-      "company": "Shahrzaad",
-      "location": "Téhéran, Iran | Déc 2021 – Déc 2022",
+      "title": "Spécialiste Transformation Numérique & Systèmes",
+      "company": "Shahrzad",
+      "location": "Téhéran, Iran | Décembre 2021 – Décembre 2022",
       "points": [
-        "<b>Piloté</b> une transformation numérique à l'échelle de l'entreprise, migrant <b>100% des opérations cœur</b> du papier vers des workflows numériques systématiques.",
-        "<b>Introduit</b> un système de gestion des tâches de niveau entreprise adopté par <b>50+ collaborateurs</b>, centralisant <b>200+ tâches mensuelles</b> et redéfinissant la coordination de projet.",
-        "<b>Reconçu</b> les processus métier fondamentaux, augmentant la productivité opérationnelle de <b>25%</b> et réduisant le temps d'onboarding de <b>20%</b>.",
-        "<b>Déployé</b> les cadres OKR et KPI sur <b>6 départements (80+ collaborateurs)</b>, améliorant l'atteinte des objectifs trimestriels de <b>25%</b>."
+        "Contribution à la stratégie produit globale et à la conception de la feuille de route initiale de la plateforme Shahrzad, alignant les besoins opérationnels avec les spécifications techniques de l'idéation au lancement.",
+        "Systématisation des opérations de back-office en migrant les processus papier manuels vers des flux digitaux pour le recrutement, la paie et l'administration entre les équipes Frontend, Backend, PM et Finance.",
+        "Définition des fiches de poste et des frameworks OKR et KPI pour garantir la clarté des rôles, l'évaluation des performances et l'alignement des objectifs d'équipe avec la stratégie globale.",
+        "Optimisation des processus RH de bout en bout, y compris l'acquisition de talents, les parcours d'onboarding/offboarding, la marque employeur et la conception d'évaluations techniques pour les développeurs stagiaires."
       ],
-      "companyNote": "Super-app · e-commerce & services lifestyle"
+      "companyNote": "Super-App · E-commerce & Services de style de vie"
     },
     "karencrowd": {
-      "title": "Évaluateur d'Entreprise & Analyste d'Investissement",
+      "title": "Évaluateur d'Entreprise & Analyste en Investissement",
       "company": "KarenCrowd",
-      "location": "Téhéran, Iran | Déc 2020 – Déc 2021",
+      "location": "Téhéran, Iran | Décembre 2020 – Décembre 2021",
       "points": [
-        "<b>Évalué 1 000+ startups</b> via une due diligence structurée et une évaluation financière.",
-        "<b>Formulé</b> un cadre systématique d'évaluation de startups combinant scoring de risque prospectif et analyse financière, réduisant le temps moyen de revue de <b>30%</b>.",
-        "<b>Produit</b> des business plans stratégiques qui ont élevé le taux de succès de financement de <b>40%</b> et le taux de lancement de <b>25%</b>."
+        "Évaluation de startups et d'entreprises en phase de démarrage via des processus structurés de due diligence et des modèles de valorisation financière.",
+        "Élaboration d'un cadre systématique d'évaluation des startups, combinant une notation des risques prospective et une analyse financière pour optimiser les cycles d'examen.",
+        "Rédaction de plans d'affaires (Business Plans) stratégiques améliorant les taux de réussite des levées de fonds et facilitant le lancement des opérations."
       ],
-      "companyNote": "Plateforme de crowdfunding-actions & investissement startup"
+      "companyNote": "Plateforme de financement participatif et d'investissement de startups"
     }
   },
   "skills": {
@@ -163,10 +172,10 @@
         "title": "IA & Automatisation",
         "items": [
           "LLMs",
-          "RAG & Bases Vectorielles",
+          "RAG & bases de données vectorielles",
           "LangChain / LlamaIndex",
           "Agents LLM & MCP",
-          "Maillage de workflows n8n",
+          "Moteur de workflows n8n",
           "Jira (ScriptRunner, Assets)",
           "Python",
           "SQL",
@@ -189,39 +198,39 @@
     ]
   },
   "projects": {
-    "title": "Projets d'Architecture Clés",
+    "title": "Projets Clés d'Architecture",
     "items": [
       {
-        "title": "Déploiement de Plateforme Cloud-Native, Snapp!",
-        "description": "Conçu et gouverné l'architecture d'une plateforme interne multi-modules sur Docker et Kubernetes en production avec Helm. Automatisé la livraison de bout en bout de <b>10+ microservices</b> via des chaînes CI/CD GitHub Actions strictes (build, test, déploiement)."
+        "title": "Déploiement d'Infrastructure Cloud-Native (Snapp!)",
+        "description": "Conception et gouvernance de l'infrastructure cloud-native pour les services internes sur Docker et Kubernetes (production) avec Helm, automatisant la livraison de microservices via des pipelines CI/CD GitHub Actions."
       },
       {
-        "title": "Couche d'Automatisation Pilotée par l'IA, Snapp!",
-        "description": "Formulé et déployé une solution de tri documentaire prête pour la production combinant LLMs, Génération Augmentée par Récupération (RAG) et LangChain. Intégré au moteur de workflows n8n, économisant <b>15+ heures par semaine</b>."
+        "title": "Couche d'Automatisation IA en Production (Snapp!)",
+        "description": "Déploiement en production d'une solution de triage de documents basée sur les LLM, RAG et LangChain, intégrant le pipeline avec le moteur n8n pour éliminer les tâches opérationnelles manuelles."
       },
       {
         "title": "Infrastructure as Code (IaC)",
-        "description": "Rédigé des modèles d'infrastructure déclaratifs et sécurisés sur AWS (VPC, Subnets, EC2, IAM) avec des <b>Terraform</b> modulaires, pour des environnements prévisibles et reproductibles."
+        "description": "Création de modèles d'infrastructure sécurisés et déclaratifs sur les environnements cloud (VPC, Subnets, EC2, IAM) à l'aide de blueprints Terraform modulaires pour garantir des environnements prévisibles et reproductibles."
       },
       {
         "title": "Architecture d'Intégration d'Entreprise",
-        "description": "Défini et implémenté des intégrations backend personnalisées entre Jira, GitLab, Confluence et bases SQL opérationnelles, via <b>n8n comme maillage de workflows d'entreprise résilient</b> unifiant 6+ API backend."
+        "description": "Définition et mise en œuvre de l'intégration backend entre Jira, GitLab, Confluence et les bases de données SQL, en utilisant n8n comme moteur d'orchestration pour les API backend."
       },
       {
-        "title": "ML & Analytique, Bodyspinner",
-        "description": "Entraîné des modèles ML (CNN, MLflow) pour l'optimisation des prix sur <b>1 000+ références</b> ; co-développé et maintenu un système de ticketing à <b>99% de disponibilité</b>."
+        "title": "ML & Analyse de Données (Bodyspinner)",
+        "description": "Entraînement de modèles de Deep Learning (CNN) et gestion du cycle de vie des modèles (MLflow) pour l'optimisation algorithmique des prix sur les références (SKUs) ; co-développement et maintenance de l'infrastructure personnalisée de ticketing."
       },
       {
-        "title": "LMS & Infrastructure Numérique RH, Snapp!",
-        "description": "Architecturé et livré un Système de Gestion de l'Apprentissage (LMS) et une infrastructure numérique RH sur 3+ unités opérationnelles, transformant les processus hérités en opérations numériques fiables de bout en bout."
+        "title": "Numérisation des Flux P&OD (Snapp!)",
+        "description": "Diagnostic des défaillances de processus récurrentes par l'analyse de données et numérisation des parcours d'onboarding et d'administration en opérations reproductibles pour accélérer les cycles de traitement."
       },
       {
-        "title": "Automatisation des Flux Système, Snapp!",
-        "description": "Construit des pipelines de données inter-outils et automatisé les flux métier clés via le maillage n8n, améliorant la vitesse de décision de <b>40%</b> et réduisant le temps de cycle des processus."
+        "title": "Hub d'Automatisation des Flux (Snapp!)",
+        "description": "Construction de pipelines de données et automatisation des flux opérationnels clés avec n8n, réduisant considérablement les délais d'information et accélérant la prise de décision."
       },
       {
-        "title": "Chaîne CI/CD pour Services Python",
-        "description": "Conçu et implémenté une chaîne CI/CD complète avec GitHub Actions pour construire, tester et déployer automatiquement des services Python conteneurisés. Technologies : Docker, GitHub Actions, Python."
+        "title": "Pipelines CI/CD pour Services Python",
+        "description": "Conception et implémentation de pipelines CI/CD automatisés avec GitHub Actions pour le build, le test et le déploiement de services Python conteneurisés. Stack : Docker, GitHub Actions, Python."
       }
     ]
   },
@@ -327,7 +336,7 @@
         },
         {
           "title": "Entrepreneuriat Numérique : Management, Systèmes et Pratique",
-          "details": "Traduit par Khaleghi, Salajegheh, Mansouri | Kharazmi Publications, 2024"
+          "details": "Traduit par : Khaleghi, Salajegheh, Mansouri | Kharazmi Publications, 2024"
         }
       ]
     }
@@ -353,11 +362,11 @@
       },
       {
         "label": "Mobilité",
-        "value": "Ouvert aux opportunités internationales et à la relocalisation mondiale (Europe, Turquie, Australie, Amérique du Nord et au-delà), sur site, hybride ou à distance"
+        "value": "Ouvert aux opportunités internationales et à la relocation globale ; flexible pour des structures d'entreprise sur site, hybrides ou à distance."
       },
       {
         "label": "Éligibilité au travail",
-        "value": "Ouvert au parrainage et aux arrangements d'emploi internationaux"
+        "value": "Ouvert au parrainage de visa institutionnel et aux cadres d'emploi internationaux."
       }
     ]
   }

@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
+  darkMode: 'class',
   content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
@@ -18,11 +19,11 @@ export default {
           600: "#2563eb",
           400: "#60a5fa",
         },
-        ink: "#0f172a",       // headings on light
-        muted: "#64748b",     // secondary text
-        line: "#e2e8f0",      // hairline rules
-        canvas: "#f8fafc",    // page background
-        card: "#ffffff",
+        ink: 'var(--cv-ink)',
+        muted: 'var(--cv-muted)',
+        line: 'var(--cv-line)',
+        canvas: 'var(--cv-canvas)',
+        card: 'var(--cv-card)',
       },
       fontFamily: {
         sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],

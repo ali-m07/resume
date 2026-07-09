@@ -3,6 +3,26 @@
 @tailwind utilities;
 
 @layer base {
+  :root {
+    --cv-ink: #0f172a;
+    --cv-muted: #64748b;
+    --cv-line: #e2e8f0;
+    --cv-canvas: #f8fafc;
+    --cv-card: #ffffff;
+    --cv-menu-bg: #ffffff;
+    --cv-menu-header: rgba(248, 250, 252, 0.9);
+  }
+
+  .dark {
+    --cv-ink: #f1f5f9;
+    --cv-muted: #94a3b8;
+    --cv-line: #334155;
+    --cv-canvas: #0b1220;
+    --cv-card: #111827;
+    --cv-menu-bg: #111827;
+    --cv-menu-header: rgba(30, 41, 59, 0.95);
+  }
+
   html {
     -webkit-text-size-adjust: 100%;
     scroll-behavior: smooth;
@@ -18,7 +38,7 @@
 @layer components {
   /* Section card — light body container */
   .cv-card {
-    @apply bg-card rounded-2xl border border-line shadow-card;
+    @apply bg-card rounded-2xl border border-line shadow-card dark:shadow-none;
   }
 
   /* Section header with hairline rule (editorial style) */
@@ -31,32 +51,330 @@
     @apply inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-3 py-1 text-xs font-medium text-slate-200 backdrop-blur;
   }
   .cv-tag {
-    @apply inline-flex items-center rounded-md border border-line bg-slate-50 px-2 py-0.5 text-xs font-medium text-slate-600;
+    @apply inline-flex items-center rounded-md border border-line bg-slate-50 px-2 py-0.5 text-xs font-medium text-slate-600
+           dark:bg-slate-800 dark:text-slate-300;
+    white-space: nowrap;
+    unicode-bidi: isolate;
+  }
+
+  .cv-text {
+    @apply text-slate-700 dark:text-slate-300 text-justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+  }
+
+  .cv-prose,
+  .cv-prose-inline {
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+  }
+
+  .cv-text-muted {
+    @apply text-slate-600 dark:text-slate-400;
+  }
+
+  .cv-pillar-card {
+    @apply rounded-xl border border-line bg-slate-50/60 p-4 dark:bg-slate-800/40;
+  }
+
+  .cv-lang-menu {
+    background: var(--cv-menu-bg);
+    border-color: var(--cv-line);
+  }
+
+  .cv-lang-menu > div:first-child {
+    background: var(--cv-menu-header);
   }
 
   /* Subtle link */
   .cv-link {
-    @apply text-accent-600 hover:text-accent-400 transition-colors;
+    @apply text-accent-600 hover:text-accent-400 dark:text-accent-400 dark:hover:text-accent transition-colors;
   }
 }
 
-/* ==================== RTL (Persian) ==================== */
-.rtl { direction: rtl; text-align: right; }
-.ltr { direction: ltr; text-align: left; }
+/* ==================== RTL / FA bidi (Persian + embedded EN tokens) ==================== */
+.rtl,
+.fa-section,
+#resume-root.rtl,
+#resume-root.fa-section {
+  direction: rtl;
+  font-family: 'Vazirmatn', 'Inter', ui-sans-serif, system-ui, sans-serif;
+}
+.ltr { direction: ltr; }
 
 .rtl .flip-x { transform: scaleX(-1); }
 
-/* ==================== Pagination helpers (global, for html2pdf) ==================== */
-/* Keep these cards/entries intact across pages during PDF export. */
-.cv-card { break-inside: avoid; page-break-inside: avoid; }
-.cv-avoid-break { break-inside: avoid; page-break-inside: avoid; }
+/* LTR technical tokens & numbers — strict bidi isolation (web + PDF) */
+.en-token,
+.num-token,
+.bidi-ltr,
+bdi.en-token,
+bdi.num-token {
+  direction: ltr !important;
+  unicode-bidi: isolate !important;
+  display: inline;
+  font-style: normal;
+  text-align: left;
+}
 
-/* ==================== Print (A4) ==================== */
+/* Persian body blocks — strict isolation for web + PDF */
+.fa-section,
+#resume-root.fa-section,
+.rtl .cv-prose,
+.rtl .cv-prose-inline,
+.rtl .cv-text,
+.rtl .cv-section {
+  direction: rtl !important;
+  unicode-bidi: isolate !important;
+  text-align: justify !important;
+}
+
+.fa-section .en-token,
+.fa-section .num-token,
+.fa-section .bidi-ltr,
+.fa-section bdi.en-token,
+.fa-section bdi.num-token,
+.rtl .en-token,
+.rtl .num-token,
+.rtl .bidi-ltr,
+.rtl bdi.en-token,
+.rtl bdi.num-token {
+  direction: ltr !important;
+  unicode-bidi: isolate !important;
+  display: inline !important;
+  hyphens: none !important;
+  -webkit-hyphens: none !important;
+  word-break: keep-all;
+}
+
+/* Keep (System Dynamics) and Onboarding / Offboarding on one line */
+.bidi-nowrap,
+bdi.bidi-nowrap,
+span.bidi-nowrap,
+.rtl span.en-token.bidi-nowrap,
+.fa-section span.en-token.bidi-nowrap {
+  white-space: nowrap !important;
+  display: inline-block !important;
+  max-width: 100%;
+  vertical-align: baseline;
+}
+
+/* FA ↔ EN gutter (thin space), similar to Word mixed-script spacing */
+.rtl .cv-prose bdi.en-token,
+.rtl .cv-prose span.en-token,
+.rtl .cv-prose-inline bdi.en-token,
+.rtl .cv-prose-inline span.en-token,
+.rtl .cv-text bdi.en-token,
+.rtl .cv-text span.en-token,
+.fa-section .cv-prose bdi.en-token,
+.fa-section .cv-prose span.en-token,
+.fa-section .cv-prose-inline bdi.en-token,
+.fa-section .cv-prose-inline span.en-token {
+  margin-inline: 0.12em;
+}
+
+/* Space Grotesk / JetBrains Mono lack Persian glyphs */
+.rtl .font-display,
+.rtl .cv-hero-name {
+  font-family: 'Vazirmatn', 'Inter', ui-sans-serif, sans-serif;
+  letter-spacing: 0;
+}
+.rtl .font-mono,
+.rtl .cv-date {
+  font-family: 'Vazirmatn', ui-monospace, monospace;
+  letter-spacing: 0;
+}
+.rtl .cv-hero-tagline .en-token,
+.rtl .cv-hero-tagline .bidi-ltr {
+  font-family: 'JetBrains Mono', ui-monospace, monospace;
+}
+
+/* Editorial uppercase tracking breaks Persian — disable in RTL */
+.rtl .cv-section-title,
+.rtl .cv-subsection-title {
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.rtl .cv-prose b,
+.rtl .cv-prose-inline b,
+.rtl .cv-prose strong,
+.rtl .cv-prose-inline strong {
+  font-weight: 600;
+}
+
+/* Contain overflow / stray glyphs in cards */
+.rtl .cv-card {
+  overflow: hidden;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+.rtl .cv-bullet-item {
+  align-items: flex-start;
+}
+.rtl .cv-bullet-dot {
+  flex-shrink: 0;
+}
+
+/* RTL grid: main column starts from inline-start (right in RTL) */
+.rtl .cv-layout {
+  direction: rtl;
+}
+.ltr .cv-layout {
+  direction: ltr;
+}
+
+/* ==================== Print / PDF pagination (global — all locales) ==================== */
+/*
+ * Master sections/columns: break-inside auto (fill page 1 continuously)
+ * Task units:            .cv-atomic-block (never split — move whole unit to next page)
+ * Orphan guard:            .cv-keep-with-next → heading + one sub-line
+ */
+.cv-section,
+.cv-section-flow,
+.cv-card,
+.cv-section-breakable,
+.cv-company-block,
+main {
+  break-inside: auto;
+  page-break-inside: auto;
+}
+.cv-atomic-block,
+.cv-avoid-break {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.cv-keep-with-next { break-inside: avoid; page-break-inside: avoid; }
+.cv-section-title,
+.cv-company-name,
+.cv-role-title,
+.cv-subsection-title {
+  break-after: avoid;
+  page-break-after: avoid;
+}
+.cv-role-entry + .cv-role-entry { margin-top: 0; }
+
+@keyframes lang-menu-in {
+  from { opacity: 0; transform: translateY(-6px) scale(0.98); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+.animate-lang-menu-in {
+  animation: lang-menu-in 0.18s ease-out;
+}
+
+body.printing-pdf .no-print,
+body.printing-pdf .pdf-compact-hide,
+body.pdf-exporting .no-print,
+body.pdf-exporting .pdf-compact-hide {
+  display: none !important;
+}
+
+/* Keep two-column grid during PDF capture (even on narrow viewports) */
+body.pdf-exporting .cv-layout {
+  display: grid !important;
+  grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
+  gap: 1rem !important;
+  align-items: start !important;
+}
+body.pdf-exporting .ltr .cv-layout,
+body.pdf-exporting #resume-root.ltr .cv-layout {
+  direction: ltr !important;
+}
+body.pdf-exporting .rtl .cv-layout,
+body.pdf-exporting #resume-root.rtl .cv-layout {
+  direction: rtl !important;
+}
+body.pdf-exporting .cv-layout > :first-child {
+  grid-column: span 3 / span 3 !important;
+}
+body.pdf-exporting .cv-layout > :last-child {
+  grid-column: span 2 / span 2 !important;
+}
+body.pdf-exporting #resume-root {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  padding-top: 1.25rem !important;
+  padding-bottom: 1.25rem !important;
+  gap: 1rem !important;
+}
+body.pdf-exporting #resume-root > main {
+  gap: 1rem !important;
+}
+body.pdf-exporting .cv-card {
+  box-shadow: none !important;
+  overflow: hidden !important;
+  padding: 1rem 1.25rem !important;
+}
+body.pdf-exporting .cv-keep-with-next.mb-4 {
+  margin-bottom: 0.625rem !important;
+}
+body.pdf-exporting .space-y-6 > :not([hidden]) ~ :not([hidden]) {
+  margin-top: 1rem !important;
+}
+body.pdf-exporting .space-y-4 > :not([hidden]) ~ :not([hidden]) {
+  margin-top: 0.625rem !important;
+}
+body.pdf-exporting .space-y-1\.5 > :not([hidden]) ~ :not([hidden]) {
+  margin-top: 0.25rem !important;
+}
+body.pdf-exporting .cv-company-block.border-t {
+  padding-top: 0.75rem !important;
+}
+body.pdf-exporting .cv-role-entry.space-y-2 > :not([hidden]) ~ :not([hidden]) {
+  margin-top: 0.375rem !important;
+}
+body.pdf-exporting .cv-text,
+body.pdf-exporting .cv-prose,
+body.pdf-exporting .cv-prose-inline {
+  text-align: justify !important;
+  line-height: 1.45 !important;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+body.pdf-exporting .fa-section,
+body.pdf-exporting #resume-root.fa-section,
+body.pdf-exporting #resume-root.rtl {
+  direction: rtl !important;
+  unicode-bidi: isolate !important;
+  text-align: justify !important;
+}
+body.pdf-exporting .fa-section .en-token,
+body.pdf-exporting .fa-section .num-token,
+body.pdf-exporting .fa-section .bidi-ltr,
+body.pdf-exporting .fa-section bdi.en-token,
+body.pdf-exporting .fa-section bdi.num-token,
+body.pdf-exporting .rtl .en-token,
+body.pdf-exporting .rtl .num-token,
+body.pdf-exporting .rtl .bidi-ltr,
+body.pdf-exporting .rtl bdi.en-token,
+body.pdf-exporting .rtl bdi.num-token {
+  direction: ltr !important;
+  unicode-bidi: isolate !important;
+  display: inline !important;
+}
+body.pdf-exporting .rtl,
+body.pdf-exporting .rtl .font-display,
+body.pdf-exporting .rtl .cv-hero-name,
+body.pdf-exporting .rtl .font-mono,
+body.pdf-exporting .rtl .cv-date {
+  font-family: 'Vazirmatn', sans-serif !important;
+  letter-spacing: 0 !important;
+}
+body.pdf-exporting .rtl .cv-hero-tagline .en-token,
+body.pdf-exporting .rtl .cv-hero-tagline .bidi-ltr {
+  font-family: 'JetBrains Mono', ui-monospace, monospace !important;
+}
+body.pdf-exporting .rtl .cv-section-title,
+body.pdf-exporting .rtl .cv-subsection-title {
+  letter-spacing: 0 !important;
+  text-transform: none !important;
+}
+
 @media print {
   @page { size: A4; margin: 12mm; }
 
-  .no-print { display: none !important; }
-  .print-block { display: block !important; }
+  .no-print, .pdf-compact-hide { display: none !important; }
 
   html, body {
     background: #ffffff !important;
@@ -64,7 +382,6 @@
     print-color-adjust: exact;
   }
 
-  /* Flatten the dark hero into a printable header: keep colors but avoid full-bleed gradient ink bleed */
   .print-hero {
     background: #0f172a !important;
     -webkit-print-color-adjust: exact;
@@ -73,10 +390,7 @@
     border-radius: 10px !important;
   }
 
-  /* Collapse the 2-column desktop grid into a single column for predictable pagination */
-  .cv-layout {
-    display: block !important;
-  }
+  .cv-layout { display: block !important; }
   .cv-layout > * {
     width: 100% !important;
     max-width: 100% !important;
@@ -86,15 +400,7 @@
   .cv-card {
     box-shadow: none !important;
     border: 1px solid #e2e8f0 !important;
-    break-inside: avoid;
-    page-break-inside: avoid;
   }
 
-  /* Avoid awkward breaks inside an experience entry */
-  .cv-avoid-break {
-    break-inside: avoid;
-    page-break-inside: avoid;
-  }
-
-  a[href]::after { content: ""; } /* don't append URLs */
+  a[href]::after { content: ""; }
 }
