@@ -1,175 +1,261 @@
 {
   "pdf": {
-    "download": "Download as PDF"
+    "download": "Download PDF"
   },
-  "header": {
-    "subtitle": "Cloud & Backend Engineer | DevOps & Strategy",
-    "description": "Cloud/DevOps engineer with strong Python backend skills, experience in Docker, Kubernetes, CI/CD and cloud, plus a proven track record in HR tech, organizational development, and digital transformation."
-  },
-  "aboutMe": {
-    "title": "About Me",
-    "text": "Cloud & Backend Engineer with 4+ years of experience at the intersection of software, infrastructure, and organizational systems. Hands-on with Python, SQL, containers (Docker), Kubernetes, Helm, CI/CD, and cloud infrastructure, while also experienced in HR tech, OD initiatives, and digital transformation. Able to move fluently between implementing backend/DevOps solutions and designing business/people-centric systems. I enjoy taking a business problem, understanding the human and process side, and then designing a scalable technical solution around it."
+  "hero": {
+    "name": "Ali Mansouri",
+    "title": "Solutions Architect",
+    "tagline": "Cloud-Native · Kubernetes · LLM/RAG · Enterprise Automation",
+    "manifesto": "I diagnose messy enterprise operations, map the system dynamics, frame the architecture, and ship the digital infrastructure that sustains growth.",
+    "metrics": [
+      {
+        "value": "5+ yrs",
+        "label": "Architecture & Engineering"
+      },
+      {
+        "value": "1,000+",
+        "label": "Internal platform users"
+      },
+      {
+        "value": "15+ hrs/wk",
+        "label": "Saved via LLM automation"
+      },
+      {
+        "value": "10+",
+        "label": "Production services shipped"
+      }
+    ],
+    "location": "Open to international relocation & remote",
+    "download": "Download PDF",
+    "print": "Print / Save as PDF"
   },
   "contact": {
-    "title": "Contact Me",
-    "linkedin": "LinkedIn Profile",
-    "github": "GitHub Profile",
+    "title": "Contact",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
     "researchgate": "ResearchGate",
-    "scholar": "Google Scholar"
+    "scholar": "Google Scholar",
+    "email": "Email"
+  },
+  "aboutMe": {
+    "title": "Summary",
+    "text": "Hands-on <b>Solutions Architect</b> with <b>5+ years</b> delivering cloud-native platforms, enterprise automation, and AI/LLM systems end-to-end, from requirements framing and scalability design to reliability strategy and deployment. I treat organizational friction as structural technical debt: I diagnose the real problem before solutioning, then build the core services where execution depth matters most. My stack spans <b>Kubernetes, Helm, CI/CD, Python, n8n, and LLM systems (RAG, agents, LangChain)</b>, grounded by a Ph.D. candidacy in Futures Studies and an MBA in HR. At <b>Snapp!</b>, Iran's largest super-app, I <b>architected</b> a multi-module internal platform for <b>1,000+ users</b> and delivered LMS and HR digital infrastructure across 3+ business units.",
+    "pillars": [
+      {
+        "title": "Strategic Foresight",
+        "text": "Ph.D.-level system dynamics and scenario modelling to architect for where the organization is moving, not where it is today."
+      },
+      {
+        "title": "Cloud-Native Engineering",
+        "text": "Production Kubernetes, Helm, Terraform and CI/CD blueprints built for resilience, governance, and reproducible delivery."
+      },
+      {
+        "title": "AI & Automation",
+        "text": "Pragmatic, live LLM architecture (RAG, vector databases, LangChain) embedded into workflows, not standalone chat experiments."
+      }
+    ]
   },
   "experience": {
-    "title": "Professional Experience",
+    "title": "Experience",
     "snapp": {
       "company": "Snapp!",
+      "companyNote": "Iran's largest super-app · ride-hailing & on-demand services",
       "location": "Tehran, Iran",
       "positions": [
         {
-          "title": "Cloud & Systems Engineer",
+          "title": "Solutions Architect (Cloud, Systems & AI)",
           "period": "Sep 2025 – Present",
           "points": [
-            "Designed and operated cloud-native infrastructure for internal services using Docker, Kubernetes, and Helm, emphasizing reliability and scalability.",
-            "Implemented and maintained CI/CD pipelines (GitHub Actions) for Python-based services and internal tools, reducing manual deployment effort and release risk.",
-            "Engineered automated data pipelines and streamlined business workflows using Python and SQL, reducing process cycle time by 40%.",
-            "Developed and deployed LLM-based solutions for internal use-cases, integrating them into existing systems and automation workflows.",
-            "Designed and implemented LMS (Learning Management System) and HR digital infrastructure."
+            "<b>Architected and governed</b> cloud-native infrastructure for internal services on Docker and <b>production Kubernetes (Helm)</b>, owning scalability, system resilience, and deployment strategy.",
+            "<b>Engineered</b> a multi-module enterprise automation platform (LDAP/OIDC SSO, RBAC, governance dashboards, module-level permissions) serving <b>1,000+ internal users</b>; authored the core Python/SQL services.",
+            "<b>Released 10+ production services</b> through a GitHub Actions CI/CD pipeline (build, test, deploy), cutting manual deployment effort and release risk.",
+            "<b>Built</b> LLM-powered automation into live operations using <b>RAG, a vector database, and LangChain</b>, cutting document-triage time by <b>50%+ (15+ hours/week saved)</b>.",
+            "<b>Drove end-to-end delivery</b> of LMS and HR digital infrastructure across <b>3+ business units</b>, from stakeholder discovery and requirements framing through architecture and deployment."
           ]
         },
         {
-          "title": "Jira Developer, System Admin & Solutions Architect",
+          "title": "Solutions Architect (Workflow, Systems & Integrations)",
           "period": "Nov 2023 – Sep 2025",
           "points": [
-            "Developed advanced automation utilizing ScriptRunner, Behaviours, and Autofillers, creating cost-effective structural solutions for complex processes.",
-            "Managed Assets (Insight) and built advanced data dashboards, providing visibility into operational metrics and system health.",
-            "Engineered seamless integrations between Jira, GitLab, Confluence, SQL, and Recruitee to unify development and HR workflows.",
-            "Deployed and configured n8n workflow automation platform, connecting backend services and APIs to streamline cross-functional operations."
+            "<b>Architected</b> enterprise workflow automation using ScriptRunner, Behaviours, and Autofillers, removing <b>30%+ of manual coordination</b> across complex approval and handoff chains.",
+            "<b>Modelled</b> Jira Assets (Insight) data structures, governance rules, and leadership dashboards giving real-time visibility into system health across <b>20+ teams</b>.",
+            "<b>Specified</b> the integration architecture across Jira, GitLab, Confluence, SQL Server, and Recruitee; deployed <b>n8n as a resilient workflow mesh</b> unifying <b>6+ backend services and APIs</b>.",
+            "<b>Scoped</b> platform extensions (helpdesk, process designer, data connectors, creative automation) from fit-gap analysis, reducing ad-hoc IT tickets by <b>35%</b>."
           ]
         },
         {
-          "title": "P&OD Specialist",
-          "period": "Jun 2023 – Oct 2023",
+          "title": "Solutions Architect (Organizational Systems & P&OD)",
+          "period": "Jun 2023 – Jan 2024",
           "points": [
-            "Conducted data analysis and reporting to support organizational decisions, while managing documentation and process structuring.",
-            "Led digitalization initiatives to convert manual onboarding and administrative workflows into systematic digital operations."
+            "<b>Diagnosed</b> the root organizational drivers behind <b>4+ recurring process failures</b> through data analysis, before any system build was scoped.",
+            "<b>Digitized</b> onboarding and administrative workflows into repeatable operations, cutting new-hire processing time by <b>40%</b> and establishing the process baseline later scaled into the enterprise platform architecture."
           ]
         }
       ]
     },
     "bodyspinner": {
-      "title": "Bodyspinner – Data & Systems Analyst (Part-Time)",
+      "title": "Data & Systems Analyst (Part-Time)",
+      "company": "Bodyspinner",
       "location": "Tehran, Iran | Nov 2022 – Sep 2023",
       "points": [
-        "Designed and deployed analytics dashboards (Power BI) for system monitoring, reducing manual reporting effort by 40%.",
-        "Developed ML models using CNN and MLflow for data analysis and business intelligence applications.",
-        "Co-developed and maintained a custom ticketing & information system, achieving 99% uptime and demonstrating a strong focus on system reliability (SRE principles).",
-        "Managed Jira configurations and automated project workflows, improving team velocity and task throughput by 30%.",
-        "Conducted data audits and implemented governance frameworks that improved system data accuracy by 25%."
-      ]
+        "<b>Deployed</b> Power BI analytics dashboards for system monitoring, cutting manual reporting effort by <b>40%</b>.",
+        "<b>Trained</b> ML models (CNN, MLflow) for pricing optimization, informing decisions on <b>1,000+ SKUs</b>.",
+        "<b>Maintained</b> a custom ticketing & information system at <b>99% uptime</b>, demonstrating SRE principles.",
+        "<b>Audited</b> Jira configurations and data, improving data accuracy by <b>25%</b>."
+      ],
+      "companyNote": "Apparel & fashion e-commerce"
     },
     "arsh": {
-      "title": "Shahrzad – Digital Transformation Specialist",
+      "title": "Digital Transformation Specialist",
+      "company": "Shahrzaad",
       "location": "Tehran, Iran | Dec 2021 – Dec 2022",
       "points": [
-        "Led comprehensive digital transformation initiative, converting the entire company from paper-based to systematic digital operations.",
-        "Designed and implemented enterprise-level task management system, revolutionizing project coordination and workflow management.",
-        "Transformed company-wide project structure from legacy frameworks to modern digital transformation methodologies.",
-        "Re-engineered core business processes, resulting in a 25% increase in operational productivity and a 20% reduction in new hire onboarding time.",
-        "Implemented OKR and KPI frameworks to improve performance tracking and system clarity.",
-        "Established digital infrastructure foundation that enabled scalable business operations and data-driven decision making."
-      ]
+        "<b>Led</b> a company-wide digital transformation, migrating <b>100% of core operations</b> from paper-based to systematic digital workflows.",
+        "<b>Introduced</b> an enterprise-level task management system adopted by <b>50+ employees</b>, centralizing <b>200+ monthly tasks</b> and redefining project coordination.",
+        "<b>Redesigned</b> core business processes, lifting operational productivity by <b>25%</b> and cutting new-hire onboarding time by <b>20%</b>.",
+        "<b>Rolled out</b> OKR and KPI frameworks across <b>6 departments (80+ employees)</b>, improving quarterly objective completion by <b>25%</b>."
+      ],
+      "companyNote": "Super-app · e-commerce & lifestyle services"
     },
     "karencrowd": {
-      "title": "KarenCrowd – Business Evaluator & Investment Analyst",
+      "title": "Business Evaluator & Investment Analyst",
+      "company": "KarenCrowd",
       "location": "Tehran, Iran | Dec 2020 – Dec 2021",
       "points": [
-        "Evaluated 1000+ startups through comprehensive due diligence processes, including business plan analysis and financial plan assessment.",
-        "Developed systematic startup evaluation framework (similar to modern pitch deck analysis systems) for business assessment and investment decisions.",
-        "Designed and implemented email marketing campaigns targeting investors, significantly increasing investor engagement and platform adoption.",
-        "Created advanced business evaluation methodologies that were ahead of their time (pre-generative AI era) and remain cutting-edge today.",
-        "Developed strategic business plans that increased project success rates by 40% through targeted business initiatives and growth strategies.",
-        "Improved investment decision accuracy by 30% through comprehensive startup analysis and market research.",
-        "Secured funding for high-potential startups, increasing project launch success by 25% on the crowdfunding platform.",
-        "Conducted risk assessments and financial analysis to reduce potential financial losses and enhance trust in the investment process."
-      ]
+        "<b>Evaluated 1,000+ startups</b> through structured due diligence and financial assessment.",
+        "<b>Formulated</b> a systematic startup-evaluation framework combining foresight-driven risk scoring with financial analysis, cutting average review time by <b>30%</b>.",
+        "<b>Produced</b> strategic business plans that raised funding success rates by <b>40%</b> and increased launch rates by <b>25%</b>."
+      ],
+      "companyNote": "Equity crowdfunding & startup investment platform"
     }
-  },
-  "achievements": {
-    "title": "Key Achievements",
-    "items": [
-      "Successfully deployed LLM solutions across multiple internal projects at Snapp!, enhancing automation and AI-driven decision-making.",
-      "Implemented n8n workflow automation platform and LMS system, streamlining business processes and educational workflows at Snapp!.",
-      "Built ML models using CNN and MLflow for pricing optimization and market research, improving decision accuracy at Bodyspinner and Snapp!.",
-      "Transformed HR digital infrastructure using DevOps methodologies, converting legacy processes to agile frameworks at Snapp!.",
-      "Accelerated business decision-making by 40% through workflow automation and real-time monitoring dashboards at Snapp!",
-      "Increased operational efficiency by 30% at Snapp! by designing and implementing automated Jira workflows.",
-      "Developed and deployed a custom ticketing system with 99% uptime, ensuring high availability and reliability at Bodyspinner.",
-      "Improved system data accuracy by 25% through robust data audit frameworks and governance practices at Bodyspinner.",
-      "Led complete digital transformation at Shahrzad, converting paper-based operations to systematic digital infrastructure with enterprise task management system.",
-      "Evaluated 1000+ startups with innovative systematic approach at KarenCrowd, developing cutting-edge evaluation methodologies ahead of the AI era.",
-      "Reduced time-to-hire for technical roles by 20% through process re-engineering and automation at Shahrzad.",
-      "Secured 25% higher funding success rate by evaluating startup viability and business potential at KarenCrowd."
-    ]
   },
   "skills": {
-    "title": "Technical & Cross-Functional Skills",
-    "technical": {
-      "title": "Backend, Cloud & DevOps",
-      "items": [
-        "Backend & Scripting: Python (Pandas, NumPy), SQL, RESTful services, automation scripts",
-        "Cloud & Containers: Docker, Kubernetes, Helm, AWS & GCP (basic / project-based)",
-        "DevOps & CI/CD: GitHub Actions, Infrastructure as Code (Terraform – learning), environment automation",
-        "Workflow & Platform Automation: n8n workflow automation, Jira workflow automation, BPMS",
-        "AI/ML & LLM: Large Language Models (LLM), CNN, MLflow, machine learning pipeline development",
-        "Monitoring & Analytics: Power BI, Grafana (learning), data analysis, KPI & system health dashboards"
-      ]
-    },
-    "business": {
-      "title": "Strategy, Business & HR/OD",
-      "items": [
-        "Business-Technology Alignment & Solution Architecture",
-        "Digital Transformation & Process Optimization",
-        "Organizational Development & HR Tech (LMS, HR systems, people analytics)",
-        "Startup & Business Evaluation (1000+ startup assessments at KarenCrowd)",
-        "Data-Driven Decision Making & Strategic Foresight",
-        "Cross-Functional Collaboration, Agile Methods & Scrum"
-      ]
-    }
+    "title": "Skills",
+    "groups": [
+      {
+        "title": "Core Architecture",
+        "items": [
+          "Solutions Architecture",
+          "System Dynamics",
+          "Digital Transformation",
+          "Process Re-engineering",
+          "Enterprise Integration",
+          "Scenario Planning",
+          "Roadmapping",
+          "Technology Evaluation"
+        ]
+      },
+      {
+        "title": "Cloud-Native & DevOps",
+        "items": [
+          "Docker",
+          "Kubernetes (production)",
+          "Helm",
+          "Terraform (IaC)",
+          "GitHub Actions",
+          "AWS (VPC, EC2, S3, Lambda, IAM)",
+          "GCP",
+          "SRE Practices",
+          "CI/CD Pipelines"
+        ]
+      },
+      {
+        "title": "AI & Automation",
+        "items": [
+          "LLMs",
+          "RAG & Vector Databases",
+          "LangChain / LlamaIndex",
+          "LLM Agents & MCP",
+          "n8n workflow mesh",
+          "Jira (ScriptRunner, Assets)",
+          "Python",
+          "SQL",
+          "Power BI",
+          "Grafana"
+        ]
+      },
+      {
+        "title": "Systems Thinking & Foresight",
+        "items": [
+          "Strategic Foresight",
+          "Causal Modeling",
+          "Decision Intelligence",
+          "Organizational Development",
+          "Change Management",
+          "Information Technology Consulting",
+          "Strategic Planning"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Key Architecture Projects",
+    "items": [
+      {
+        "title": "Cloud-Native Platform Deployment, Snapp!",
+        "description": "Conceptualized and governed a multi-module internal platform architecture on Docker and production Kubernetes with Helm. Automated end-to-end delivery of <b>10+ microservices</b> via strict GitHub Actions CI/CD workflows (build, test, deploy)."
+      },
+      {
+        "title": "AI-Driven Automation Layer, Snapp!",
+        "description": "Formulated and deployed a production-ready document-triage solution combining LLMs, Retrieval-Augmented Generation (RAG), and LangChain. Integrated the pipeline with the n8n workflow engine, saving <b>15+ hours per week</b>."
+      },
+      {
+        "title": "Infrastructure as Code (IaC)",
+        "description": "Authored secure, declarative infrastructure templates on AWS (VPC, Subnets, EC2, IAM) using modular <b>Terraform</b> blueprints, establishing predictable and reproducible environments."
+      },
+      {
+        "title": "Enterprise Integration Architecture",
+        "description": "Defined and implemented custom backend integrations across Jira, GitLab, Confluence, and operational SQL databases, using <b>n8n as a reliable enterprise workflow mesh</b> unifying 6+ backend APIs."
+      },
+      {
+        "title": "ML & Analytics, Bodyspinner",
+        "description": "Trained ML models (CNN, MLflow) for pricing optimization across <b>1,000+ SKUs</b>; co-developed and maintained a custom ticketing system at <b>99% uptime</b>."
+      },
+      {
+        "title": "LMS & HR Digital Infrastructure, Snapp!",
+        "description": "Architected and delivered a Learning Management System (LMS) and HR digital infrastructure across 3+ business units, transforming legacy processes into reliable digital operations end-to-end."
+      },
+      {
+        "title": "System Workflow Automation, Snapp!",
+        "description": "Built cross-tool data pipelines and automated key business workflows via the n8n mesh, improving decision-making speed by <b>40%</b> and reducing process cycle time."
+      },
+      {
+        "title": "CI/CD Pipeline for Python Services",
+        "description": "Designed and implemented a complete CI/CD pipeline using GitHub Actions to automatically build, test, and deploy containerized Python services. Technologies: Docker, GitHub Actions, Python."
+      }
+    ]
   },
   "education": {
     "title": "Education",
     "degrees": [
       {
         "title": "Ph.D. in Futures Studies (In Progress)",
-        "institution": "University of Tehran – Tehran, Iran | 2024 – Present"
+        "institution": "University of Tehran, Tehran, Iran | 2024 – Present"
       },
       {
         "title": "MBA in Human Resources Management",
-        "institution": "Kharazmi University – Tehran, Iran | 2020 – 2023",
+        "institution": "Kharazmi University, Tehran, Iran | 2020 – 2023",
         "description": "Thesis: HR Tech Trends & Entrepreneurial Opportunities"
       },
       {
         "title": "B.Sc. in Electrical Engineering",
-        "institution": "Qom University of Technology – Qom, Iran | 2016 – 2020",
+        "institution": "Qom University of Technology, Qom, Iran | 2016 – 2020",
         "description": "Project: GPS Design with Arduino"
       }
     ]
   },
   "research": {
-    "title": "Research Projects",
+    "title": "Research",
     "items": [
       {
-        "title": "Technology Mega-Trends Project",
-        "institution": "University of Tehran | Nov 2024 – Present",
-        "description": "Leading a foresight project to analyze global technology trends and their impact on the future of work."
+        "title": "Technology Mega-Trends Analysis",
+        "institution": "University of Tehran | Oct 2024 – Present",
+        "description": "Leading strategic analysis of global technological mega-trends to surface future opportunities, developing forecasting and innovation-mapping frameworks for academia and industry."
       },
       {
         "title": "Digital Entrepreneurship & Innovation",
         "institution": "Kharazmi University | Feb 2022 – Present",
-        "description": "Research Assistant under Dr. Armin Khaleghi. Focus on digital ecosystems, startup evaluation, and future shaping trends."
-      },
-      {
-        "title": "Strategic Roadmap to 2035: HR in Developing Countries",
-        "institution": "Collaborative Study (Ongoing)",
-        "description": "Co-authoring a strategic foresight report on HRM evolution in developing countries."
+        "description": "Research Assistant under Dr. Armin Khaleghi, digital ecosystems, startup evaluation, and future-shaping trends."
       }
     ]
   },
@@ -179,19 +265,19 @@
       "title": "Journal Articles",
       "items": [
         {
-          "title": "Foresight of Entrepreneurial Opportunities in Human Resources in Iran Based on Technology Trends",
+          "title": "Foresight of Entrepreneurial Opportunities in HR in Iran Based on Technology Trends",
           "doi": "https://jtdm.irost.ir/article_1380.html?lang=en"
         },
         {
-          "title": "Experienced vs. Novice: How Experience Influences Startup Evaluation in Accelerators",
-          "status": "Final-round review"
+          "title": "Expert vs. Novice: How Experience Influences Startup Evaluation",
+          "status": "Final revision"
         },
         {
-          "title": "The Impact of Perceived Meritocracy, Favoritism, and Nepotism on Employee Turnover Intentions",
-          "status": "Under review"
+          "title": "The Impact of Perceived Meritocracy and Nepotism on Employee Turnover",
+          "status": "Under peer review"
         },
         {
-          "title": "Challenges in Collaboration Between Accelerators and Digital Startups in Iran",
+          "title": "Challenges in Collaboration Between Accelerators and Digital Startups",
           "doi": "https://innoeco.usb.ac.ir/article_8933.html?lang=en"
         }
       ]
@@ -200,124 +286,78 @@
     "conferences": {
       "items": [
         {
-          "title": "What is Agile HR: Revolutionizing People Management – A Case Study",
-          "event": "2nd International Conference on Political Science, International Relations, and Transformation",
+          "title": "What is Agile HR: Revolutionizing People Management",
+          "event": "2nd Int. Conference on Political Science, IR & Transformation",
           "link": "https://en.civilica.com/doc/2060255/"
         },
         {
-          "title": "Environmental Sustainability and Social Responsibility in Modern Entrepreneurial Success",
-          "event": "1st International Conference on Social Entrepreneurship and Sustainable Development",
+          "title": "Environmental Sustainability and Social Responsibility in Startups",
+          "event": "1st Int. Conference on Social Entrepreneurship & Sustainable Development",
           "link": "https://en.civilica.com/doc/2045012/"
         },
         {
-          "title": "AI and the Sustainable Success of Digital Entrepreneurship: A Mixed-Methods Study",
-          "event": "4th International Conference on Advanced Research in Management and Humanities",
+          "title": "AI and Sustainable Success of Digital Entrepreneurship",
+          "event": "4th Int. Conference on Advanced Research in Management & Humanities",
           "link": "https://en.civilica.com/doc/2045011/"
         },
         {
-          "title": "Integrating Digital Competencies into Entrepreneurship Education: A Comprehensive Review",
-          "event": "4th International Conference on Advanced Research in Management and Humanities",
+          "title": "Integrating Digital Competencies into Entrepreneurship Education",
+          "event": "4th Int. Conference on Advanced Research in Management & Humanities",
           "link": "https://en.civilica.com/doc/2006091/"
         },
         {
-          "title": "Startup Failures in Iran's Entrepreneurial Ecosystem: Key Contributing Factors",
-          "event": "17th International Conference on Modern Management, Accounting, Economics, and Banking Techniques",
-          "link": "https://en.civilica.com/doc/1754192/"
-        },
-        {
-          "title": "Technological Trends Shaping Entrepreneurial Opportunities in HR in Iran: A Prioritization Approach",
-          "event": "6th National Conference on Entrepreneurship",
+          "title": "Startup Failures in Iran's Ecosystem: Key Factors",
+          "event": "17th Int. Conference on Modern Management, Accounting, Economics & Banking",
           "link": "https://en.civilica.com/doc/1754192/"
         }
       ]
     },
-    "showMore": "Show More",
-    "showLess": "Show Less",
+    "showMore": "Show more",
+    "showLess": "Show less",
     "books": {
       "title": "Books",
       "items": [
         {
           "title": "Understanding Entrepreneurial Failure",
-          "details": "Authors: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Publications, 2023"
+          "details": "Toozandjani, M. R. & Mansouri, A. | Zarnevesht Publications, 2023"
         },
         {
           "title": "The Entrepreneurial Journey: From Failure to Success",
-          "details": "Authors: Toozandjani, M. R. & Mansouri, A. | Zarnevesht Publications, 2024"
+          "details": "Toozandjani, M. R. & Mansouri, A. | Zarnevesht Publications, 2024"
         },
         {
           "title": "Digital Entrepreneurship: Management, Systems, and Practice",
-          "details": "Translated by: Khaleghi, Salajegheh, Mansouri | Kharazmi Publications, 2024"
+          "details": "Translated by Khaleghi, Salajegheh, Mansouri | Kharazmi Publications, 2024"
         }
       ]
     }
-  },
-  "projects": {
-    "title": "Key Projects",
-    "items": [
-      {
-        "title": "CI/CD Pipeline for Python Application",
-        "description": "Designed and implemented a complete CI/CD pipeline using GitHub Actions to automatically build, test, and deploy a containerized Python web application. Technologies: Docker, GitHub Actions, Python."
-      },
-      {
-        "title": "Automated Infrastructure Provisioning with Terraform",
-        "description": "Wrote Terraform scripts to automatically provision and manage cloud infrastructure on AWS (VPC, Subnets, EC2 Instance), demonstrating Infrastructure as Code (IaC) principles."
-      },
-      {
-        "title": "LLM Development & n8n Automation @ Snapp!",
-        "description": "Developed and deployed LLM solutions across multiple internal projects. Implemented n8n workflow automation platform for complex business process automation, improving operational efficiency."
-      },
-      {
-        "title": "LMS & HR Digital Infrastructure @ Snapp!",
-        "description": "Designed and implemented Learning Management System (LMS) for organizational training. Built HR digital infrastructure as DevOps engineer, transforming legacy processes to agile methodologies."
-      },
-      {
-        "title": "System Workflow Automation @ Snapp!",
-        "description": "Developed a data warehouse and automated key business workflows, improving decision-making speed by 40%. Enhanced Jira and BPMS processes to increase efficiency and reduce cycle time."
-      },
-      {
-        "title": "ML & Analytics System @ Bodyspinner",
-        "description": "Developed ML models using CNN and MLflow for pricing optimization and market research. Co-developed a custom, Jira-based ticketing system, focusing on reliability and achieving 99% uptime for critical business operations."
-      },
-      {
-        "title": "Digital Transformation & Task Management System @ Shahrzad",
-        "description": "Led complete digital transformation from paper-based to systematic operations. Designed enterprise-level task management system and modernized company-wide project structures. Redesigned recruitment pipeline, resulting in a 20% decrease in time-to-hire and 25% improvement in employee performance."
-      },
-      {
-        "title": "Advanced Startup Evaluation System @ KarenCrowd",
-        "description": "Evaluated 1000+ startups through systematic due diligence and business plan analysis. Developed cutting-edge evaluation methodologies and investor email marketing systems. Created systematic evaluation framework (pre-AI era innovation) that increased investment decision accuracy by 30% and project success rates by 40%."
-      }
-    ]
   },
   "languages": {
     "title": "Languages & Mobility",
     "items": [
       {
-        "label": "English:",
-        "value": "Fluent (Professional Working Proficiency – C1)"
-      },
-      {
-        "label": "Persian:",
+        "label": "Persian",
         "value": "Native"
       },
       {
-        "label": "German:",
-        "value": "Pre-intermediate (A2)"
+        "label": "English",
+        "value": "Fluent (C1, professional working proficiency)"
       },
       {
-        "label": "French:",
-        "value": "Beginner – Aiming for B1 by end of 2026"
+        "label": "German",
+        "value": "Elementary (A2)"
       },
       {
-        "label": "Mobility:",
-        "value": "Open to relocate to Europe (Germany, Netherlands, and France), North America, or Canada – Hybrid/Remote available"
+        "label": "French",
+        "value": "Beginner"
       },
       {
-        "label": "Work Eligibility:",
-        "value": "Eligible for visa sponsorship – Interested in Blue Card/Startup Visa programs"
+        "label": "Mobility",
+        "value": "Open to international opportunities and global relocation (Europe, Türkiye, Australia, North America and beyond), on-site, hybrid or remote"
       },
       {
-        "label": "Cultural Fit:",
-        "value": "Familiar with international work cultures, agile teams, and cross-border collaboration"
+        "label": "Work eligibility",
+        "value": "Open to sponsorship and international employment arrangements"
       }
     ]
   }
