@@ -1,6 +1,12 @@
 {
   "pdf": {
-    "download": "PDF olarak indir"
+    "download": "PDF olarak indir",
+    "optionsTitle": "PDF seçenekleri",
+    "includeProjects": "Mimari projeleri dahil et",
+    "includeResearch": "Araştırmayı dahil et",
+    "includePublications": "Yayınlar ve kitapları dahil et",
+    "cancel": "İptal",
+    "confirm": "PDF indir"
   },
   "hero": {
     "name": "Ali Mansouri",
@@ -13,8 +19,8 @@
         "label": "Mimari & Mühendislik"
       },
       {
-        "value": "1.000+",
-        "label": "Dahili platform kullanıcısı"
+        "value": "6+",
+        "label": "Entegre backend servisleri"
       },
       {
         "value": "15+ sa/hafta",
@@ -27,7 +33,10 @@
     ],
     "location": "Uluslararası taşınmaya ve uzaktan çalışmaya açık",
     "download": "PDF indir",
-    "print": "Yazdır / PDF olarak kaydet"
+    "print": "Yazdır / PDF olarak kaydet",
+    "languageMenu": "Dil",
+    "themeLight": "Açık mod",
+    "themeDark": "Koyu mod"
   },
   "contact": {
     "title": "İletişim",
@@ -39,7 +48,7 @@
   },
   "aboutMe": {
     "title": "Özet",
-    "text": "<b>Solutions Architect</b> (Çözüm Mimarı); cloud-native platformların, kurumsal otomasyonun ve uçtan uca yapay zeka/LLM sistemlerinin teslimatında <b>5+ yıl</b> deneyim, gereksinim çerçevelendirmeden ölçeklenebilirlik tasarımı, güvenilirlik stratejisi ve dağıtıma kadar. Kurumsal sürtünmeyi yapısal teknik borç olarak ele alıyorum: önce gerçek sorunu teşhis eder, çözüm tasarımına geçer, ardından yürütme derinliğinin önemli olduğu çekirdek servisleri inşa ederim. Stack'im <b>Kubernetes, Helm, CI/CD, Python, n8n ve LLM sistemlerini (RAG, ajanlar, LangChain)</b> kapsar; Gelecek Çalışmaları doktora adaylığı ve İKD MBA'sıyla temellendirilmiştir. İran'ın en büyük super-app'i <b>Snapp!</b>te <b>1.000+ kullanıcı</b> için çok modüllü dahili platform <b>mimarisi</b> tasarladım ve 3+ iş biriminde LMS ve İKD dijital altyapısını teslim ettim.",
+    "text": "Bulut-yerli (Cloud-native) platformlar, kurumsal yapay zekâ sistemleri ve LLM otomasyonlarının uçtan uca (End-to-End) tesliminde 5 yılı aşkın deneyime sahip Kıdemli Çözüm Mimarı (Solutions Architect). Gereksinimlerin kurgulanmasından ölçeklenebilirlik tasarımına ve canlıya alım (Deployment) stratejilerine kadar tüm süreçleri yönetiyorum. Kurumsal operasyonlardaki aksaklıkları yapısal bir teknik borç (Technical Debt) olarak görüyorum; yaklaşımım, önce asıl sorunu doğru teşhis etmek ve ardından yürütme derinliğinin kritik olduğu noktalarda temel servisleri inşa etmektir. Gelecek Çalışmaları (Futures Studies) alanındaki doktora adaylığım ve MBA geçmişimle desteklenen teknik uzmanlığım; Kubernetes, Helm, CI/CD, Python, n8n ve prodüksiyon seviyesindeki yapay zekâ mimarilerinden (RAG, LangChain) oluşmaktadır. Snapp'te canlı ortam LLM otomasyonlarını hayata geçirdim, kurumsal iş akışı entegrasyonlarını yönettim ve Jira platform mimarisine liderlik ettim.",
     "pillars": [
       {
         "title": "Stratejik Öngörü",
@@ -59,63 +68,63 @@
     "title": "Profesyonel Deneyim",
     "snapp": {
       "company": "Snapp!",
-      "companyNote": "İran'ın en büyük super-app'i · yolcu taşıma & talep üzerine hizmetler",
+      "companyNote": "İran'ın En Büyük Süper Uygulaması · Şehir İçi Ulaşım ve İsteğe Bağlı Hizmetler",
       "location": "Tahran, İran",
       "positions": [
         {
-          "title": "Solutions Architect (Bulut, Sistemler & Yapay Zeka)",
-          "period": "Eyl 2025 – Günümüz",
+          "title": "Çözüm Mimarı (Bulut, Sistemler ve Yapay Zekâ)",
+          "period": "Eylül 2025 – Canlı",
           "points": [
-            "<b>Mimari tasarladı ve yönetti</b>: Docker ve <b>üretim Kubernetes (Helm)</b> üzerinde dahili servisler için cloud-native altyapı; ölçeklenebilirlik, sistem dayanıklılığı ve dağıtım stratejisi sorumluluğu.",
-            "<b>Mühendislik tasarladı</b>: <b>1.000+ dahili kullanıcıya</b> hizmet eden çok modüllü kurumsal otomasyon platformu (LDAP/OIDC SSO, RBAC, yönetişim panoları, modül seviyesinde izinler); çekirdek Python/SQL servislerini geliştirdi.",
-            "<b>10+ üretim servisini</b> GitHub Actions CI/CD boru hattı (build, test, deploy) ile yayınladı, manuel dağıtım eforunu ve release riskini azalttı.",
-            "<b>Üretti</b>: <b>RAG, vektör veritabanı ve LangChain</b> ile canlı operasyonlara LLM tabanlı otomasyon; belge triyaj süresini <b>%50+ (15+ saat/hafta tasarruf)</b> azalttı.",
-            "<b>Uçtan uca teslimatı yönetti</b>: 3+ iş biriminde LMS ve İKD dijital altyapısı; paydaş keşfi ve gereksinim çerçevelendirmeden mimari ve dağıtıma kadar."
+            "Canlı ortam Docker ve Kubernetes (Helm) üzerindeki dahili servisler için bulut-yerli (Cloud-native) altyapı mimarisinin tasarımı ve yönetimi; ölçeklenebilirlik, sistem dayanıklılığı ve canlıya alım (Deployment) stratejilerinin sahipliği.",
+            "Uçtan uca kullanıcı kimlik doğrulama ve yetkilendirme (Authentication & Authorization) süreçleri için çok modüllü bir kurumsal otomasyon platformu ve IAM altyapısının mühendisliği (LDAP/OIDC tabanlı SSO, RBAC, yönetim panelleri ve modül düzeyinde yetkilendirme); 1.000'den fazla dahili kullanıcı için Python/SQL çekirdek servislerinin geliştirilmesi.",
+            "10'dan fazla canlı servis için GitHub Actions üzerinde CI/CD boru hatları (Build, Test, Deploy) kurarak canlıya alım süreçlerinin otomasyonu ve manuel operasyon risklerinin sıfırlanması.",
+            "Kurumsal doküman triyaj süreçlerini optimize etmek ve hızlandırmak amacıyla canlı operasyonlarda RAG, vektör veri tabanları ve LangChain kullanarak LLM tabanlı otomasyon sisteminin kurulması.",
+            "Paydaş analizinden gereksinimlerin kurgulanmasına, mimari tasarımdan canlıya alıma kadar farklı iş birimlerinde dijital LMS ve İK altyapısının uçtan uca (End-to-End) teslimi."
           ]
         },
         {
-          "title": "Solutions Architect (İş Akışı, Sistemler & Entegrasyonlar)",
-          "period": "Kas 2023 – Eyl 2025",
+          "title": "Çözüm Mimarı (İş Akışı, Sistemler ve Entegrasyon)",
+          "period": "Kasım 2023 – Eylül 2025",
           "points": [
-            "<b>Mimari tasarladı</b>: ScriptRunner, Behaviours ve Autofillers ile kurumsal iş akışı otomasyonu; karmaşık onay ve devir zincirlerinde <b>%30+ manuel koordinasyonu</b> ortadan kaldırdı.",
-            "<b>Modelledi</b>: 20+ takım genelinde sistem sağlığına gerçek zamanlı görünürlük sağlayan Jira Assets (Insight) veri yapıları, yönetişim kuralları ve liderlik panoları.",
-            "<b>Belirtti</b>: Jira, GitLab, Confluence, SQL Server ve Recruitee arası entegrasyon mimarisi; <b>6+ backend servis ve API'yi</b> birleştiren <b>dayanıklı iş akışı ağı olarak n8n</b> dağıtıldı.",
-            "<b>Kapsam belirledi</b>: fit-gap analizinden platform uzantıları (helpdesk, süreç tasarımcısı, veri konektörleri, yaratıcı otomasyon); ad-hoc BT biletlerini <b>%35</b> azalttı."
+            "ScriptRunner, Behaviours ve özel otomatik doldurucular kullanarak kurumsal iş akışı otomasyonlarının tasarlanması; karmaşık onay zincirlerindeki operasyonel darboğazların ve manuel koordinasyon yükünün ortadan kaldırılması.",
+            "Jira Assets (Insight) veri yapılarının modellenmesi, veri yönetişim kurallarının belirlenmesi ve sistem sağlığının gerçek zamanlı takibi için yönetim panellerinin oluşturulması.",
+            "Jira, GitLab, Confluence, SQL Server ve Recruitee arasındaki entegrasyon mimarisinin belirlenmesi; 6'dan fazla servis ve arka uç (Backend) API'si için n8n'in dayanıklı bir iş akışı orkestratörü olarak konumlandırılması.",
+            "Fit-gap analizlerine dayanarak platform eklentilerinin (helpdesk, süreç tasarımcısı, veri konnektörleri) kapsamının belirlenmesi, destek operasyonlarının optimize edilmesi ve ad-hoc BT destek tiketlerinin azaltılması."
           ]
         },
         {
-          "title": "Solutions Architect (Kurumsal Sistemler & P&OD)",
-          "period": "Haz 2023 – Oca 2024",
+          "title": "Kurumsal Sistemler ve Dijital Dönüşüm Mimarı",
+          "period": "Haziran 2023 – Aralık 2023",
           "points": [
-            "<b>Teşhis etti</b>: veri analiziyle <b>4+ tekrarlayan süreç başarısızlığının</b> kök kurumsal nedenlerini, herhangi sistem tasarımından önce.",
-            "<b>Dijitalleştirdi</b>: onboarding ve idari iş akışlarını tekrarlanabilir operasyonlara dönüştürdü, yeni işe alım işleme süresini <b>%40</b> azalttı ve daha sonra kurumsal platform mimarisine ölçeklenen süreç temelini oluşturdu."
+            "Herhangi bir sistem tanımı veya teknik geliştirmeden önce, veri analitiği metodolojileriyle tekrarlayan operasyonel süreç hatalarının kök nedenlerinin teşhis edilmesi.",
+            "İşe alım (Onboarding) ve idari iş akışlarının dijitalleştirilerek tekrarlanabilir operasyonlara dönüştürülmesi, işlem süreçlerinin hızlandırılması ve ileride büyüyecek kurumsal platform mimarisinin temelinin atılması."
           ]
         }
       ]
     },
     "bodyspinner": {
-      "title": "Veri & Sistem Analisti (Yarı Zamanlı)",
+      "title": "Veri ve Sistem Analisti (Yarı zamanlı)",
       "company": "Bodyspinner",
-      "location": "Tahran, İran | Kas 2022 – Eyl 2023",
+      "location": "Tahran, İran | Kasım 2022 – Eylül 2023",
       "points": [
-        "<b>Dağıttı</b>: sistem izleme için Power BI analitik panoları; manuel raporlama eforunu <b>%40</b> azalttı.",
-        "<b>Eğitti</b>: fiyat optimizasyonu için ML modelleri (CNN, MLflow); <b>1.000+ SKU</b> için kararları destekledi.",
-        "<b>Sürdürdü</b>: <b>%99 çalışma süresiyle</b> özel bilet & bilgi sistemi; SRE ilkelerini gösterdi.",
-        "<b>Denetledi</b>: Jira yapılandırmaları ve verileri; veri doğruluğunu <b>%25</b> iyileştirdi."
+        "Sistem takibi için Power BI üzerinde analitik yönetim panellerinin devreye alınması ve manuel raporlama iş yükünün %40 azaltılması.",
+        "1.000'den fazla SKU genelinde algoritmik fiyatlandırma optimizasyonu ve karar destek sistemlerini beslemek üzere Makine Öğrenmesi modellerinin (CNN, MLflow) eğitilmesi ve süreç yönetimi.",
+        "Site Güvenilirliği Mühendisliği (SRE) ilkelerini uygulayarak, özel biletleme ve bilgi takip sistemlerinin %99 kesintisiz çalışma (Up-time) oranı ile sürdürülmesi.",
+        "Jira veri mimarisi ve sistem yapılandırmalarının denetlenmesi, kurumsal veri doğruluğunun ve kalitesinin %25 oranında artırılması."
       ],
-      "companyNote": "Giyim & moda e-ticareti"
+      "companyNote": "Moda & Hazır Giyim E-ticareti"
     },
     "arsh": {
-      "title": "Dijital Dönüşüm Uzmanı",
-      "company": "Shahrzaad",
-      "location": "Tahran, İran | Ara 2021 – Ara 2022",
+      "title": "Dijital Dönüşüm ve Sistem Uzmanı",
+      "company": "Shahrzad",
+      "location": "Tahran, İran | Aralık 2021 – Aralık 2022",
       "points": [
-        "<b>Yönetti</b>: şirket geneli dijital dönüşüm; <b>çekirdek operasyonların %100'ünü</b> kağıt tabanlıdan sistematik dijital iş akışlarına taşıdı.",
-        "<b>Tanıttı</b>: <b>50+ çalışan</b> tarafından benimsenen kurumsal düzeyde görev yönetim sistemi; <b>200+ aylık görevi</b> merkezileştirdi.",
-        "<b>Yeniden tasarladı</b>: çekirdek iş süreçleri; operasyonel verimliliği <b>%25</b> artırdı ve yeni işe alım onboarding süresini <b>%20</b> azalttı.",
-        "<b>Dağıttı</b>: 6 departmanda (80+ çalışan) OKR ve KPI çerçeveleri; quarterly hedef tamamlamayı <b>%25</b> iyileştirdi."
+        "Fikir aşamasından yayına alım (Publish) sürecine kadar, Shahrzad platformunun temel ürün stratejisine ve ilk yol haritası tasarımına katkı sağlanması; operasyonel gereksinimlerin dijital ürün spesifikasyonları ile uyumlu hale getirilmesi.",
+        "Frontend, Backend, PM ve Finans ekipleri arasında işe alım, bordro ve idari süreçlerdeki manuel ve kağıt üzerindeki operasyonların dijital iş akışlarına taşınarak sistemleştirilmesi.",
+        "Rol netliği sağlamak, performans değerlendirmelerini yönetmek ve ekip hedeflerini şirket vizyonuyla hizalamak amacıyla görev tanımlarının, OKR ve KPI çerçevelerinin belirlenmesi.",
+        "Yetiştirilmek üzere geliştirici (Developer trainee) pozisyonları için teknik değerlendirmelerin tasarlanması dahil olmak üzere işe alım, oryantasyon (Onboarding/Offboarding) ve işveren markası süreçlerinin optimize edilmesi."
       ],
-      "companyNote": "Super-app · e-ticaret & yaşam tarzı hizmetleri"
+      "companyNote": "Süper Uygulama · E-ticaret ve Yaşam Tarzı Hizmetleri"
     },
     "karencrowd": {
       "title": "İş Değerlendiricisi & Yatırım Analisti",
@@ -156,7 +165,7 @@
           "AWS (VPC, EC2, S3, Lambda, IAM)",
           "GCP",
           "SRE Uygulamaları",
-          "CI/CD Boru Hatları"
+          "CI/CD Pipelines"
         ]
       },
       {
@@ -166,7 +175,7 @@
           "RAG & Vektör Veritabanları",
           "LangChain / LlamaIndex",
           "LLM Ajanları & MCP",
-          "n8n iş akışı ağı",
+          "n8n iş akışı motoru",
           "Jira (ScriptRunner, Assets)",
           "Python",
           "SQL",
@@ -193,7 +202,7 @@
     "items": [
       {
         "title": "Cloud-Native Platform Dağıtımı, Snapp!",
-        "description": "Docker ve Helm ile üretim Kubernetes'i üzerinde çok modüllü dahili platform mimarisi tasarladı ve yönetti. Katı GitHub Actions CI/CD iş akışlarıyla (build, test, deploy) <b>10+ mikro servisin</b> uçtan uca teslimatını otomatikleştirdi."
+        "description": "Docker ve Helm ile üretim Kubernetes'i üzerinde dahili servisler için cloud-native altyapı tasarladı ve yönetti. Katı GitHub Actions CI/CD iş akışlarıyla (build, test, deploy) <b>10+ mikro servisin</b> uçtan uca teslimatını otomatikleştirdi."
       },
       {
         "title": "Yapay Zeka Odaklı Otomasyon Katmanı, Snapp!",
@@ -205,19 +214,19 @@
       },
       {
         "title": "Kurumsal Entegrasyon Mimarisi",
-        "description": "Jira, GitLab, Confluence ve operasyonel SQL veritabanları arasında, <b>dayanıklı kurumsal iş akışı ağı olarak n8n</b> kullanarak 6+ backend API'yi birleştiren özel backend entegrasyonları tanımladı ve uyguladı."
+        "description": "Jira, GitLab, Confluence ve operasyonel SQL veritabanları arasında, <b>dayanıklı kurumsal iş akışı motoru olarak n8n</b> kullanarak 6+ backend API'yi birleştiren özel backend entegrasyonları tanımladı ve uyguladı."
       },
       {
         "title": "ML & Analitik, Bodyspinner",
         "description": "<b>1.000+ SKU</b> üzerinde fiyat optimizasyonu için ML modelleri (CNN, MLflow) eğitti; <b>%99 çalışma süresiyle</b> özel bilet sistemini ortak geliştirdi ve sürdürdü."
       },
       {
-        "title": "LMS & İKD Dijital Altyapı, Snapp!",
-        "description": "3+ iş biriminde bir Öğrenme Yönetim Sistemi (LMS) ve İKD dijital altyapısı tasarladı ve teslim etti; eski süreçleri uçtan uca güvenilir dijital operasyonlara dönüştürdü."
+        "title": "P&OD İş Akışı Dijitalleştirmesi, Snapp!",
+        "description": "Veri analiziyle tekrarlayan süreç başarısızlıklarını teşhis etti ve onboarding ile idari iş akışlarını tekrarlanabilir operasyonlara dijitalleştirdi; yeni işe alım işleme süresini <b>%40</b> azalttı."
       },
       {
         "title": "Sistem İş Akışı Otomasyonu, Snapp!",
-        "description": "n8n ağı üzerinden araçlar arası veri boru hatları kurdu ve ana iş akışlarını otomatikleştirdi; karar verme hızını <b>%40</b> artırdı ve süreç döngü süresini azalttı."
+        "description": "n8n iş akışı motoru üzerinden araçlar arası veri boru hatları kurdu ve ana iş akışlarını otomatikleştirdi; karar verme hızını <b>%40</b> artırdı ve süreç döngü süresini azalttı."
       },
       {
         "title": "Python Servisleri için CI/CD Boru Hattı",
@@ -353,11 +362,11 @@
       },
       {
         "label": "Hareketlilik",
-        "value": "Uluslararası fırsatlara ve küresel taşınmaya açık (Avrupa, Türkiye, Avustralya, Kuzey Amerika ve ötesi), ofiste, hibrit veya uzaktan"
+        "value": "Uluslararası fırsatlara ve küresel taşınmaya açık (Türkiye, Avustralya ve ötesi dahil), ofis, hibrit veya uzaktan roller."
       },
       {
         "label": "Çalışma uygunluğu",
-        "value": "Sponsorluğa ve uluslararası istihdam düzenlemelerine açık"
+        "value": "Vize sponsorluğu ve uluslararası istihdam anlaşmalarına açık."
       }
     ]
   }
