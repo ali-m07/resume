@@ -1,65 +1,97 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
+import Section from './components/Section';
+
+function BulletList({ points }) {
+  return (
+    <ul className="mt-2 space-y-1.5 text-[13.5px] leading-relaxed text-slate-700">
+      {points.map((point, idx) => (
+        <li key={idx} className="flex gap-2 cv-avoid-break">
+          <span className="mt-2 inline-block h-1.5 w-1.5 flex-none rounded-full bg-accent" />
+          <span dangerouslySetInnerHTML={{ __html: point }} />
+        </li>
+      ))}
+    </ul>
+  );
+}
+
+function RoleEntry({ pos }) {
+  return (
+    <div className="cv-avoid-break">
+      <div className="flex flex-wrap items-baseline justify-between gap-x-3 gap-y-1">
+        <p className="font-medium text-ink text-[15px]">{pos.title}</p>
+        <p className="font-mono text-xs text-muted">{pos.period}</p>
+      </div>
+      <BulletList points={pos.points} />
+    </div>
+  );
+}
+
+/**
+ * Unified company header: company name (large), sector description, then location/dates.
+ * Used for every company so they all render with the same structure.
+ */
+function CompanyBlock({ name, note, meta, children, first }) {
+  return (
+    <div className={`cv-avoid-break ${first ? '' : 'border-t border-line pt-4'}`}>
+      <div className="flex flex-wrap items-baseline justify-between gap-x-3 gap-y-1">
+        <div>
+          <h3 className="font-display text-lg font-semibold text-ink">{name}</h3>
+          {note && <p className="text-xs text-muted">{note}</p>}
+        </div>
+      </div>
+      {meta && <p className="text-xs text-muted mt-0.5">{meta}</p>}
+      {children}
+    </div>
+  );
+}
 
 export default function ExperienceSection() {
   const { t } = useTranslation();
 
+  const snappPositions = t('experience.snapp.positions', { returnObjects: true }) || [];
+  const snapp = {
+    name: t('experience.snapp.company'),
+    note: t('experience.snapp.companyNote'),
+    loc: t('experience.snapp.location'),
+  };
+
+  const others = ['bodyspinner', 'arsh', 'karencrowd'].map((key) => {
+    const data = t(`experience.${key}`, { returnObjects: true });
+    // location is "City, Country | Dates" -> split into place (meta) + dates (role period)
+    let place = '';
+    let dates = '';
+    if (data.location && data.location.includes('|')) {
+      const [p, d] = data.location.split('|', 1);
+      place = p.trim();
+      dates = data.location.slice(data.location.indexOf('|') + 1).trim();
+    } else {
+      dates = data.location || '';
+    }
+    return { key, data, place, dates };
+  });
+
   return (
-    <section className="p-6 max-w-4xl mx-auto bg-white rounded-2xl shadow-md mt-10">
-      <h2 className="text-2xl font-bold mb-4">{t('experience.title')}</h2>
-      <ul className="space-y-4 text-gray-700">
+    <Section id="experience" title={t('experience.title')}>
+      <div className="space-y-6">
+        {/* Snapp! — multi-position company block */}
+        <CompanyBlock name={snapp.name} note={snapp.note} meta={snapp.loc} first>
+          <div className="mt-3 space-y-4 border-s-2 border-line ps-4">
+            {snappPositions.map((pos, i) => (
+              <RoleEntry key={i} pos={pos} />
+            ))}
+          </div>
+        </CompanyBlock>
 
-        {/* Snapp! – one company block, multiple positions (LinkedIn style) */}
-        <li>
-          <h3 className="font-semibold text-lg">{t('experience.snapp.company')}</h3>
-          <p className="text-sm text-gray-500 mb-3">{t('experience.snapp.location')}</p>
-          {t('experience.snapp.positions', { returnObjects: true }).map((pos, posIdx) => (
-            <div key={posIdx} className={posIdx > 0 ? 'mt-4' : ''}>
-              <p className="font-medium text-gray-800">{pos.title}</p>
-              <p className="text-sm text-gray-500 mb-1">{pos.period}</p>
-              <ul className="list-disc ml-6 mt-1 text-justify">
-                {pos.points.map((point, idx) => (
-                  <li key={idx} dangerouslySetInnerHTML={{ __html: point }}></li>
-                ))}
-              </ul>
+        {/* Other companies — single-role blocks, same header structure as Snapp */}
+        {others.map(({ key, data, place, dates }) => (
+          <CompanyBlock key={key} name={data.company} note={data.companyNote} meta={place}>
+            <div className="mt-3 space-y-4 border-s-2 border-line ps-4">
+              <RoleEntry pos={{ title: data.title, period: dates, points: data.points }} />
             </div>
-          ))}
-        </li>
-
-        {/* Bodyspinner - People Analytics Specialist (Part-Time) */}
-        <li>
-          <h3 className="font-semibold text-lg">{t('experience.bodyspinner.title')}</h3>
-          <p className="text-sm text-gray-500">{t('experience.bodyspinner.location')}</p>
-          <ul className="list-disc ml-6 mt-1 text-justify">
-            {t('experience.bodyspinner.points', { returnObjects: true }).map((point, idx) => (
-              <li key={idx} dangerouslySetInnerHTML={{ __html: point }}></li>
-            ))}
-          </ul>
-        </li>
-
-        {/* Shahrzad - HR Digital Transformation Specialist */}
-        <li>
-          <h3 className="font-semibold text-lg">{t('experience.arsh.title')}</h3>
-          <p className="text-sm text-gray-500">{t('experience.arsh.location')}</p>
-          <ul className="list-disc ml-6 mt-1 text-justify">
-            {t('experience.arsh.points', { returnObjects: true }).map((point, idx) => (
-              <li key={idx} dangerouslySetInnerHTML={{ __html: point }}></li>
-            ))}
-          </ul>
-        </li>
-
-        {/* KarenCrowd - Business Evaluator */}
-        <li>
-          <h3 className="font-semibold text-lg">{t('experience.karencrowd.title')}</h3>
-          <p className="text-sm text-gray-500">{t('experience.karencrowd.location')}</p>
-          <ul className="list-disc ml-6 mt-1 text-justify">
-            {t('experience.karencrowd.points', { returnObjects: true }).map((point, idx) => (
-              <li key={idx} dangerouslySetInnerHTML={{ __html: point }}></li>
-            ))}
-          </ul>
-        </li>
-
-      </ul>
-    </section>
+          </CompanyBlock>
+        ))}
+      </div>
+    </Section>
   );
 }

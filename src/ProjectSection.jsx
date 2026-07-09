@@ -1,21 +1,24 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
+import Section from './components/Section';
 
 export default function ProjectSection() {
   const { t } = useTranslation();
-  const projects = t('projects.items', { returnObjects: true });
+  const projects = t('projects.items', { returnObjects: true }) || [];
 
   return (
-    <section className="p-6 max-w-4xl mx-auto bg-white rounded-2xl shadow-md mt-10">
-      <h2 className="text-2xl font-bold mb-4">{t('projects.title')}</h2>
-      <ul className="space-y-6 text-gray-700">
+    <Section id="projects" title={t('projects.title')}>
+      <ul className="space-y-4">
         {projects.map((proj, i) => (
-          <li key={i}>
-            <h3 className="font-semibold text-lg">{proj.title}</h3>
-            <p className="text-justify">{proj.description}</p>
+          <li key={i} className="cv-avoid-break border-l-2 border-accent/40 pl-3">
+            <h3 className="font-display text-sm font-semibold text-ink">{proj.title}</h3>
+            <p
+              className="mt-1 text-[13.5px] leading-relaxed text-slate-700 text-justify"
+              dangerouslySetInnerHTML={{ __html: proj.description }}
+            />
           </li>
         ))}
       </ul>
-    </section>
+    </Section>
   );
 }

@@ -1,45 +1,52 @@
 import React, { useState } from 'react';
 import './index.css';
 
-import HeaderSection from './HeaderSection';
+import Hero from './Hero';
 import AboutMeSection from './AboutMeSection';
-import ContactSection from './ContactSection';
 import ExperienceSection from './ExperienceSection';
-import AchievementsSection from './AchievementsSection';
 import SkillsSection from './SkillsSection';
 import EducationSection from './EducationSection';
 import ResearchSection from './ResearchSection';
 import PublicationsSection from './PublicationsSection';
 import ProjectSection from './ProjectSection';
 import LanguagesSection from './LanguagesSection';
-import LanguageToggleButton from './LanguageToggleButton';
 
 function App() {
   const [language, setLanguage] = useState('en');
-
-  // Check if the language is RTL
   const isRTL = language === 'fa';
 
   return (
-    <div className={`min-h-screen bg-gray-100 py-10 px-4 font-sans text-gray-800 ${isRTL ? 'rtl' : 'ltr'}`} dir={isRTL ? 'rtl' : 'ltr'}>
-      <div className="max-w-4xl mx-auto space-y-8">
-        
-        <div className={`flex justify-between items-center mb-4 ${isRTL ? 'flex-row-reverse' : ''}`}>
-          <HeaderSection />
-          <LanguageToggleButton language={language} setLanguage={setLanguage} />
-        </div>
+    <div className={`min-h-screen bg-canvas font-sans text-ink ${isRTL ? 'rtl' : 'ltr'}`} dir={isRTL ? 'rtl' : 'ltr'}>
+      {/* resume-root wraps BOTH hero and body so the header is captured in PDF exports */}
+      <div id="resume-root" className="mx-auto max-w-5xl px-4 py-6 sm:py-10 space-y-6">
+        {/* Hero: dark gradient header with controls + identity + metrics + contacts */}
+        <Hero language={language} setLanguage={setLanguage} isRTL={isRTL} />
 
-        <AboutMeSection language={language} />
-        <ContactSection language={language} />
-        <ExperienceSection language={language} />
-        <AchievementsSection language={language} />
-        <SkillsSection language={language} />
-        <EducationSection language={language} />
-        <ResearchSection language={language} />
-        <PublicationsSection language={language} />
-        <ProjectSection language={language} />
-        <LanguagesSection language={language} />
+        {/* Resume body */}
+        <main className="space-y-6">
+          <AboutMeSection />
 
+          {/* Two-column layout: main (Experience + Projects) | aside (Skills, Languages, Education, Research, Publications).
+              Print: collapses to single column (handled in index.css .cv-layout) */}
+          <div className="cv-layout grid grid-cols-1 lg:grid-cols-5 gap-6 items-start">
+            <div className="lg:col-span-3 space-y-6">
+              <ExperienceSection />
+              <ProjectSection />
+            </div>
+            <div className="lg:col-span-2 space-y-6">
+              <SkillsSection />
+              <LanguagesSection />
+              <EducationSection />
+              <ResearchSection />
+              <PublicationsSection />
+            </div>
+          </div>
+
+          {/* Footer note */}
+          <p className="text-center text-xs text-muted pt-2 pb-6 no-print">
+            Ali Mansouri · Solutions Architect · {language.toUpperCase()}
+          </p>
+        </main>
       </div>
     </div>
   );

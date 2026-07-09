@@ -1,15 +1,41 @@
-# React + Vite
+# Ali Mansouri — Solutions Architect (Résumé)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A multilingual, single-page résumé web app (React + Vite + Tailwind) plus a LaTeX source for PDF. Positions Ali as a **Solutions Architect** bridging strategic foresight (Ph.D. Futures Studies) with production cloud-native engineering and AI/LLM automation.
 
-Currently, two official plugins are available:
+**Live:** https://ali-m07.github.io/resume
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Highlights
+- **Hybrid design** — dark gradient hero (identity, headline metrics, contact, language + PDF controls) over a clean, editorial light body.
+- **5 locales** — English, Deutsch, Français, فارسی (RTL), Türkçe — all fully synced to the Solutions Architect narrative.
+- **Responsive** — 2-column layout on desktop, single column on mobile and in print.
+- **PDF export** — in-app button (via `html2pdf.js`) and a tuned `@media print` stylesheet for native Print → A4.
 
-## Expanding the ESLint configuration
+## Content model
+All copy lives in `public/locales/{en,de,fr,fa,tr}.json`. Experience bullets support inline `<b>` (rendered via `dangerouslySetInnerHTML`) to bold key metrics. Skills are organized into 4 high-signal categories: Core Architecture · Cloud-Native & DevOps · AI & Automation · Systems Thinking & Foresight.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Develop
+```bash
+npm install
+npm run dev      # http://localhost:5173/resume/
+```
 
+## Build & deploy
+```bash
+npm run build    # outputs to ./build
+npm run deploy   # publishes ./build to gh-pages
+```
+GitHub Actions (`.github/workflows`) builds and deploys to GitHub Pages on push.
 
+## LaTeX PDF
+`resume/ali-mansouri-cv.tex` is an A4, two-column LaTeX source aligned to the same content. Compile with any modern TeX distribution (pdfLaTeX/XeLaTeX).
 
+## Structure
+```
+src/
+  App.jsx                 # responsive layout (hero + 2-col body)
+  Hero.jsx                # dark gradient header
+  components/Section.jsx  # shared editorial section card
+  *Section.jsx            # one per résumé section (i18n-driven)
+public/locales/*.json     # content (5 languages)
+resume/ali-mansouri-cv.tex
+```

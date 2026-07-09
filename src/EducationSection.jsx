@@ -1,25 +1,24 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
+import Section from './components/Section';
 
 export default function EducationSection() {
   const { t } = useTranslation();
-
-  const degrees = t('education.degrees', { returnObjects: true });
+  const degrees = t('education.degrees', { returnObjects: true }) || [];
 
   return (
-    <section className="p-6 max-w-4xl mx-auto bg-white rounded-2xl shadow-md mt-10">
-      <h2 className="text-2xl font-bold mb-4">{t('education.title')}</h2>
-      <ul className="space-y-4 text-gray-700">
+    <Section id="education" title={t('education.title')}>
+      <ul className="space-y-4">
         {degrees.map((deg, i) => (
-          <li key={i}>
-            <h3 className="font-semibold text-lg">{deg.title}</h3>
-            <p className="text-sm text-gray-500">{deg.institution}</p>
+          <li key={i} className="cv-avoid-break">
+            <h3 className="font-medium text-[15px] text-ink leading-snug">{deg.title}</h3>
+            <p className="text-xs text-muted mt-0.5">{deg.institution}</p>
             {deg.description && (
-              <p className="text-sm text-gray-500 italic">{deg.description}</p>
+              <p className="text-xs text-slate-500 italic mt-0.5">{deg.description}</p>
             )}
           </li>
         ))}
       </ul>
-    </section>
+    </Section>
   );
 }

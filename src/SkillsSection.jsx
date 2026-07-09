@@ -1,31 +1,25 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
+import Section from './components/Section';
 
 export default function SkillsSection() {
   const { t } = useTranslation();
+  const groups = t('skills.groups', { returnObjects: true }) || [];
 
   return (
-    <section className="p-6 max-w-4xl mx-auto bg-white rounded-2xl shadow-md mt-10">
-      <h2 className="text-2xl font-bold mb-4">{t('skills.title')}</h2>
-      
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-gray-700">
-        <div>
-          <h3 className="font-semibold text-lg mb-1">{t('skills.technical.title')}</h3>
-          <ul className="list-disc list-inside ml-2">
-            {t('skills.technical.items', { returnObjects: true }).map((item, i) => (
-              <li key={i}>{item}</li>
-            ))}
-          </ul>
-        </div>
-        <div>
-          <h3 className="font-semibold text-lg mb-1">{t('skills.business.title')}</h3>
-          <ul className="list-disc list-inside ml-2">
-            {t('skills.business.items', { returnObjects: true }).map((item, i) => (
-              <li key={i}>{item}</li>
-            ))}
-          </ul>
-        </div>
+    <Section id="skills" title={t('skills.title')}>
+      <div className="space-y-4">
+        {groups.map((group, gi) => (
+          <div key={gi} className="cv-avoid-break">
+            <h3 className="text-xs font-semibold tracking-wide uppercase text-accent-600 mb-2">{group.title}</h3>
+            <div className="flex flex-wrap gap-1.5">
+              {group.items.map((item, i) => (
+                <span key={i} className="cv-tag">{item}</span>
+              ))}
+            </div>
+          </div>
+        ))}
       </div>
-    </section>
+    </Section>
   );
 }
