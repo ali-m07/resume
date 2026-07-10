@@ -93,8 +93,8 @@
           ]
         },
         {
-          "title": "Kurumsal Sistemler ve Dijital Dönüşüm Mimarı",
-          "period": "Haziran 2023 – Aralık 2023",
+          "title": "Çözüm Mimarı (Kurumsal Sistemler & P&OD)",
+          "period": "Haziran 2023 – Ocak 2024",
           "points": [
             "Herhangi bir sistem tanımı veya teknik geliştirmeden önce, veri analitiği metodolojileriyle tekrarlayan operasyonel süreç hatalarının kök nedenlerinin teşhis edilmesi.",
             "İşe alım (Onboarding) ve idari iş akışlarının dijitalleştirilerek tekrarlanabilir operasyonlara dönüştürülmesi, işlem süreçlerinin hızlandırılması ve ileride büyüyecek kurumsal platform mimarisinin temelinin atılması."
@@ -115,16 +115,16 @@
       "companyNote": "Moda & Hazır Giyim E-ticareti"
     },
     "arsh": {
-      "title": "Dijital Dönüşüm ve Sistem Uzmanı",
-      "company": "Shahrzad",
-      "location": "Tahran, İran | Aralık 2021 – Aralık 2022",
+      "title": "Dijital Dönüşüm Uzmanı",
+      "company": "Shahrzaad",
+      "companyNote": "Tam zamanlı · Ürün stratejisi ve ilk mimari",
+      "location": "Tahran, İran · Yerinde | Aralık 2021 – Aralık 2022",
       "points": [
         "Fikir aşamasından yayına alım (Publish) sürecine kadar, Shahrzad platformunun temel ürün stratejisine ve ilk yol haritası tasarımına katkı sağlanması; operasyonel gereksinimlerin dijital ürün spesifikasyonları ile uyumlu hale getirilmesi.",
         "Frontend, Backend, PM ve Finans ekipleri arasında işe alım, bordro ve idari süreçlerdeki manuel ve kağıt üzerindeki operasyonların dijital iş akışlarına taşınarak sistemleştirilmesi.",
         "Rol netliği sağlamak, performans değerlendirmelerini yönetmek ve ekip hedeflerini şirket vizyonuyla hizalamak amacıyla görev tanımlarının, OKR ve KPI çerçevelerinin belirlenmesi.",
         "Yetiştirilmek üzere geliştirici (Developer trainee) pozisyonları için teknik değerlendirmelerin tasarlanması dahil olmak üzere işe alım, oryantasyon (Onboarding/Offboarding) ve işveren markası süreçlerinin optimize edilmesi."
-      ],
-      "companyNote": "Süper Uygulama · E-ticaret ve Yaşam Tarzı Hizmetleri"
+      ]
     },
     "karencrowd": {
       "title": "İş Değerlendiricisi & Yatırım Analisti",

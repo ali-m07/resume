@@ -93,8 +93,8 @@
           ]
         },
         {
-          "title": "Enterprise Systems & Digital Transformation Architect",
-          "period": "Juni 2023 – Dezember 2023",
+          "title": "Solutions Architect (Organisationssysteme & P&OD)",
+          "period": "Juni 2023 – Januar 2024",
           "points": [
             "Datenbasierte Ursachenanalyse wiederkehrender operativer Prozessfehler zur strategischen Problemlösung vor der softwareseitigen Systemdefinition.",
             "Digitalisierung von Onboarding- und Admin-Workflows in reproduzierbare Prozesse, was die Bearbeitungszyklen verkürzte und das Fundament für die spätere skalierte Plattform legte."
@@ -115,16 +115,16 @@
       "companyNote": "Mode- & Bekleidungs-E-Commerce"
     },
     "arsh": {
-      "title": "Digital Transformation & Systems Specialist",
-      "company": "Shahrzad",
-      "location": "Teheran, Iran | Dezember 2021 – Dezember 2022",
+      "title": "Digital Transformation Specialist",
+      "company": "Shahrzaad",
+      "companyNote": "Vollzeit · Produktstrategie & Erstarchitektur",
+      "location": "Teheran, Iran · Vor Ort | Dezember 2021 – Dezember 2022",
       "points": [
         "Mitgestaltung der Produktstrategie und des ersten Roadmap-Designs der Shahrzad-Plattform zur Abstimmung operativer Anforderungen mit digitalen Produktspezifikationen von der Idee bis zum Launch.",
         "Systematisierung von Back-Office-Prozessen durch Migration papierbasierter Abläufe in digitale Workflows für Rekrutierung, Gehaltsabrechnung und Verwaltung zwischen Frontend-, Backend-, PM- und Finanzteams.",
         "Definition von Stellenbeschreibungen, OKR- und KPI-Frameworks zur Schaffung von Rollenklarheit, Leistungsbeurteilung und Ausrichtung der Teamziele an den Unternehmensvorgaben.",
         "Optimierung der HR-Pipelines, einschließlich Talentakquise, strukturierter Onboarding-/Offboarding-Prozesse, Employer Branding und technischer Assessments für Entwickler-Trainees."
-      ],
-      "companyNote": "Super-App · E-Commerce & Lifestyle-Dienste"
+      ]
     },
     "karencrowd": {
       "title": "Business Evaluator & Investment Analyst",
