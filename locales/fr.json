@@ -93,8 +93,8 @@
           ]
         },
         {
-          "title": "Architecte Systèmes d'Entreprise & Transformation Numérique",
-          "period": "Juin 2023 – Décembre 2023",
+          "title": "Architecte Solutions (Systèmes Organisationnels & P&OD)",
+          "period": "Juin 2023 – Janvier 2024",
           "points": [
             "Diagnostic des causes profondes des défaillances de processus opérationnels récurrents par l'analyse de données avant toute spécification ou développement technique de système.",
             "Numérisation et optimisation des flux d'intégration (onboarding) et administratifs, accélérant les cycles de traitement et posant les bases de l'architecture de la future plateforme d'entreprise."
@@ -115,16 +115,16 @@
       "companyNote": "E-commerce de mode et d'habillement"
     },
     "arsh": {
-      "title": "Spécialiste Transformation Numérique & Systèmes",
-      "company": "Shahrzad",
-      "location": "Téhéran, Iran | Décembre 2021 – Décembre 2022",
+      "title": "Spécialiste Transformation Numérique",
+      "company": "Shahrzaad",
+      "companyNote": "Temps plein · Stratégie produit & architecture initiale",
+      "location": "Téhéran, Iran · Sur site | Décembre 2021 – Décembre 2022",
       "points": [
         "Contribution à la stratégie produit globale et à la conception de la feuille de route initiale de la plateforme Shahrzad, alignant les besoins opérationnels avec les spécifications techniques de l'idéation au lancement.",
         "Systématisation des opérations de back-office en migrant les processus papier manuels vers des flux digitaux pour le recrutement, la paie et l'administration entre les équipes Frontend, Backend, PM et Finance.",
         "Définition des fiches de poste et des frameworks OKR et KPI pour garantir la clarté des rôles, l'évaluation des performances et l'alignement des objectifs d'équipe avec la stratégie globale.",
         "Optimisation des processus RH de bout en bout, y compris l'acquisition de talents, les parcours d'onboarding/offboarding, la marque employeur et la conception d'évaluations techniques pour les développeurs stagiaires."
-      ],
-      "companyNote": "Super-App · E-commerce & Services de style de vie"
+      ]
     },
     "karencrowd": {
       "title": "Évaluateur d'Entreprise & Analyste en Investissement",

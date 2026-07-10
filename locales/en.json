@@ -93,8 +93,8 @@
           ]
         },
         {
-          "title": "Enterprise Systems & Digital Transformation Architect",
-          "period": "June 2023 – December 2023",
+          "title": "Solutions Architect (Organizational Systems & P&OD)",
+          "period": "June 2023 – January 2024",
           "points": [
             "Diagnosed root causes behind critical repeating operational process failures using data analytics and systemic modeling before defining software specifications.",
             "Digitalized onboarding and administrative workflows into highly reproducible operations, accelerating processing cycles and building the foundational framework for the scaled enterprise platform."
@@ -115,16 +115,16 @@
       "companyNote": "Fashion & Apparel E-commerce"
     },
     "arsh": {
-      "title": "Digital Transformation & Systems Specialist",
-      "company": "Shahrzad",
-      "location": "Tehran, Iran | December 2021 – December 2022",
+      "title": "Digital Transformation Specialist",
+      "company": "Shahrzaad",
+      "companyNote": "شهرزاد · Full-time · Product Strategy & Initial Architecture",
+      "location": "Tehran, Iran · On-site | December 2021 – December 2022",
       "points": [
-        "Contributed to the foundational product strategy and initial roadmap design of the Shahrzad platform, aligning operational requirements with digital product specifications from ideation to final launch.",
+        "Contributed to the foundational product strategy and initial roadmap design of the Shahrzaad platform, aligning operational requirements with digital product specifications from ideation to final launch.",
         "Systematized core back-office operations by migrating manual paper-based processes into structured digital workflows for recruitment, payroll, and administration across Frontend, Backend, PM, and Finance teams.",
         "Defined job descriptions, OKR, and KPI frameworks to ensure role clarity, manage performance evaluation, and align core team milestones with overall business objectives.",
         "Optimized end-to-end HR pipelines, including talent acquisition, structured onboarding/offboarding, employer branding, and technical assessment design for developer trainee positions."
-      ],
-      "companyNote": "Super-App · E-commerce & Lifestyle Services"
+      ]
     },
     "karencrowd": {
       "title": "Business Evaluator & Investment Analyst",
