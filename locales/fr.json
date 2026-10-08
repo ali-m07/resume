@@ -274,20 +274,17 @@
       "title": "Articles de Revue",
       "items": [
         {
-          "title": "Anticipation des opportunités entrepreneuriales en RH en Iran fondée sur les tendances technologiques",
-          "doi": "https://jtdm.irost.ir/article_1380.html?lang=en"
-        },
-        {
           "title": "Expert vs. Novice : comment l'expérience influence l'évaluation des startups",
+          "doi": "https://www.tandfonline.com/doi/full/10.1080/13691066.2026.2738547",
           "status": "Révision finale"
-        },
-        {
-          "title": "L'impact de la méritocratie perçue et du népotisme sur le turnover des employés",
-          "status": "Sous évaluation par les pairs"
         },
         {
           "title": "Défis de la collaboration entre accélérateurs et startups numériques",
           "doi": "https://innoeco.usb.ac.ir/article_8933.html?lang=en"
+        },
+        {
+          "title": "Anticipation des opportunités entrepreneuriales en RH en Iran fondée sur les tendances technologiques",
+          "doi": "https://jtdm.irost.ir/article_1380.html?lang=en"
         }
       ]
     },

@@ -274,20 +274,17 @@
       "title": "Journal Articles",
       "items": [
         {
-          "title": "Foresight of Entrepreneurial Opportunities in HR in Iran Based on Technology Trends",
-          "doi": "https://jtdm.irost.ir/article_1380.html?lang=en"
-        },
-        {
           "title": "Expert vs. Novice: How Experience Influences Startup Evaluation",
+          "doi": "https://www.tandfonline.com/doi/full/10.1080/13691066.2026.2738547",
           "status": "Final revision"
-        },
-        {
-          "title": "The Impact of Perceived Meritocracy and Nepotism on Employee Turnover",
-          "status": "Under peer review"
         },
         {
           "title": "Challenges in Collaboration Between Accelerators and Digital Startups",
           "doi": "https://innoeco.usb.ac.ir/article_8933.html?lang=en"
+        },
+        {
+          "title": "Foresight of Entrepreneurial Opportunities in HR in Iran Based on Technology Trends",
+          "doi": "https://jtdm.irost.ir/article_1380.html?lang=en"
         }
       ]
     },
