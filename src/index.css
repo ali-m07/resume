@@ -292,6 +292,10 @@ body.pdf-exporting .cv-layout > :last-child {
   grid-column: span 2 / span 2 !important;
 }
 body.pdf-exporting #resume-root {
+  width: 1024px !important;
+  min-width: 1024px !important;
+  max-width: 1024px !important;
+  margin-inline: auto !important;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   padding-top: 1.25rem !important;
@@ -380,6 +384,15 @@ body.pdf-exporting .rtl .cv-subsection-title {
     background: #ffffff !important;
     -webkit-print-color-adjust: exact;
     print-color-adjust: exact;
+  }
+
+  #resume-root {
+    box-sizing: border-box !important;
+    width: 186mm !important;
+    min-width: 186mm !important;
+    max-width: 186mm !important;
+    margin: 0 auto !important;
+    padding: 0 !important;
   }
 
   .print-hero {

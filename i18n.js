@@ -12,7 +12,7 @@ i18n
     fallbackLng: 'en',
     supportedLngs: ['en','de','tr','fr','fa'],
     backend: {
-      loadPath: `${import.meta.env.BASE_URL}locales/{{lng}}.json`
+      loadPath: `${import.meta.env.BASE_URL}locales/{{lng}}.json?v=20261008b`
     },
     interpolation: { escapeValue: false }
   });

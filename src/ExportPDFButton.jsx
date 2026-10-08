@@ -29,6 +29,9 @@ async function ensureVazirmatnLoaded() {
   }
 }
 
+// A stable desktop canvas keeps A4 exports identical on phones, tablets, and desktops.
+const PDF_RENDER_WIDTH_PX = 1024;
+
 /**
  * PDF export — organic pagination driven by global CSS layout classes.
  * Works identically for EN, DE, FR, FA, TR (any text length / RTL).
@@ -103,8 +106,8 @@ export default function ExportPDFButton({ className = '', variant = 'hero' }) {
         scale,
         useCORS: true,
         backgroundColor: '#ffffff',
-        windowWidth: el.scrollWidth,
-        width: el.scrollWidth,
+        windowWidth: PDF_RENDER_WIDTH_PX,
+        width: PDF_RENDER_WIDTH_PX,
         height: el.scrollHeight,
         scrollX: 0,
         scrollY: -window.scrollY,
@@ -113,6 +116,9 @@ export default function ExportPDFButton({ className = '', variant = 'hero' }) {
           const clonedRoot = clonedDoc.getElementById('resume-root');
           if (!clonedRoot) return;
           clonedDoc.body.classList.add('pdf-exporting');
+          clonedRoot.style.width = `${PDF_RENDER_WIDTH_PX}px`;
+          clonedRoot.style.minWidth = `${PDF_RENDER_WIDTH_PX}px`;
+          clonedRoot.style.maxWidth = `${PDF_RENDER_WIDTH_PX}px`;
           if (rtl) {
             clonedRoot.classList.add('rtl', 'fa-section');
             clonedRoot.setAttribute('dir', 'rtl');
