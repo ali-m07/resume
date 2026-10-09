@@ -274,20 +274,16 @@
       "title": "Zeitschriftenartikel",
       "items": [
         {
-          "title": "Vorausschau unternehmerischer Möglichkeiten im Personalwesen im Iran auf Basis von Technologietrends",
-          "doi": "https://jtdm.irost.ir/article_1380.html?lang=en"
-        },
-        {
           "title": "Experte vs. Anfänger: Wie Erfahrung die Startup-Bewertung beeinflusst",
-          "status": "Finale Überarbeitung"
-        },
-        {
-          "title": "Der Einfluss wahrgenommener Meritokratie und Nepotismus auf die Mitarbeiterfluktuation",
-          "status": "Im Peer Review"
+          "doi": "https://www.tandfonline.com/doi/full/10.1080/13691066.2026.2738547"
         },
         {
           "title": "Herausforderungen der Zusammenarbeit zwischen Acceleratoren und digitalen Startups",
           "doi": "https://innoeco.usb.ac.ir/article_8933.html?lang=en"
+        },
+        {
+          "title": "Vorausschau unternehmerischer Möglichkeiten im Personalwesen im Iran auf Basis von Technologietrends",
+          "doi": "https://jtdm.irost.ir/article_1380.html?lang=en"
         }
       ]
     },

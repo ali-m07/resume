@@ -274,20 +274,16 @@
       "title": "Dergi Makaleleri",
       "items": [
         {
-          "title": "Teknoloji Trendlerine Dayalı İran'da İKD'de Girişimcilik Fırsatlarının Öngörüsü",
-          "doi": "https://jtdm.irost.ir/article_1380.html?lang=en"
-        },
-        {
           "title": "Uzman vs. Acemi: Deneyim Startup Değerlendirmesini Nasıl Etkiler",
-          "status": "Son revizyon"
-        },
-        {
-          "title": "Algılanan Liyakatçılık ve Nepotizmin Çalışan Devir Oranına Etkisi",
-          "status": "Hakem değerlendirmesinde"
+          "doi": "https://www.tandfonline.com/doi/full/10.1080/13691066.2026.2738547"
         },
         {
           "title": "Hızlandırıcılar ile Dijital Startup'lar Arasında İşbirliği Zorlukları",
           "doi": "https://innoeco.usb.ac.ir/article_8933.html?lang=en"
+        },
+        {
+          "title": "Teknoloji Trendlerine Dayalı İran'da İKD'de Girişimcilik Fırsatlarının Öngörüsü",
+          "doi": "https://jtdm.irost.ir/article_1380.html?lang=en"
         }
       ]
     },
