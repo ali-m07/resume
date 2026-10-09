@@ -14,7 +14,7 @@ i18n
     fallbackLng: 'en',
     supportedLngs: SUPPORTED_LANG_CODES,
     backend: {
-      loadPath: `${import.meta.env.BASE_URL}locales/{{lng}}.json?v=20261008c`
+      loadPath: `${import.meta.env.BASE_URL}locales/{{lng}}.json?v=20261009d`
     },
     interpolation: { escapeValue: false }
   });
